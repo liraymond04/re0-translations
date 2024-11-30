@@ -1,0 +1,42 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+长月	Nagatsuki
+长月达平	Nagatsuki Tappei
+昴	Subaru
+菜月昴	Natsuki Subaru
+艾米莉娅	Emilia
+艾米莉	Emily
+贝蒂	Betty
+罗兹瓦尔	Roswaal
+罗茲瓦尔	Roswaal
+达德利	Dudley
+拉姆	Ram
+碧翠丝	Beatrice
+加菲尔	Garfiel
+加菲	Garf
+芙蕾德莉卡	Frederica
+奥托	Otto
+佩特拉	Petra
+帕特拉修	Patrasche
+王选	Royal Selection
+王选候补者	Royal Selection candidate
+亚人战争	Demi-human War
+亚人	Demi-human
+半妖精	half-elf
+半魔	half-devil
+嫉妒的魔女	Witch of Envy
+露格尼卡王国	Kingdom of Lugunica
+露格尼卡	Lugunica
+佛拉基亚帝国	Vollachian Empire
+佛拉基亚	Vollachia
+竜車	dragon carriage
+竜车	dragon carriage
+地竜	ground dragon
+玛娜	mana
+穆吉卡	Musica
+穆基卡	Musica
+土鼠人	Mole-people
+土鼠族	Mole-people tribe
+常闇	Eternal Darkness	This is the translation for the cave used by Eminent in his EN translation
+爱丽丝	Iris
+荆棘之王	King of Thorns
+爱丽丝与荆棘之王	Iris and the King of Thorns

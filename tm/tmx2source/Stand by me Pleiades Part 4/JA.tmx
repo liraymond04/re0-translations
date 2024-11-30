@@ -1,0 +1,5700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="zh-CN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>Stand by me Pleiades Part 4</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>『Stand by me Pleiades 4話』</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>翻译：Tom111335</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>校对：Tom111335，Garcer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>润色：Tom111335</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>图源：Ice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>本篇为Comic Alive短篇，发布于2022年9月27日，内容主要为艾米莉娅阵营与土鼠人的对峙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>情节反转连连，十分精彩（如果无视后期逆天转折的话）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>阅读本篇前建议先阅读本系列前面的短篇，了解背景，这个系列故事发生在文库第25卷后（昴被传送到佛拉基亚帝国，而本系列讲述的就是艾米莉娅阵营前去帝国找他的故事），前面的短篇都可以在本文集目录里找到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>本文仅供学习交流使用，禁作商业用途。转载须经译者授权并标明出处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>1</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──被称为『常闇』的大空洞是从露格尼卡王国进入佛拉基亚帝国的非正规入境手段。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──ルグニカ王国からヴォラキア帝国へ、非正規に入国するための手段である『常闇』と呼ばれる大空洞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>它是过去被佛拉基亚帝国追杀的土鼠人挖掘的一个高大的洞穴，被佩特拉一行用来追踪被传送到帝国的昴等人的去向。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>かつて、帝国を追われた土鼠人が掘り進めたとされる長大な洞穴を使い、ペトラたち一行は帝国に飛ばされたスバルたちの行方を追うつもりだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>为了避免惹人注意，她们伪造了身份偷渡入境。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>人目を忍び、身分を偽って臨んだ密入国だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>当然，他们一点也不期待这会是一次舒适的旅程，但是──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>もちろん、快適な旅になるなんて欠片も期待していなかったが──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“......我没想到会有这么不方便。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「......こういう不便は、あんまり考えてなかったなぁ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“在这种情况下你还能说出这种话，你真的是非常有胆量的小姐呢。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「この状況でそんな一言が出ますかい。こりゃ本気で、大した度胸ですぜ、お嬢さん」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉未经思考说出了这句话，而听到的土鼠人──穆吉卡低声笑了起来。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>思わずこぼしたペトラの一言に、それを聞きつけた土鼠人──ムジカが低く笑う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>他沉闷的笑声让佩特拉很不爽。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのこもった声の響きに、ペトラは渋い顔になった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>竜車被陷进陷阱，侧翻在地。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>落とし穴に落とされ、横向きにひっくり返ってしまった竜車。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>幸运的是，佩特拉没有撞到头，也没有感觉到任何疼痛。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>幸い、ペトラは頭をぶつけたり、どこかを痛めたような感覚はない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这都归功于在她身边紧紧拥抱她的艾米莉娅。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それもこれも、すぐ隣でペトラを抱きしめてくれたエミリアのおかげだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我们的小......帕特拉修怎么样了？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「うちの子……パトラッシュちゃんは?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>啊，是说漂亮的地竜吗。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ああ、 別嬪な地竜ですか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>虽然被吓到了，但我已经把地面弄得很软了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>驚かせはしましたが、土は柔らかくしときましたんでね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>脏是脏了点，但不会让它受伤的。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>汚れても怪我はさせちゃいませんよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>就仿佛在肯定穆吉卡的回答，竜車外传来了帕特拉修的叫声。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのムジカの答えを肯定するように、竜車の外でパトラッシュの鳴き声が聞こえた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>虽然与奥托不同，没有与地竜对话的手段，但是从声音的调子中并没有感受到紧急感。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>オットーと違って地竜と話す手段はなくても、声の調子に緊急性は感じられなかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那只聪明的地竜不会做出掩饰伤势的举动，这点是可以信任的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>あの賢い地竜なら、負傷を隠すような真似をしないという信頼もできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>从长远来看，隐藏伤势只会为带回昴他们带来不利。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>長期的に見たら、スバルたちを取り戻す上で傷を隠すのは不利益しかないのだから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“帕特拉修没事真是太好了......不过。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「パトラッシュちゃんが平気でよかった......でも」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>尽管想找到一些积极的方面，但似乎只有这一点可以开心。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>いいところ探しをしようにも、喜べることはそれぐらいしかなさそうだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>看来这次掉到『常闇』的深处，是本应为向导的穆吉卡他们的策略，而且她们与跑在后面的另一辆竜車分开了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>この『常闇』の奥底に落とされたのは、案内役だったはずのムジカたちの策略だったようだし、後ろを走っていたもう一台の竜車とは分断されてしまった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>由于这个洞穴是土鼠族的居所，他们占据了地利。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>この洞穴はムジカたち土鼠人の住まいだから、地の利は彼らにあるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>而且最重要的问题是──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そして何より、一番の問題は──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──我想我是不是听到了与王国的交涉一词？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──王国との交渉と、そう聞こえた気がしたのだが?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>一抹静静地，压抑情感的声音在黑暗中回响，佩特拉将目光转向那个方向。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>静かに、感情を抑えた声が暗闇に響いて、ペトラはそちらの方に目を向ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在同一辆竜车的车厢内，跪在角度改变的墙边的，是一个模糊的桃红色修长身影──罗兹瓦尔。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>同じ竜車の車内、天地の角度が変わった壁に膝をついているのは、ペトラの目にぼんやりと桃色に浮かび上がる長身の影──ロズワールだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉曾在黑暗中感受周围的玛娜进行过修炼。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>暗闇の中、ペトラは周囲のマナを感じ取る修練の最中だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>由于它残留的影响，她看到的人影在黑暗中显现为桃红色的光芒。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その影響が残っているため、ペトラには暗がりに浮かぶ人の姿が桃色の光に見えるのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在那辆竜车的车厢里，除了佩特拉，还有艾米莉娅、罗兹瓦尔和另外一个人──那个最后仍在沉睡中的少女，正躺在跪着的罗兹瓦尔的胳膊中。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その竜車の車内、ペトラ以外にいたのはエミリアとロズワールともう一人──最後の眠り続ける少女は、膝をつくロズワールの腕の中にいるのがわかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>她在那次坠落中得到了妥善保护，这让佩特拉感到宽慰。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>あの落下の衝撃からちゃんと守られていて、そのことにホッと安心する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>当然，醒来的少女碧翠丝肯定会板着脸。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>もっとも、目を覚ました少女ベアトリスはさぞふくれっ面をするだろうけれど。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>总之──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ともあれ──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“也许是我们听错了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「私たちの聞き間違えかな?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>还~有……”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それとーぉも......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“你没听错。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「聞き間違いなんかじゃありませんぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我们已经把大小姐们作为人质了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>あたしらはお嬢さん方を人質に取った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>你们可是出身名门贵族啊？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>いいとこのお貴族様でしょう?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>如果是这样，王国应该会倾听我们的话。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でしたら、王国も耳を貸す気になるはずだ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“哦，你们要向王国报告我们的事情吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「お、王国に、わたしたちの話をするんですか?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“是的，没错。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ええ、そうですぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>……啊，你们担心偷渡入境的事情会泄露吗？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>……ああ、密入国の件が漏れることがご心配で?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那只能让他们认为你们运气不好。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それに関しちゃ運がなかったと思ってもらうしかないですな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在这个时机，贵族大人们居然恰好经过了我们的居所。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>この時機に、わざわざお貴族様があたしらの住処を通ったんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>真是一种天命吧。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>一種の、天命ってやつじゃありませんかい」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉动摇的声音让穆吉卡误解了意图。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラの動揺した声に、ムジカはこちらの意図を量り違えた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>不过，那并不意味着他观察力就很差。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、それで彼の察しが悪いことにはならないだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉她们对他冒充了身份。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラたちは彼らに身分を偽っている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡并不知道他们的真实身份。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカはこちらの正体を知らないのだから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但是，即使穆吉卡他们的认知与事实不符，对佩特拉他们──更进一步，对于艾米莉娅阵营来说，这是非常不利的情况也是事实。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ただ、ムジカたちの認識が事実とズレていても、ペトラたち──ひいては、エミリア陣営にとってとても都合の悪い状況なのは事実だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“...... 艾米莉娅姐姐大人的偷渡入境会被发现。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「...... エミリア姉様の密入国がバレちゃう」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这个事实被帝国发现会很不方便，被王国发现更是非常不方便。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それは帝国にバレるのも都合が悪いが、王国にバレるのも十分都合が悪い事実だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>王选候补者率先从事非法行为，一旦曝光，对王选会产生严重的负面影响是毫无疑问的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>王選候補者が率先して違法行為をしようとしているのだから、これがバレれば王選に大きな悪影響が出るのは間違いない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在帝国被揭露引发战争也是问题没错，但如果在王国被揭露，那肯定无法离开国境了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>帝国でバレて戦争になるのも問題だが、王国でバレたらきっと国外に出られなくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这是佩特拉她们不管怎样都必须避免的展开。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それだけは、何としてもベトラたちが避けなくてはならない展開だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“这毕竟是偷渡入境。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「してるのは密入国だもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>即使有人告发这件事，我们也没有生气的资格……但是，这么做我们会非~常的困扰。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのことを告げ口されても、怒る資格なんて私たちにはないけど……でも、それをされたらすごーく困るわ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我对小姐你们并没有恶意。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「お嬢さん方に恨みはない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>所以，对于你的妹妹我也很心痛。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ですんで、そちらの妹御のことは胸が痛いですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但即便如此，我还是希望你们能听从我们。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ただ、それでもあたしらに従ってもらいます」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“一定要这样？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「どうしても?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“是的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ええ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>再次说一遍，在这里和我们对立是不明智的。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>もう一度言いますが、ここであたしたちと事を構えるのは賢くない」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅支撑着佩特拉的肩膀，黑暗中美貌丝毫不减，凛然说道。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラの肩を支えながら、暗闇でも美貌の衰えないエミリアが凜と唱える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，穆吉卡对此的回答让本已寒冷的『常闇』空气更加寒冷。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>だが、それに対するムジカの答えは、ただでさえ冷えた『常闇』の空気をさらに冷たくした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这种情况里的空气确实不是比喻，而是真的在变得寒冷。——这是艾米莉娅要做出意外冲动的决断的那个瞬间即将到来的证明。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>この場合、空気が冷えているのは比喩ではなく、本当に冷え込んでいっている。──意外と短気なエミリアの決断、その瞬間の訪れが迫っている証だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>就连同席的罗兹瓦尔也没有劝阻艾米莉娅的意思。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そして、同席するロズワールにも、そのエミリアを諌める素振りは見られない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>早先，佩特拉认为『常闇』的地形对穆吉卡他们有优势。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>さっき、ペトラは『常闇』の地の利はムジカたちにあると考えた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但另一方面，她也相信。——地势优势无法掩盖实力的差距。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、一方でこうも思っている。──地の利では覆せない実力差もある、と。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>即使假设佩特拉做好了万全的准备进行挑战，也不是罗兹瓦尔魔法上的对手。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>仮にペトラが万全の準備を整えて挑んでも、ロズワール相手に魔法では敵わない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>与此相同，穆吉卡他们也挑衅了不该挑衅的对手。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それと同じように、ムジカたちも挑んではいけない相手に挑んでしまったのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「────」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在陷阱的头顶，被隔在后面的竜车也应该被土鼠人包围了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>落とし穴の頭上、後ろで分断された竜車も土鼠人に囲まれているだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，那辆竜车上还留着加菲尔。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>しかし、そちらの竜車にはガーフィールが残っているのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>当然，佩特拉觉得芙蕾德莉卡、拉姆，还有机智的奥托也都是非凡才能的持有者，所以没必要担心那辆竜车的情况。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>もちろん、フレデリカとラム、それに機転で言えばオットーも非凡な才能の持ち主で、あちらの竜車の心配もほとんどいらないとペトラは考える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>起初，她们对于突然的陷阱感到惊讶和混乱。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>最初、いきなりの落とし穴には驚きと混乱があったものの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“虽然对穆吉卡他们来说很可怜......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ムジカさんたちには可哀想だけど......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──但前提条件是，佩特拉她们必须确保到达帝国。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──前提として、ベトラたちは必ず帝国に辿り着かなくてはいけない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>因此，这次偷渡入境绝对不能被王国或帝国察觉。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのために、この密入国は王国にも帝国にもバレてもらっては困る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那么，无论穆吉卡他们有什么想法，他们的计划只能受阻。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ならば、ムジカたちの思惑がなんだろうと、その目的は挫かれるしかないのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“达德利。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ダドリー」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅纤细的嘴唇喊出了抱着碧翠丝的罗兹瓦尔所用的假名。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアの薄い唇が、ベアトリスを抱えるロズワールの偽名を呼んだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>面对这信号所带的意图，罗兹瓦尔的没有回答本身就是赞同的回应。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それだけの合図の意図を汲んで、ロズワールが返事しないことを了承の返事にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>再等待几秒钟，两人的实力就会改变整个局势。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのまま数秒待てば、二人の実行力が状況を一変させたはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“等一下。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「待った」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，穆吉卡立即察觉到了那股空气中危险的变化。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、その空気の物騒な変化にはムジカも即座に気付いた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>他在暗处牵制着提升斗志的艾米莉娅等人。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>彼は暗がりの中、気力を高めつつあるエミリアたちを牽制しながら、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我们可以破坏这个『常闇』。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「あたしらはこの『常闇』を崩すこともできるんですぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我们能够活下来，而你们不行。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>あたしらは生き残れてもそちらは無理だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>如果小姐你明白的话，就请阻止你身边的两人......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>お嬢さんも、わかったらお連れの二人を止めて......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我相信这两人......相信艾米莉。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「わたしは二人を......エミリーを信じてますから」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“你给了个很有气量的回答......但我们也已经开始行动了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「肝の据わった答えをなさる......ですが、あたしらも一度動いたんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>现在后退是不可能的。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>今さら引けやしねえんですよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>面对拒绝要求的佩特拉，穆吉卡咬紧牙关，用尽力气表达了自己的觉悟。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>要求を突っぱねるペトラに歯を軋り、 ムジカが絞り出すように覚悟を語った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这种交流本身就代表双方承认互相没有交涉的余地。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのやり取り自体は、お互いに交渉の余地がないことを認め合ったものだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，穆吉卡的觉悟中根源的部分引起了佩特拉的兴趣。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>しかし、ムジカの覚悟、その根っこの部分にはペトラの興味が引かれた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡他们的行动大大动摇了佩特拉等人的目标。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカたちの行動は、ペトラたちの目的を大きく揺るがした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，以贵族作为人质与王国进行谈判对他们来说已经不能用铤而走险来概括。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>だが、貴族を人質にして王国と交渉するなんて、彼らにとっても危ない橋どころの話ではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>究竟他们是为了什么结果而寻求谈判呢？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そこまでして、いったい彼らはどんな成果を話し合いに求めていたのか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“你们要以我们作为人质，与王国谈论什么事情呢？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「わたしたちを人質にして、王国と何を話すつもりだったんですか?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我有什么向小姐你们解释的理由......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「それをお嬢さん方に話す理由は……」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“艾米莉。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「エミリー」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“欸欸！”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ええ!」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“等一下等一下！</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「待った待った!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>真是个危险的小姐，真是的......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>物騒なお嬢さんだ、まったく......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>对于差点放开艾米莉娅缰绳的佩特拉，慌乱的穆基卡认命般地叹了口气。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアの手綱を放しかけたペトラに、慌てたムジカが観念したように嘆息する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然后，他默默地屈服于佩特拉让他继续讲下去的无声压力。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのまま彼は、無言で先を促すペトラに根負けしたように、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“王位的选拔战，小姐你们也听说过了吧？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「王位の選抜戦、それについてはお嬢さん方も聞き及んでいるでしょう?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──嗯”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──ぇ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>与叹息同时吐出的内容，使佩特拉旁边的艾米莉娅屏住了呼吸。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ため息と共に吐き出された内容に、ペトラの傍らのエミリアが息を詰めた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>当然，佩特拉也感到惊讶。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>当然、驚いたのはペトラもだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>没想到，王选的话题会在这种时候跑出来。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>まさか、この流れで王選の話題が飛び出すなんて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这简直像是故意针对她们的话题。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>まるで狙いすましたみたいな話題だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但从穆吉卡他们的样子来看，很难相信他们注意到了艾米莉娅和罗兹瓦尔的真实身份──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカたちの様子からして、エミリアとロズワールの正体に気付いているとは思えないが──。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“如果他们已经注意到了的话……”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「もしも気付かれていたなら……」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>罗兹瓦尔降低声调，用一种没有恶作剧气息的语气低声嘀咕着。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>と、ロズワールが声の調子を落として、悪ふざけの響きがない声で呟いている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>虽然穆吉卡出乎意料地走在了危险的钢丝上，但他没有注意到罗兹瓦尔危险的天平正在倾斜，继续说了下去。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>思いがけず、危うい綱渡りをしているムジカだったが、彼はロズワールの危険な秤が傾きつつあることに気付かず、話を続けた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“这是动摇国家的大事。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「国を揺るがす一大事だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>小姐你们支持哪位候选人吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>お嬢さんは、贔屓の候補者なんかいらっしゃるんで?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“唔，不太确定。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「えっと、どうでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>还在评估中。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>まだ見極めの最中というか」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“真是谨慎聪明的回答，在好的意味上。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「実に慎重で賢しいお答えだ、いい意味で。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>当然，我们也在关注着王选──但是，是在不好的意味上。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>もちろん、あたしらも王選には注目してますよ。──ただし、悪い意味で」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“不好的、意味？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「悪い、意味?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉歪着头，而穆吉卡则微微点头 “是的”。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラが首を傾げると、ムジカが「ええ」と頷く気配があった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“别说得太复杂。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「あんまり難しい言い方をしないで。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我们会不知道你想表达什么。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>何が言いたいのかがわからなくなっちゃう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>······…… 你对王选是有些想法吧？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>······ あなたは王選に、思ってることがあるのよね?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅对穆吉卡的回答感到不耐烦，向前动了下身子，追问道。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのムジカの返答をもどかしげに、エミリアが身じろぎしてそう問い質す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>她的问题让穆吉卡停了一拍，沉默了一会，然后继续道。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その問いかけにムジカは一拍、沈黙を作ってから続けた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那就是──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それは──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我们想和王国谈判的是，那个王选的候选人──那个叫艾米莉娅的半妖精候选人的退出。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「あたしらが王国に掛け合いたいのは、その王選の候補者──ハーフエルフの、エミリアって候補者の辞退ですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>因此，希望小姐们能成为我们的人质。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのために、お嬢さん方に人質になってもらいたい」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这是一个真正对艾米莉娅阵营带着非常不利的目的的告白。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>と、本当にエミリア陣営にとって都合の悪い目的の告白だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“艾米莉娅的，退出。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「エミリアの、辞退」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>听到那轻声呢喃，佩特拉被强烈的后悔所侵袭。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ぽつりと、そう呟かれる声を聞いて、 ペトラは激しい後悔に襲われた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>她不应该纯粹出于好奇心倾听穆吉卡的话。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>興味本位でムジカの話に耳を傾けるべきではなかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>正因为没有那么做，才导致艾米莉娅不经意间受伤。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それをしなかったせいで、エミリアが不用意に傷付く結果になってしまった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那是什么意思？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>どういうことなんですか」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>后悔之余，佩特拉判断要引出穆吉卡的真实意图。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そう後悔してすぐ、ペトラはムジカの真意を引っ張り出そうと判断した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>详细探究他的言论有进一步伤害艾米莉娅的可能性。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その言い分を詳しく語らせることで、余計にエミリアが傷付く可能性はある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但是，那支矛已经刺入艾米莉娅的胸膛。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、すでに放たれた矛はエミリアの胸を突いてしまった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>所以她必须了解那支矛是否涂有毒药，又被施加了多大的力量。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>なら、その矛に毒が塗られていたり、どのぐらい力が入れられていたのかを知らなくては。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>如果不知道伤口有多深，就无法知道治疗的方法。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>傷の深さがわからなくては、手当ての仕方もわからないから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“正如穆吉卡所说，王选对王国来说非常重要。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「王選は王国にとって、とっても大事なことだってムジカさんも言ったじゃないですか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，这些规则并不会轻易改变。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それなのに、その決まり事が簡単に変わったりしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>就算我们成为人质……”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そんなの、わたしたちを人質にしたって……」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“小姐你们的生命并不能动摇国家。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「お嬢さん方の命ぐらいじゃ国は揺るがない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>你是想这样说吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そう言いたいわけですかい」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“......是的。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「......そうです」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉向着内心诉求，尽量注意让回答保持冷静。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>冷静な受け答えを心掛けるように、ペトラは自分の胸の内に訴えかける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>她的论述是有道理的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>理屈の通った話ができている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>不仅是佩特拉，穆吉卡的回答也是如此。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それはペトラもだが、 ムジカの答えもそうだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>他的回答没有杂质，也没有不讲理地迫使佩特拉闭嘴。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>彼の答えには澱みがなくて、ペトラを無理やり黙らせようともしてこない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>他们不屈服于艾米莉娅一方的气势，已经做好了觉悟。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアたちの気迫に屈さなかったのも、すでに覚悟が決まっているからなのだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>正因如此，这个行为充满了疑问。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>だからこそ、この行為は疑問点だらけだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“就立场而言，我想我们是富裕一方的人。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「立場だけなら、わたしたちは裕福な側の人間だと思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但如果只从整体来看的话，我想身处王国中心的人们有不同意见。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、それは全体で見たらの話で、王国の真ん中にいる人たちの意見は違うと思うから」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“这种行为毫无意义。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「こんな真似をしても意味なんてない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>所以，小姐你们是想说服我们吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そう、お嬢さん方はあたしらを説得なさると?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“如果你们能被说服的话。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「説得されてくれるんなら」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>听到佩特拉的回答，穆吉卡发出了微弱的苦笑声。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラの答えを聞いて、ムジカが微かに苦笑するのが聞こえた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>通过他的反应和对话，佩特拉感觉穆吉卡并不是一个思维短路的人。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その反応とやり取りから、ペトラはムジカが短絡的な人ではないと感じ取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但如果是这样，就更加无法理解他实行这样荒谬计划的理由。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、それならなおさら、こんな風に無茶な計画を実行する理由がわからない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>至少从表面上的情报来看，仅凭她们的存在是无法成为让艾米莉娅放弃参加王选的决定性因素。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>少なくとも、表面上の情報だけなら、ペトラたちの存在はエミリアの王選参加を取りやめさせる決定打にはならないのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>实际上，不是决定性因素的话，就使得故事变得复杂了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>実際には決定打ところの話じゃないので、そこが話をややこしくしているのだが。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“佩特拉大小姐，即使与他们对话也……”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ペトラお嬢様、彼らと話していても……」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“达德利，够了。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ダドリー、いいから」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在黑暗中，佩特拉反而打断了罗兹瓦尔试图打断的话。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>暗闇の中、ペトラは話を遮ろうとしたロズワールを逆に遮る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>她摇摇头，用下巴示意了旁边的艾米莉娅。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>首を横に振って、傍らのエミリアを顎でしゃくった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>仅凭这个动作，罗兹瓦尔应该能正确察觉佩特拉的意图。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その仕草だけで、ロズワールならペトラの意図を正しく察するはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「────」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>此刻，身体僵硬，一言不发的艾米莉娅的心情是怎样的呢。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>身を硬くして、押し黙っているエミリアの気持ちは、今どうだろうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>本来她心中就快被对昴等人的担忧压垮，结果突然又被加上了意料之外的重担，艾米莉娅会承受不了的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ただでさえ、スバルたちの心配で潰れてしまいそうな胸に、いきなり予想外の重石を乗せられてはエミリアだってたまらない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>正因如此，这个沉重的负担必须要被移除。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>だからこそ、この重石は絶対に取り除かなくてはいけないのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>为了这个目的──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのためにも──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“在紧急时刻使用的方法，不应在非紧急时刻使用。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「いざってときの方法は、いざってときまで使っちゃダメなの」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>全部这些情况都总有办法破坏。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>全部、この状況を台無しにする方法はいつでも取れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但如果是不在场的昴的话，他一定会仔细地思考到最后的最后，然后做出牺牲某些东西并伸出援手的选择。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でもそれは、この場にいないスバルだったら、最後の最後まで考え抜いて、何かを犠牲にして手を伸ばす選択肢だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉虽然学到了很多，有着成长的实感，但她希望自己能够坚定地站在昴流哲学的正中心。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>色々と勉強して成長した実感のあるペトラだが、その真ん中にどっしりと根を張っているのはスバル流の哲学でありたい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>想要实践他的信念。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>彼の信念を実践したい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>所以，她不想在这里依赖罗兹瓦尔的冷酷。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>だから、ここでロズワールの非情さに頼るのは嫌だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“请告诉我。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「聞かせてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡先生你们的想法、诉求和目的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカさんたちの考えとか訴えとか、その目的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我们想要一些材料来说服你们。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>あなたたちを説得するための、材料が欲しいので」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“这是个很有气势的要求啊……需要说一下，我们是以国家为对手，而不是小姐你们。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「肝が太いどころの話じゃない要求しなさる…...言っておきますが、あたしらの相手は国であって、 お嬢さん方ではないんですぜ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我没有特别为你们提供说服材料的理由。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>わざわざ説得されるための材料をお出しする理由がないと思いますがね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“如果是连我这样的小姑娘都没法说服的诉求，国家也不会理会吧。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「わたしみたいな小娘も言い負かせない訴えなら、国も相手しないと思います」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>如果是为了拖延时间，这毫无意义。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>時間稼ぎなら、無意味ですぜ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我并不是那个意思。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「そんなつもりないです」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉坦然地撒了个谎，感觉竜车外有人紧盯着她。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>じっと竜車の外から注視される気配に、ペトラは堂々と嘘をついた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>实际上，如果说是为了争取时间的话倒也没错。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>実際、時間稼ぎというならそれは本当のことだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但是，佩特拉现在花费的时间并不是为了自己，而是为了穆吉卡他们。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ただし、ペトラが稼いでいる時間は自分たちのためではなく、むしろムジカたちのためのものだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>一旦到了这次对话被打断，讨论无法进行的瞬间，罗兹瓦尔将开始毫不留情地对穆吉卡他们发动攻击。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>この会話が打ち切られて、話し合いができなくなった瞬間、ロズワールは容赦なくムジカたちに攻撃を仕掛ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>也许，这能让佩特拉、艾米莉娅等人平安地摆脱困境。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>たぶん、ペトラやエミリアたちはそれで無事に窮地を抜け出せる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但是，这样一来就没有办法拔出刺入艾米莉娅心中的刺。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、それだとエミリアの胸に刺さった棘を抜く方法はなくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“那绝对不行。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「それは、絶対にダメだもん」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>刺和痛或许可以通过时间解决。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>棘も痛みも、時間が解決してくれることかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但是，佩特拉他们即将进入的帝国有着危险与未知等待着。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>しかし、ペトラたちはこれから危険や未知が待ち受ける帝国に乗り込むところなのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>将伤心的艾米莉娅带到那个地方会让人不安，是佩特拉尤其不愿意的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そこに傷心のエミリアを連れていくのは不安だし、何よりペトラが嫌だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这样会留下艾米莉娅一直品味痛苦和苦难的感觉。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアに、痛く苦しい思いを味わわせたままにしてしまうことが。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“为什么你想让艾米莉娅大人放弃王选呢？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「なんで、エミリア様に王選をやめてもらいたいんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>是因为艾米莉娅大人是半妖精吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>やっばり、エミリア様がハーフエルフだから?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“还有其他原因吗？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「それ以外に何があります?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>光这个理由就足够让她退出了。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それで十分、退く理由にはなりましょうが」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>质问代替了回答，这突然间得到的正确的答案，让佩特拉嘴巴微微一撇。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>挨拶代わりの質問、それがいきなりの正解を引いてペトラは唇を尖らせた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这理论听起来实在是太耳熟了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それはあまりに聞き慣れた論理だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>大部分讨厌艾米莉娅的人，和穆吉卡一样，都列举她的出身作为理由。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアを嫌う人の大部分は、ムジカと同じようにその出自を理由に挙げる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>即便佩特拉十分理解这个问题有多么根深蒂固。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それがどれだけ根深い問題なのか、ペトラだって十分理解しているつもりだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但每次被提到，佩特拉都感到不甘心。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、それを言われるたびにペトラは悔しい思いをさせられる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>现实就是那些什么也不知道的人们自作主张地把『半妖精』这个词和佩特拉深爱的『艾米莉娅』混为一谈。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その、何も知らない人たちが口にする『ハーフエルフ』と、ペトラの大好きな『エミリア』 とを勝手に一緒くたにされる現実に。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“这样的说法，我已经听够了。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「そんな言い分、聞き飽きるぐらい言われてますね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“这不正好证明了很多人持有同样的想法吗。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「それだけ同じことを思ってる方々が多いって証拠じゃありませんかい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>如果一个候选人想要成为国家的国王，却被大众所冷落，那她说的话就很难让人听从。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>国の王様になろうって候補者が、大勢にそっぽ向かれてちゃお話にならんでしょう」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“但就算这样──”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「だからって──」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>没有人会像穆吉卡他们那样采取强硬手段。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>誰も、ムジカたちみたいな強硬手段には出ない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>当她想要这么说的时候，佩特拉下意识地闭上了嘴巴。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そう言おうとして、ペトラはとっさに口を噤んだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>不是因为担心激怒他们，而是她自己觉得她要说的话是太过自然的事情。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>彼らを怒らせるのが怖かったのではなく、言いかけた発言がもっともだと自分で思ってしまったからだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「────」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>大多数讨厌艾米莉娅的人确实持有与穆吉卡他们相同的观点。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアを嫌う人の大部分は、確かにムジカたちと同じ見方をしている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，这些人并不会为了让艾米莉娅退出王选而暴乱。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>しかし、その人たちがみんな、エミリアを王選から下ろすために暴れたりはしない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>他们只会什么都不做，认为银发的半妖精根本没有胜算。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>何もしなくても、銀髪のハーフエルフが勝てるわけがないと思っているのか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这样的人似乎很多，让佩特拉感到越发愤怒──但既然如此，为什么穆吉卡他们会采取这样的行动呢？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そんな人も多そうで、ペトラはますます憤懣が込み上げるのだが──だとしたら、 どうしてムジカたちはこんな行動に出たのか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>原因在于那些什么都不做的人与穆吉卡他们的立场不同。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それは、何もしなくていい人たちとムジカたちの立場が違っているからだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>如果思考这个理由的根源所在──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その理由の根っこ、それがどこにあるのかと考えたら──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──艾米莉娅大人参加王选，会对土鼠人的人有什么不利吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──エミリア様が王選に出てると、土鼠人の人たちが都合悪いんですか?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──呲。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──っ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡微微不悦地回应了佩特拉的想法。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラの思いつきに、ムジカの反応がほんのり尖った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>确信自己猜中了后，佩特拉深入进行了那个推测。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>的を外した考えではなかったらしいと確信を得て、ペトラはその推測を先に進める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅的崛起对于穆吉卡他们──土鼠人族来说有何不利之处。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアの台頭がムジカたち──土鼠人に都合が悪いのはどうしてか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>就像之前在路上谈过的那样，土鼠人族被提到是被帝国驱逐的种族之一。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>道中でも話した通り、土鼠人と言えば帝国から追放された種族でもある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>根据史实中的『爱丽丝与荆棘之王』，土鼠人的居所被帝国夺走。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>史実を元にした『アイリスと茨の王』は、土鼠人の居場所を帝国から奪い去った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡他们的祖先逃离了那个帝国的追杀，他们的子孙现在仍旧居住在夏姆洛克峡谷，以帮助偷渡入境为生，勉强度日。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その帝国を追われて逃げてきたのがムジカたちの祖先で、子孫である彼らは現在もシャムロック渓谷を住まいにし、密入国の手助けなどを生業に細々と暮らしている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──为什么？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──どうして?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这里不是帝国，穆吉卡他们没有畏畏缩缩的必要。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ここは帝国ではないのだから、ムジカたちが縮こまっている必要はないはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>当然，『爱丽丝与荆棘之王』是非常有名的故事，露格尼卡的很多人也知道。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>もちろん、『アイリスと茨の王』はとても有名なお話なので、 ルグニカでも知っている人は多い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>虽然那样，这里和帝国的处理应该是截然不同的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それでも帝国とでは扱いは段違いのはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>尽管如此，穆吉卡他们依旧全族都在这个无人问津的阴暗之地继续生活着。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>にも拘らず、ムジカたちはこの人目につかない薄暗い土地で、一族まとまって暮らし続けている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>他们拒绝与外界交往，闭门不出的态度，就像是──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>余所の世界との交わりを拒んで閉じこもる姿勢、それはまるで──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“......像『圣域』一样。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「......『聖域』みたい」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在芙蕾德莉卡和加菲尔的故乡，有一个名为『圣域』的出于某种原因由亚人组成的村落。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>フレデリカとガーフィールの故郷で、訳ありの亜人たちの集落があった『聖域』。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉只在围绕『圣域』的事件解决后拜访过一次，但那个封闭的村落现在已经被解体，居民们各自搬迁到领地内的村庄。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラが足を運んだのは、『聖域』を取り巻く事変が解決したときの一度きりだが、閉ざされた集落は今は解体され、住民たちは領内の村々にそれぞれ移住している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>因此，现在那个地方只剩下禁止进入的墓地的几个守护人，包括芙蕾德莉卡她们的祖母琉兹。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのため、現在は立ち入りを禁じられた墓所の守り人として、フレデリカたちの祖母であるリューズを始めとした数名が残っているだけの地となっていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在拒绝外界的世界中度过这一意义上，这样的『圣域』生活和住在夏姆洛克峡谷的土鼠人的生活方式，看起来是相同的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そんな『聖域』の暮らしと、このシャムロック渓谷で生きる土鼠人の在り方は、外界を拒絶した世界で過ごすという意味で同じものに思える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>如果是那样的话，选择这样的生活的契机可能也是相同的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>だとしたら、そうした暮らしを選んだ切っ掛けも同じかもしれないと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“会不会，穆吉卡你们想要让艾米莉娅大人放弃王选的理由和『亚人战争』有关系？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「もしかして、ムジカさんたちがエミリア様を王選から下ろしたい理由って、『亜人戦争』と関係あったりしますか?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“......小姐，你连别人的心思也能看透吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「......お嬢さん、人の心でも読めるんですかい?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我不能看透哦。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「読めないですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我有时候倒希望能看透。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>読みたいなって思うことはありますけど」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>有时候，拉姆和奥托等同伴会表现出能够看透对方心思的言行。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>時々、ラムやオットーなどは相手の心が読めているのではと思うような言動をする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>即便除掉有时会神经大条的发言的奥托，她也很想学习拉姆的眼力。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それでも無神経な発言をするオットーはともかく、ラムの眼力は見習いたい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这是因为她的目标是吸收阵营中每个人全部的优点，成为比今天更美好的明天的自己。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>陣営のみんなのいいところを全部吸収して、今日より素敵な明日の自分になるのがペトラの目標であるからだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>不管怎么说，穆吉卡的反应证明了佩特拉推理的正确性。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ともあれ、そのムジカの反応はペトラの推理の正しさを裏付けていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“......『亚人战争』”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「......『亜人戦争』」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──那是几十年前在露格尼卡王国爆发的一场大规模内战。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──それは、ルグニカ王国で数十年前に起こった大規模な内乱だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这场人类和亚人族之间激烈对抗的内战，持续了近十年，造成了数量众多的牺牲者。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>人間と亜人族とが激しくぶつかり合ったその内戦は、ものすごい数の犠牲者を出しながら十年近くも続いた大きなものだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>虽然起因似乎是小事，但其中受到人类和亚人之间长年的间隙的强烈影响。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>切っ掛けは小さなことだったらしいが、そこには人と亜人との間の長年のわだかまりが強く影響していたと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>而导致这种间隙的起源是──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そして、そのわだかまりの発端となったのが──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──『嫉妒的魔女』，以及对包括妖精在内的亚人族的负面情绪。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──『嫉妬の魔女』、ひいてはエルフを含めた亜人族への悪感情ってやつですぜ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在佩特拉思考的最后，正是穆吉卡以此作为收尾。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラの辿った思考の最後を、他ならぬムジカがそう締めくくった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>一提到『嫉妒之魔女』这个词，可以看出艾米莉娅的表情变得越来越阴郁。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>『嫉妬の魔女』の単語を出され、エミリアの表情がますます曇ったのがわかる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>而佩特拉也意识到穆吉卡的行为非常具有当事者的性质。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そしてペトラも、ムジカの行動がとても当事者性の高いものだと思い知った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>正如他所说，『亚人战争』的原因是人类对亚人族的负面情绪──在受到『嫉妒的魔女』严重灾害影响的王国，对妖精的迫害尤为彻底。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>彼の言う通り、『亜人戦争』の原因は人間の亜人に対する悪感情──『嫉妬の魔女』の被害が大きかった王国では特に、エルフへの迫害は徹底していたらしい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>最终，它被蔓延到了妖精之外的其他亚人族，引燃了一场内战的大火。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>やがてそれはエルフ以外の亜人族にも飛び火し、内戦という大火に燃え上がったのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这场可怕的内战伤及众多人民，给他们带来痛苦，夺去生命──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そして、多くを傷付け、苦しめ、命を奪った恐るべき内乱──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“世界已经花了四百年的时间慢慢痊愈这些旧伤。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「世界は四百年かけて、じっくりと古傷を癒してきたんです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，这个半妖精却挑战了一场毫无胜算的战斗，重新引发了流血，真是多此一举。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それを勝ち目のない戦いに挑むハーフエルフにほじくり返されて、また血が流れちゃ世話がない」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──穆吉卡害怕那种情况的再次发生。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──その再来を、ムジカは恐れているのだと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「────」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡的低沉声音听起来好像被恐惧和疲劳的双重压力所磨损。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカの低い声は、恐れと疲れの二つで擦り切れているように聞こえた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉无法完全消化那个声音中所蕴含的复杂情感。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その声に込められた複雑な感情を、ペトラはうまく消化し切れない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>而且，这种心情不仅仅只有穆吉卡，还承载着四百年的重量。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラの短い生涯で、親と同い年ぐらいのムジカの思いを量り切れるものか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我们不想受牵连。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ましてや、それはムジカだけでなく、四百年の重みがある思いなのだから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>要说受牵连，我们已经体会的足够多的了。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「あたしらはね、そのとばっちりは御免なんですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“受牵连......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>とばっちりってんなら、もう十分以上に味わってきたんですから」「とばっちり……」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“是的，这是爷爷的爷爷那一辈所犯的错误牵连我们后代所带来的后果。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ええ、爺さんの爺さんって世代がやらかしたことのとばっちりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>如果是热心学习的小姐，就应该非常清楚。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>勉強熱心なお嬢さんでしたら、よくよくご存知でしょう」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「────」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“如果是父母和亲兄弟所做的事情，我也就死心了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「親兄弟のしでかしたことなら諦めもつく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但我们连爷爷的爷爷那一代人长什么样都不知道。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、爺さんの爺さんなんてあたしらにとっちゃ顔も知らない相手ですぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我们还要为那些人的责任而在地洞里生活吗。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そんな相手の責任で穴倉暮らしですかい」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉对于穆吉卡的说辞，无言以对。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのムジカの言い分に、ペトラは何も言葉を返してやれなかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉自己也曾享受过『爱丽丝与荆棘之王』这本书，包括它悲剧的结局。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラ自身、『アイリスと茨の王』は悲劇的な結末も含めて一冊の本として楽しんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，对于那些直到数百年后还在被讨论的当事人来说，那并不是一种享受。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>しかし、数百年後も語られる当事者にとってはたまったものではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡说的对，佩特拉对于爷爷的爷爷那一代以及更早的祖先一无所知。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカの言う通り、お爺さんのお爺さんなんて何代も遡ったご先祖のことは、ペトラだって何も知らない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但是那份责任如今却仍旧压在他们身上。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その責任だけ、今も彼らに押しかかっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“但是，那样对半妖精也是一样的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「でも、それならハーフエルフだって同じじゃないですか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>虽然没有和『嫉妒的魔女』一样的人，但是......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>『嫉妬の魔女』と、おんなじ人なんていないのに、それなのに......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“你想干扰那些顽强努力的人吗？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「頑張ろうとする相手の邪魔をするのか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>......我说过了吧。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>......言ったでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我不想再被卷入其中。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>とばっちりを喰らうのが御免だからです」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>仿佛在安抚着声音颤抖的佩特拉一样，穆吉卡的声调失去了感情。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>声を震わせるペトラを宥めるように、ムジカの声色が感情を失っていく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>他以平淡的声音把不能否认的事实摆在佩特拉眼前。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>淡々と、彼はペトラに動かし難い事実を突き付けていくように、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“虽然说了那样的话，但我们已经接受了自己的处境。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「あんな風に言いましたが、あたしらは自分らの立場に諦めがついてるんですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>就像有天生的富人和穷人那样，存在着土鼠人和其他人的人种差别。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>生まれつきの金持ちと貧乏人がいるみたいに、土鼠人とそうでない人種がいるってだけ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>生活在黑暗中，成为不受关注的人，这就是我们的天命。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>暗がりで生きるのも日陰者なのも、それはあたしらの天命だ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“这种说法方式……”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「そんな言い方……」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“对于善良的小姐来说，这个现实可能是痛苦的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「お優しいお嬢さんには辛かろう現実でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但是，即便是像我们这样已经接受了这个处境的人，也不希望情况变得比现在更糟。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、そんな風に諦めがついてるあたしらだって、今より悪くなるのなんて望んじゃいないんです」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“比现在、更糟......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「今より、悪く......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>听到穆吉卡的叙述时，艾米莉娅不禁说出了口。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカの語り口を聞きながら、 エミリアの唇がそう音を漏らした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>似乎听到她的低语，穆吉卡想到了除佩特拉之外还有其他人在场，于是改变了声音的调子。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その呟きを聞きつけたのか、ムジカはペトラ以外がいることを思い出したみたいに声の調子を変えた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>从淡然且干涩的口吻，变成了不温不火的、更注重让人听得进去的语气。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>淡々と渇いたものより、もう少し聞かせることを意識した冷たい熱を帯びたものに。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“半妖精参加王选，无论是本人还是支持者都完全不知道在想些什么，但从我们的角度来说，这只是碍眼的表现而已。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ハーフエルフの王選参加、本人も担いだ輩も何を考えているのかさっぱりわかりませんが、あたしらからしたら悪目立ちと言う他ありません」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我也同意不知道支持者在想什么......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「担いだ人が何を考えてるのかわからないのは、わたしも同意見ですけど......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉的视线正好瞥见了那个罪魁祸首罗兹瓦尔。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ちらと、ペトラの視線がまさにその張本人であるロズワールの方を向く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>当然，罗兹瓦尔没有回应，佩特拉也没有期待。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>もちろん、ロズワールからの返事はないし、ペトラもそれを求めていない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但无论罗兹瓦尔的想法是什么，艾米莉娅的目的应该是众所周知的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>しかし、ロズワールの思惑はともかく、エミリアの思惑は周知されているはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“艾米莉娅大人的想法已经明确宣布出来了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「エミリア様の考えはちゃんと発表されてます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡也......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカさんも......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“改善天生被剥夺了选择，身处困境的人的处境......是的，我们也听说了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「生まれながらに選択肢を奪われ、苦境に立たされるものの立場の改善……ええ、あたしたちの耳にも入ってますとも。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──然而只是多管闲事而已。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──とんだ余計なお世話ですがね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──多管闲事。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──余計なお世話」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“是的，没错，警卫小姐。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ええ、そうですとも、護衛のお嬢さん」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这随意抛出的一句难以忍受的话，让艾米莉娅反复思考着这些话语，穆吉卡将矛头指向了她。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>投げやりな一言に堪えられず、言葉を反芻したエミリアにムジカの矛先が向いた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“半妖精......而且还和『嫉妒的魔女』一样，是银发紫绀眼的持有者。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ハーフエルフ……それもよりにもよって『嫉妬の魔女』と同じ、銀髪に紫紺の瞳の持ち主とは。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>到底有谁希望这样的人成为国王呢？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>いったい、誰がそんな相手に王様になってほしいと望みますかね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“不、还不知道嘛。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「わ、わからないじゃないですか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>比如说，我就可能会这么希望。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>例えば、わたしがそうかも」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“如果是那样，我倒很愿意告诉她她的支持者的处境有多么危险。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「だとしたら、支持者が危ういってことをぜひ耳に入れて差し上げたいとこですな」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“唔......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「むぅ......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这故意唱反调的回答，表明穆吉卡的顽固无隙可乘。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ああ言えばこう言い返され、ムジカの頑なさに付け入る隙がない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但在被压制的佩特拉旁边，艾米莉娅再次高声喊道，“等一下。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>だが、そうして押し込まれるペトラの傍ら、エミリアが「待って」とまたも声を上げた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>她隐藏了自己的身份，却无法掩饰眼中寄宿的真挚之情。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>彼女は自分の素性を隠しながらも、隠し切れない真摯さを瞳に宿しながら、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“请再告诉我一些。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「もう少し聞かせて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>关于你所说的多管闲事和牵连不清。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>あなたの言う、余計なお世話とかとばっちりについて」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“——。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>果然，你确定不是在拖延时间吗？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>やっぱり、時間稼ぎじゃないんですかい?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>你是在期待后面那辆竜车的人们有什么行动吧。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>後ろの、あちらの竜車の方々が何かするのを期待してらっしゃるとか」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“才没有那种事！”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「そんなこと!」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“——我对那边没什么期待。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──そっちはあんまり期待してません」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉代替因为被怀疑而声音颤抖的艾米莉娅，清晰地回答道。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>疑われて声を震わせるエミリアに代わり、ペトラがはっきりそう答える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这不是欺骗，而是真心实意的话语。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>これは誤魔化しではなく、本心からの言葉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉并不期待被分开的芙蕾德莉卡等人能解决这个局势。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>分断されたフレデリカたちが、この状況を打開してくれるとはペトラは期待していない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>相反，如果只是需要击败穆吉卡他们，她们凭借艾米莉娅和罗兹瓦尔的力量现在立刻就可以做到。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>というより、ムジカたちをやっつけるだけなら、エミリアとロズワールの力で今すぐにでもできるのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>正如之前分析的那样，土鼠人不是芙蕾德莉卡她们的对手。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>すでに分析した通り、フレデリカたちの方も土鼠人たちでは相手にならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>加菲尔一人就已足够，更何况还有奥托处在战场。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ガーフィール一人で十分なところに、修羅場に置かれたオットーがいるのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这就像将醉酒的他置于装满火魔石的仓库中一样，是非常危险的行为。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それは火の魔石の詰まった倉庫に、酔っ払った彼を入れたも同然の危険行為だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>尽管是那样的状态，仍然看不到那边有大规模动作或爆炸的迹象，这不是因为那边陷入了困境，而是他们选择了静观其变。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そんな状態なのに、まだ向こうに大きな動きや爆発が見られないのは、あちらが大変な状況になっているからではなく、静観を選んでいるから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>大概，那边的竜车正准备一起配合佩特拉等人的行动。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>おそらく、向こうの竜車はペトラたちの動きに合わせるつもりで構えている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“所以，你可以把你的想法全都告诉我，没关系的。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「なので、考えてることは全部話してもらって大丈夫です」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“如此目中无人的回答。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ふてぶてしいお答えだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我并没有任何可以相信你的根据......关于多管闲事和牵连不清是吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>あたしがそれを信じる根拠ってものは何もないんですが......余計なお世話と、とばっちりについてでしたか」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>他说的对，佩特拉的话并没有什么可信的根据。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>彼の言う通り、ペトラの言葉には信じさせる根拠は何もなかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>即便如此，穆吉卡仍然保持着神秘的空气，展示出回答艾米莉娅的疑问的姿态。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それでも、ムジカは神妙な空気を保ったまま、エミリアの疑問に答える姿勢を見せる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“关于碍眼，需要解释吗？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「悪目立ちについて、説明がいりますかね?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>半妖精参加王选本身就没有什么胜算，只会在负面意义上吸引注意力而已。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ハーフエルフが王選に出ること自体、勝ち目なんてないんですから、悪い意味で注目を集めるだけでしょう」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“那样下结论未免太早了吧。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「そんなの、決めつけじゃないですか」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“勤奋好学的小姐，只有在这一点上不用功，真是令人发笑。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「勉強熱心なお嬢さんが、そこだけ不勉強なんて笑えませんぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>『嫉妒的魔女』有多么被人恐惧，小姐你应该也知道。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>『嫉妬の魔女』がどれだけ怖がられてるか、お嬢さんも知っておいでのはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>而且，让你想起她，才是最大的问题。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そして、それを知ってることを思い出させるのが、一番の問題なんですよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“让我想起来……？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「思い出させる……?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉听到这句奇怪的说法，不禁歪了头。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>おかしな言い回しだと、ペトラは首を傾げた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>虽然不是想肯定穆吉卡的观点，但关于『嫉妒的魔女』的传闻是在全世界都众所周知的常识。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカの意見を肯定したいわけではないが、『嫉妬の魔女』に関する風聞は世界中で知られた常識だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>不可能忘记，所以也没有必要去想起来。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>忘れるなんてありえないことだから、 思い出す必要もないことだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，对于佩特拉的想法，穆吉卡轻轻地啧舌，</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>しかし、そんなペトラの考えに、ムジカは小さく舌を鳴らして、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“让你想起来，小姐。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「思い出すんですよ、お嬢さん。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>半妖精在公众场合出现，大家才会意识到之前忽视掉的对象是真实存在的，就那样想起来。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ハーフエルフが公の場になんて出ていったら、みんなが意識しないで無視できてた相手が実在してるって、そう思い出すんです」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“……我不太明白你的意思。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「……よく、意味がわからないです」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“这对我们是常识。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「あたしらにとっちゃ常識でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>『嫉妒的魔女』是可怕的存在，任何与创造出它的半妖精有关的东西都只会带来不祥之兆。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>『嫉妬の魔女』が恐ろしいもので、それを生み出したハーフエルフと関わるのは不吉でしかないって」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「────」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“不过，即便是常识，换句话说，只要不去直视，就是可以忘记的事情。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「でも、常識ってのは言い換えれば、直視さえしなければ忘れておけることなんですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>是的，本来已经好不容易忘记了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そう、せっかく忘れてられたんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>……但是，王选候选者艾米莉娅却让人想起来。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>......だのに、王選候補者のエミリアって人は思い出させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我们曾经害怕过那个东西。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>あたしらが、それを怖がってたってことを」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡冷漠阴暗的话语在黑暗的『常闇』中回荡着，带着一丝湿气。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>暗い『常闇』に、ムジカの冷たく薄暗い語り口が湿り気を帯びて響く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉一边听着他的话，一边第一次渐渐想起了很久以前的事情。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラは彼の言葉を聞きながら、しばらくぶりに思い出した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──自己曾经也不过是一介恐惧『嫉妒的魔女』的普通村姑而已。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──自分もまた、『嫉妬の魔女』の存在を恐れる一介の村娘に過ぎなかったことを。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>关于『嫉妒的魔女』，她记不起来是什么时候第一次听说的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>『嫉妬の魔女』について、初めて知ったのがいつだったかなんて思い出せない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>不过，在她开始懂事的时候，佩特拉就已经知道了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、物心ついたときにはペトラは知っていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>『嫉妒的魔女』一词，仅仅是想起来晚上就睡不着觉，甚至因此害怕得哭泣过。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>『嫉妬の魔女』の単語も、それが夜思い出すだけで眠れなくなり、怯えて泣きじゃくったことがあったことさえ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那份不可理解深深地刺入少女的心中，是刻在了她心底的原始恐惧。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それは不可解なぐらい、少女の心に深々と突き刺さり、刻み込まれた原始的な恐怖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“……真的非常害怕。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「……とっても、怖がってた」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>对于从未见到与谈到过的『魔女』，佩特拉从内心深处恐惧不已。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>見たことも話したこともない 『魔女』のことを、ペトラは心から恐れていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>她确实曾彻夜难眠，想着那些不可轻易触碰的禁忌。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>不用意に触れてはいけない禁忌を思い、眠れない夜を過ごしたことが確かにあった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那种恐怖渐渐消退，即使太阳下山也不再忆起，曾经离她越来越远的『魔女』，到底是从何时开始被压到脑海的角落呢.</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その恐怖が薄れ、日が沈んでも思い出さなくなり、身近でなくなった『魔女』が頭の片隅に追いやられたのは、いったいいつからだっただろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，并非是克服了那个。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、克服したわけではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──只是一些微不足道的契机，它就会突然再次浮现。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──ふと、それはほんの些細な切っ掛けで顔を出す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>比如说，在半妖精的王选候补者登场时。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>例えばそれは、ハーフエルフの王選候補者が登場することで。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“......村里的大家也很糟糕呢。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「……村のみんなも、ひどかったもんね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>当王选的开始被正式宣布，这个消息传遍全国的时候，佩特拉清楚地记得在她的故乡阿拉姆村发生的变化。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>王選の開始が正式に宣言され、その報せが国中を駆け巡ったとき、故郷であるアーラム村に起こった変化をペトラはちゃんと覚えている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>就在得知出入附近领主的宅邸的来历不明的少女就是那位事件中的银发半妖精后，村民对她采取了疏远的态度。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>すぐ近くにあった領主の屋敷、そこに出入りする正体不明の少女が件の銀髪のハーフエルフとわかった途端、村人は彼女に対してよそよそしい態度を取った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>即使她拼命诉说着要保护村民，也没有人听从她的话。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>彼女が村の人たちを守ろうと、必死で訴えても耳を貸さないぐらいに。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“还有，这跟你们牵连进来有什么关系呢？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「それと、あなたたちのとばっちりと、どう繋がるの?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>用着与那时村民拒绝她时一样的银铃嗓音，艾米莉娅穷尽言语试图了解驱动穆吉卡采取这种行动的真意。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのときと、村人たちの拒絶に遭ったときと同じ銀鈴の声音で、エミリアがムジカをこの行動に駆り立てた真意を知ろうと言葉を尽くす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“艾米莉娅参加王选的话，大家就会考虑『魔女』的事情......嗯，我也这么认为。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「エミリアが下選に参加したら、みんなが『魔女』のことを考えちゃうのは……ええ、そうだと思う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但是，为什么这会伤害到你们呢？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、どうしてそれであなたたちが損をするの?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“并不会立即发生什么。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ただちに何かが起こるわけじゃない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但就像平静的河水从上游流向下游一样，问题也会流啊流到河水的下游。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、穏やかでも川がら上から下に流れていくみたいに、問題ってものも流れ流れていずれは川下に辿り着く」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“如果半妖精让焦点集中在『魔女』上，和过去同样的事情有可能再次发生。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ハーフエルフから『魔女』に注目が集まれば、過去と同じことが起こりかねない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我恐惧这会降临到我身上。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>あたしはそれが、我が身に降りかかるのを恐れてる」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡像是缓缓地摇了摇头，再次提出了问题。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ゆるゆると首を横に振る気配があり、ムジカが問題を重々しく提起する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“弱者的救济，事件中的半妖精的理想论很崇高，但这比小孩子口头约定宣言能战胜『剑圣』好不了多少。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「弱者の救済、件のハーフ エルフの理想論はご立派ですが、それは子どもが『剣聖』に勝ったらなんてできもしない口約束を言い触らしてるとおんなじだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>如果她只是个乳臭未干的孩子，我们可以无视她。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それがただの洟垂れなら無視すればいい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但这个性质恶劣就在于......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも性質が悪いことに……」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“因为无法无视艾米莉娅，所以非~常的困扰......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「エミリアは無視できないから、すごーく困る......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“嘛，用可爱的方式说就是这个意思。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「まぁ、可愛い言い方をするとそういうことで」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>通往结论的道路终于齐备，穆吉卡点了点头。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ようやく結論へ至る道が整備されたと、ムジカが頷いているのがわかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅理解了他的主张，她形状好看的眉毛因为悲痛而紧皱。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアにも彼の主張が伝わり、彼女の形のいい眉が悲痛に顰められている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>当然，佩特拉也完全充分地理解了穆吉卡的主张和想法。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>もちろん、ペトラにもムジカの主張、考えは十分以上に伝わった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但这却是──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>しかしそれは──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“至少，我是想避免的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「あたしはね、御免なんですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──第二次『亚人战争』什么的。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──第二の『亜人戦争』なんてこと」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“那种事情。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「そんなのっ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这只是悲观上叠加了悲观、恶意中带着恶意的想象。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>悲観に悲観を重ねた、悪い悪い想像でしかない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>甚至可以称其为被害妄想。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>被害妄想と言ってもいいくらいだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，佩特拉刚想要反驳，就被穆吉卡冷冷的声音阻止了，“真的吗？”。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>しかし、そんなペトラのとっさの反論は、「本当に?」と続いたムジカの声音の冷たさに引き止められた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“难道是我们真的想多了吗？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「本当にあたしらの考えすぎですかね?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>很久以前，『亚人战争』刚爆发的时候，大家不也觉得绝对不会发生那种事情吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その昔、『亜人戦争』が起こった頃も、まさかそんなことはないだろうってみんな思ってたんじゃないんですかい?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「────」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我并不是在责怪小姐。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「お嬢さんを責めてるわけじゃありませんぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>如果你说我们太悲观的话，也可以这么说。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>あたしらが悲観的すぎると仰るならそうとも言えるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但这就是我们这些只会玩土的土鼠族的天性吧。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ですが、土弄りばっかりしてる土鼠人の性ですかねえ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我能感觉到，地面在震动。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>感じるんですよ、地響きを」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“地面震动......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「地響き......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“嗯。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ええ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>是大的东西即将崩溃的预兆，就是那种感觉的地面震动。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>大きなものが崩れる予兆、そんな感じの地響きをね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这是迷信的措辞，但它又重又深地压在佩特拉的心上。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それは迷信めいた物言いなのに、やけにペトラの胸にも重く深く圧し掛かった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在完全听完穆吉卡的主张后，佩特拉诅咒自己的浅薄。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカの言い分をたっぷりと聞かされて、ペトラは自分の浅はかさを呪う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──她不仅没能拔掉刺入艾米莉娅心中的刺，反而佩特拉的心也被串起来了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──エミリアの胸に刺さった棘を抜くどころか、ペトラの胸も串刺しにされてしまった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这根有倒刺的刺，如果想拔掉就只会扩大伤口。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>返しのついたこの棘は、抜こうとすれば傷口をむしろ押し広げてしまう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>也许就应该在伤口尚浅的时候，结束这场谈话，保有一丝希望。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>傷が浅いと希望を持てるうちに、この話は切り上げるべきだったのかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>因为──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>何故なら──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我不想怀疑艾米莉娅姐姐大人......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「わたし、エミリア姉様を疑いたくない......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡的理论武装无法被否定，因为除了过于悲观，他的道理没有任何不通的地方。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカの理論武装を否定できないのは、悲観的すぎることを除けば、その理屈に通らない筋がないからだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>过去，对『嫉妒的魔女』的恶意是内战发生的起因。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>過去、『嫉妬の魔女』への悪感情を理由に内戦は起こった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>现在，谁也没有任何根据断言这次会不一样。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>今回、それが同じにならないと言い切る根拠は誰にもない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>没有的东西无法被证明。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ないものは証明できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──佩特拉了解艾米莉娅。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──ペトラは、エミリアを知っている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>所以，她相信艾米莉娅。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>だから、エミリアを信じられる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但是，对于无法区分艾米莉娅和幻想的『半妖精』的人来说，到底该如何让他们相信艾米莉娅。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、エミリアと幻想の『ハーフエルフ』との区別がつかない人たちに、いったいどうやってエミリアを信じさせたらいいのだろうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>仅仅隐藏艾米莉娅的身份是无法说服眼前的穆吉卡的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアであることを隠すだけで、目の前のムジカすらも説得できないのに。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“艾米莉，我......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「エミリー、わたし......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>有一瞬间，佩特拉动摇的差点叫出艾米莉娅的名字，但她设法克制住了自己。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>一瞬、動揺してエミリアと呼びかけそうになり、それはどうにか堪える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>尽管想要做些事取出艾米莉娅心中的痛苦，但是自己的无力让佩特拉难以忍受──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>何とかエミリアの胸の痛みを取り除いてあげたかったのに、それをできなかった自分の無力さがベトラには耐え難くて──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──佩特拉酱，没事的。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──ペトラちゃん、大丈夫」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“啊......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ぁ......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>突然，她的身体被抱紧，佩特拉的头被埋在温暖的胸膛中。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ふと、その体を抱き寄せられ、温かい胸にペトラの頭が収まった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>通过头顶立刻传来的声音，她明白了这是艾米莉娅抱着她。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアに抱きしめられたのだと、すぐ頭上から降ってくる声で理解する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在被紧紧压着的艾米莉娅胸膛深处，她听到她心脏的跳动。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ぎゅっと押し付けられるエミリアの胸の奥、その心臓の鼓動が聞こえる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>本应是被逼到绝境而痛苦，拼命诉说心痛的心音——在规律平稳地跳动着，象征着艾米莉娅的温柔。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>追い詰められて苦しんで、必死に心の痛みを訴えていてもおかしくない心音──それは規則正しく、エミリアの優しさを象徴するみたいに穏やかに鳴っていて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我想了想。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「私、思ったの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──肯定有很多像穆吉卡你们这样的人。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──きっと、ムジカさんたちみたいな人は他にも大勢いる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我应该怎么做才能让那些人感到安心。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その人たちに安心してもらうにはどうしたらいいのかって」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“你，你要怎么做......？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ど、どうするの......?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这正是佩特拉最希望得到的答案。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それはまさしく、ペトラが一番欲しがっていた答えだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅要如何说服、论证，才能让穆吉卡这样被悲观的未来荼毒的存在行动起来。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>悲観的な未来に毒され、行動を起こしたムジカのような存在を、エミリアならばどうやって説得し、論し、納得させてみせるのかと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>就这样，在佩特拉等待答案时，艾米莉娅──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そう、答えを待つペトラにエミリアは──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我觉得最重要的是告诉他们，我和『嫉妒的魔女』完全不同。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「私は『嫉妬の魔女』と全然違うって、話して知ってもらうのが一番だと思うわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>所以我一定......不，我想艾米莉娅会去奔跑的。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>だからきっと、私......ううん、 エミリアは走ると思うの」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“去、奔跑......？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「は、走る……?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“对，是的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ええ、そう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>当面临与他人不同或被误解，或者其他困难的时候，艾米莉娅会去找那个人并和他说话。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>人と違うこととか誤解とか、そういうことで大変になりそうなとき、エミリアはその人のところに走っていって話をするの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>她会不停地说，直到对方理解为止。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それでわかってもらえるまで話す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>如果无法被倾听，她会拼命努力到他们听为止！”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>聞いてもらえなかったら、聞いてもらえるまで頑張る!」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅握紧拳头的力量传达了过来，让佩特拉哑口无言。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ぐっと、エミリアが力強く拳を固めたのが伝わって、ペトラは絶句した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这种过于大力蛮干的发言，无疑是艾米莉娅哲学的体现。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その力技すぎる発言は、まさしくエミリアの哲学に疑いはない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，在这种情况下，能否使用艾米莉娅的哲学作为问题的解决手段呢？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>が、この状況の問題解決手段に、そのエミリアの哲学を使っていいのだろうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>首先，即便了解艾米莉娅的佩特拉认同了，又怎么让穆吉卡信服。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>第一、エミリアを知っているペトラは納得しても、ムジカが納得するとは。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我也能问问穆吉卡刚刚说的事情吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「あと、ムジカさんの言ってた話にちょっと私も言ってもいい?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“……有什么事，警卫小姐？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「……なんでしょうね、護衛のお嬢さん」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我非~常理解你们不想引发第二次『亚人战争』的心情。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「あなたたちが二回目の『亜人戦争』を起こしたくない気持ちはすごーくわかる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我也不希望发生那样的事情，如果可以阻止的话我会阻止的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>私もそれは嫌だって思うし、止められるなら止めたいもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但是，你刚才的话有些奇怪！”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、さっきのお話には変だわってところがあったの!」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「────」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“过去，发生『亚人战争』的时候，大家并没有认为会发生那样的事情。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「昔、『亜人戦争』が起こったとき、みんな起こると思ってなかったから起こったって。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但是，我们都知道了『亚人战争』已经发生了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、もう私たちは『亜人戦争』があったことを知ってる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>『亚人战争』带来了巨大的悲伤，没有人会想再次重复它。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>『亜人戦争』がすごーくたくさんの悲しみを生んで、もう誰も繰り返したくないって思ってることも」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡的理论武装是基于过去的事件和艾米莉娅的危险性的诉求。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカの理論武装は、過去の出来事を踏まえてエミリアの危険性を訴えた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>可以说因为有先例，才使得他担忧的正当性显得合理。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>先例が、その懸念は正当性があるものと思わせたとも言える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>事实上，佩特拉大为动摇的原因就是因为被那种说服力所驳倒。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>事実、ペトラが大きく動揺したのは、その説得力に言い負かされたことが原因だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，艾米莉娅利用过去的先例将计就计──不，艾米莉娅不会考虑到那么聪明的事。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>しかし、エミリアはその過去の先例を逆手に取る──否、そんな賢しいことをエミリアは考えていないだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>她只是真诚地希望以过去事件为反思材料，去让未来变得更好。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>彼女は真剣に、過去の出来事を反省材料に、未来をよくしたいと思っているだけだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“如果大家都讨厌，而你们也知道这一点，那么穆吉卡所说听到的地震声就只是错觉而已。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「みんなが嫌だって思っていて、それを知っているんなら、ムジカさんが聞いたって言ってる地響きはただの空耳よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅是这样想的。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアは、そう考えてる」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“……变得有点奇怪的感觉了啊。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「……なんだか、不思議な気分になってきましたぜ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“奇怪的感觉？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「不思議な気分?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅毫无道理的逻辑抛了过来，让穆吉卡的声音呆住了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアの無茶な理屈をぶつけられ、ムジカの声は呆然としていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那个声音让艾米莉娅疑惑地歪着头，穆吉卡深深地吸了口气，</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その声にエミリアが首を傾げると、ムジカは深々と息を吐いて、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“那感觉就像我们在与试图辞退的候选人本人谈话一样。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「まるで、あたしらが辞退させようとしてる候補者、その張本人と話してるような気分ですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>刚才小姐说的支持者的话，难道不全是开玩笑吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>さっき、お嬢さんが言ってた支持者って話も、満更笑い話じゃないんですかね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅的说话方式和佩特拉的反应，这二者让穆吉卡得到了这样的感触。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアの言いようとペトラの反応、その二つにムジカがそんな感触を得ている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>她试图隐藏身份的努力已经处于破破烂烂的状态。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>素性を隠そうとするわりにはボロボロの状態だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>根据她暴露的程度，即便察觉出她的身份也不奇怪，佩特拉咬了咬牙，既不否认也不肯定。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>もう、その正体に勘付かれてもおかしくない露呈具合だが、ペトラは否定も肯定もしないで奥歯を噛んだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>她很喜欢刚才艾米莉娅非常符合她的个性、非常荒谬的发言。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>さっきのエミリアの、とても彼女らしくて、とても無茶な発言は大好きだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但是，要实现那样的希望并不容易──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、それが実現できるなんて希望を簡単には──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“没关系，我不是『嫉妒的魔女』，也不是孤身一人。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「大丈夫、私は『嫉妬の魔女』じゃないし、一人でもないもの」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅根据佩特拉的存在，和其他同伴的存在所作的庄严的发言，比起穆吉卡悲观未来的发言，要更打动佩特拉的心。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>堂々と、ペトラの存在や、それ以外の仲間たちの存在を根拠としエミリアの発言、それは未来を悲観するムジカの言葉より、ペトラの胸を強く打った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>与此同时，她想起了一件事。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それと同時に思い出す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──那些如此冷冰冰对待艾米莉娅的阿拉姆村的人们，是如何接受了她的存在呢。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──あれだけエミリアを邪険にしようとしたアーラム村の人たちが、いったいどうやって彼女の存在を受け入れたのか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>与艾米莉娅对话、了解艾米莉娅、与艾米莉娅互动。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアと話して、エミリアを知って、エミリアと触れ合って。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>自此之后就知道了艾米莉娅是一个一点也不可怕，温柔可爱的半妖精。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアが全然怖くも何ともない、優しくて可愛いハーフエルフだと知ってからだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>才不像传说中『嫉妒的魔女』那样，是银发与紫绀色眼瞳的半魔──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>伝承に語られる『嫉妬の魔女』のような、銀髪に紫紺の瞳の半魔などではなく──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──啊。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──あ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>突然，佩特拉意识到了一件事。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そこで不意に、ペトラはとあることに気付いた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「────」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉思绪扩大，回想起了在『常闇』中至今为止交换过的对话。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>これまでの、この『常闇』で交わされた会話が思い出され、ベトラの思考が拡大する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>就这样，回到了一直被忽视的问题上。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのまま、目線を逸らされていた問題へ回帰する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>为了找到那个回归的疑问的答案，佩特拉从艾米莉娅的怀里抬起头，转向了竜车外穆吉卡的方向。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その舞い戻った疑問の答えを得るために、ペトラはエミリアの胸から顔を上げ、竜車の外にいるムジカの方に向き直った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然后──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そして──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──穆吉卡，你从未称呼过艾米莉娅大人为半魔吧？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──ムジカさん、一度もエミリア様のことを半魔って呼ばないんですね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那就是她最初想寻找的线索。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>と、そう最初の切っ掛け欲しさにそれを尋ねた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>大多数讨厌艾米莉娅的人，像穆吉卡他们一样，是以出身作为理由。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアを嫌う人の大半は、ムジカたちと同じように出自を理由にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但是，他们中大多数人称呼艾米莉娅为『半魔』。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>しかし、その大半の人たちはエミリアのことを『半魔』と呼ぶのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉非常厌恶这个称呼，因为她对这种隔绝的感觉感到难以接受。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そこに受け入れ難いものへの隔絶を感じて、ペトラはその呼び方が大嫌いだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我记得很清楚。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>わたし、ちゃんと覚えてます」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>虽然希望艾米莉娅失去王选资格，抱怨她崛起的种种危险性，但穆吉卡始终一贯地称呼艾米莉娅为『半妖精』。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアの王選失格を願い、彼女が立つことの危険性をあれこれ訴えながら、それでもムジカは一貫して『ハーフエルフ』とエミリアを呼び続けた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这不是因为穆吉卡实际上并不讨厌艾米莉娅这种太过天真的说法，而是与他自己的身世有关。——不是因为艾米莉娅，而是因为穆吉卡自己。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それはムジカが、実はエミリアを嫌っていないなんて虫のいい話ではなく、その出自が関係している。──エミリアではなく、ムジカ自身の。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“穆吉卡，你也是一直被周围人用嫌恶的目光看待的土鼠人吧。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ムジカさんも、周りに嫌な目で見られてきた土鼠人だから」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡知道她会暴露在偏见之中，因此可能对用『半魔』这个称呼来贬低艾米莉娅感到犹豫。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>偏見に晒されることを知っているムジカには、『半魔』と悪しざまにエミリアを呼ぶことが躊躇われたのだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>而且佩特拉忍不住觉得这应该就是这次计划的关键。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そして、ペトラにはその在り方こそが、今回の計画の肝だと思えてならなかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“穆吉卡，你们打算用什么方法以我们为人质与王国进行交涉？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ムジカさん、わたしたちを人質にして王国と交渉するって、どんな方法なんですか?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“......说起来也不难。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>雷根多拉家知道我们与小姐你们在一起。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>難しい話じゃありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我们会照原样将事实传达到雷根多拉家，然后将消息报告王都──”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>あたしらがお嬢さん方といることは、レグンドラ家が承知していること。そのままレグンドラ家に事実を伝え、王都に報せを──」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“但是，你们知道这个计划不会顺利吧。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「でも、うまくいかないってわかってる計画ですよね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「────」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“就算以我们为人质，国内的大人物也不会听你们的，穆吉卡你们一开始就应该知道这一点。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「わたしたちを人質にしても、国の偉い人たちが聞いてくれるはずないって、ムジカさんたちも最初からわかってたはずです」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>和往常一样，真正的艾米莉娅在场会让事态变复杂，但如果穆吉卡所认识的佩特拉等人只是贵族小姐的一行人，他们的目的就不会成功。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>相変わらず、本物のエミリアがいることが事態をややこしくしているが、ムジカの認識通りにペトラたちがただの貴族の令嬢一行なら、その目的は成功しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>如果穆吉卡他们的目的真的是冲着让艾米莉娅退出的话。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカたちの目的が、本当にエミリアの辞退を狙ったものだとしたら。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“......我只是相信掀起风波是有意义的。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「......一石を投じることに意味があると信じるだけですぜ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“最开始，你就只是想搅起那个风波吧。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「最初に、その石を投げたかったんですよね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“什......啊”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「な......ッ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“然后，土鼠人就可以被看作是勇敢地直面带来恐怖回忆的『嫉妒魔女』的人们。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「そうしたら、土鼠人は『嫉妬の魔女』の怖さを思い出させる相手に、勇敢に立ち向かった人たちってことになれるから」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>受到佩特拉的指摘后，穆吉卡的声音第一次真正动摇了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラの指摘を受けて、 ムジカの声が初めて本気で動揺した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>与之前那种虚假的诱导的反应不同，这次直接被意料之外的事情冲击到了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それまでの、作り物めいた誘導的な反応ではなく、はっきり予想外を突かれたことの衝撃だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>获得这样的反应，佩特拉这次终于得到了回报。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その反応が得られたことで、ペトラは今度こそ手応えを得た。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“在陷阱中，你一直保护着帕特拉修不受伤害，还愿意陪我谈话，我竟然没觉得奇怪。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「落とし穴で、ちゃんとパトラッシュちゃんが傷付かないようにしてくれてたところと、こうやって話に付き合ってくれてるのを変に思わなきゃいけなかったのに」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>他一边保护着被困的地竜，一边说不会配合拖延时间与被囚禁的佩特拉她们耐心地对话，但还是上了佩特拉拖延时间的当。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>罠にかけた地竜を守り、囚われのベトラたちとも根気強く話に付き合う時間稼ぎには付き合わないと言いつつ、ペトラの時間稼ぎにまんまと乗ってくれた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>随着对话的推进，佩特拉心中种下的疑心暗鬼——这些全部的布局，都是期望在他们自己的诉求最终失败后，能够从获得自由的佩特拉她们嘴中向周围传播今天的对话。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そして話が進むにつれて、ペトラの中に植え付けられた疑心暗鬼──あれは全部、自分たちの訴えが失敗に終わったとき、解放されたペトラたちの口から、今日の会話が周りに広がることを期待しての布石だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──如果把艾米莉娅选为候选人，就可能会爆发第二次『亚人战争』。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──エミリアを選の候補者としておけば、第二の『亜人戦争』が勃発しかねない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>为了防止这种情况，土鼠人冒着危险第一个大声宣告。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それを防ぐため、土鼠人は危険を冒してでも最初に声を上げたのだと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，这个计划不止需要成功实施表面上的计划，还需要某种程度的觉悟。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>しかし、それは表向きの計画を成功させる以上の、ある種の覚悟がいる計画だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>原因是──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>何故なら──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“如果这个故事传到了国家的中枢，土鼠人的风评就会受损。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「国の中枢へ話が持ち上がれば、土鼠人への風向きは悪くなりかねない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>如果你们以王国贵族为人质威胁国家的话，那你们所有族人都一~定会被问责呢。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>王国貴族を人質に国を脅迫したとなったら、一族全体が責任を問われるだろーぉね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“咕……”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ぐ......っ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“相反，这正是你~所希望的吧？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「むしろ、それが望みだったのかーぁな?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──当责任受到追究，其处罚被广泛知晓时，人们会渴望知晓答案。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──責任を問われ、その処罰が広く知られれば人は答えを知りたがる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>土鼠人为了世界所做出的英勇的暴行。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>土鼠人の、世界を思った英雄的蛮行を」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>罗兹瓦尔用话语深入剖析佩特拉得出的推论。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラが辿り着いた推論、それをロズワールが抉るように言葉にした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>对于罗兹瓦尔切入的言论，佩特拉面露不悦。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そうして切り込むロズワールの言説に、ペトラは嫌な顔をする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>他那种理所当然的说话方式让她更加气愤，因为佩特拉发觉他比自己更早得出相同的结论。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その言い方ももちろんだが、それ以上に腹立たしかったのは、ロズワールも同じ結論に、しかもペトラよりよっぽど早く辿り着いていたのだと気付いたからだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>回想起来，从讨论刚开始，罗兹瓦尔的发言次数就一口气减少了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>思えば、ロズワールの口数は話し合いの序盤から一気に少なくなっていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>虽然不清楚他在什么时候察觉到了穆吉卡的意图，但在察觉到后，他选择了静观其变。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>どの時点でムジカの思惑に気付いたのかわからないが、気付いてからも静観を選んだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>其中原因，多少能猜到，让人生气。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その理由は、何となく察せられて腹立たしい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“不过，我更加愤怒……这对所有土鼠人来说是自杀。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「でも、わたしはもっと怒ってます。......こんなの、土鼠人みんなの自殺ですよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“欸……！？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「え……!?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅微妙地跟不上对话，在听到佩特拉的话后瞪大了眼睛。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>微妙に話についてこられていないエミリアが、ペトラの言葉に目を見開く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>不过她跟不上也是没办法。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、ついてこられないのも仕方ない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这是艾米莉娅绝对不会有的想法。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリアには絶対にない発想だろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡他们担心王国的未来，是做好了死的觉悟的勇敢存在。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカたちは、王国の未来を案じる勇敢な存在として死ぬことを覚悟していた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这可能是因为──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それはおそらく──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“因为史实原因被迫害，而对命运的不合理安排的反抗……也许可以说你们为了消除土鼠人所受到的偏见目光而进行了自己的战斗。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「史実が原因で迫害され、不条理を運命づけられたことへの反逆......土鼠人に向けられる偏見の目を消すための、君たちなりの戦いというところかな」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“……我也确实不想发生『亚人战争』。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「……わたしは、本当に 『亜人戦争』を起こしたくない気持ちもあると思います」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“哦，不愧是佩特拉大小姐，真是善良。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ほう、さすがベトラお嬢様はお優しい」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这暗中夹杂的讽刺，让佩特拉对罗兹瓦尔的厌恶程度增加了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>付け足された嫌味に舌を出して、ペトラはロズワールへの嫌い度を強めた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>穆吉卡他们的行动不值得称赞，对佩特拉她们来说也是个麻烦。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカたちの行動は褒められたものではないし、ペトラたちにとってはいい迷惑だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但这是单方面认定他们的动机和想法全部是卑鄙的看法。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、その動機や思惑の全部を浅ましいと決めつけるのは一方的な見方だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那种东西和不去区分艾米莉娅与『半妖精』的看法没有任何区别。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そんなの、エミリアを『ハーフエルフ』と区別しない見方と何も変わらない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“穆吉卡你们怎么看呢？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ムジカさんたち、どうなの?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“……我们好像被认真干什么都不顺利的天命所诅咒着。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「......あたしらは、本気で何もかもうまくいかない天命に呪われてるらしい」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那声音仿佛让人看到了他的肩膀颓丧垂下的模样。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>がっくりと肩を落としている姿が目に浮かぶような声だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>再无辩解的余地，自己的目的被识破了，穆吉卡发出了干笑声。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>言い訳の余地もなく、自分たちの狙いを看破され、ムジカは渇いた笑い声をこぼす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>现在也只能笑了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>もはや笑うしかないのだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“就像小姐你们所考虑的那样，我们的想法就是这卑鄙的计划……是一群背叛了爱丽丝，招致荆棘之王的怒火的末裔的傻愿望。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「お嬢さん方の考えてらっしゃる通り、その浅ましい計画があたしらの思惑......アイリスを裏切り、 茨の王の怒りを買った末裔の、馬鹿な望みでありました」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在笑过一阵后，穆吉卡仿佛放弃一般说了这句话。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ひとしきり笑ったあとで、観念したみたいにムジカがそう言った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉和罗兹瓦尔的推测是正确的，他们在与先祖行为的亡灵进行战斗。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラやロズワールの推測が正しく、彼らは先祖の行いという亡霊と戦ったのだと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“你看，穆吉卡，我──”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「あのね、ムジカさん、私は──」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“艾米莉，等等。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「エミリー、待って」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅无法忍受那悲痛的声音，其声音中闪现出觉悟的色彩。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その声の悲痛さに耐えかねて、エミリアの声に覚悟の色が灯った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>可正当她要做出决定时，佩特拉阻止了她。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>が、それをすんでのところで引き止め、ペトラは彼女の決断に待っをかける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>此刻，艾米莉娅打算挑明自己的身份，正面与穆吉卡交锋。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>今、エミリアは自分の素性を打ち明け、 ムジカと正面から向き合おうとした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这个想法本身很高尚，也很符合艾米莉娅的风格。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その考え自体は尊いし、エミリアらしいとも思う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但如果她这样做，可能会使穆吉卡的头脑陷入混乱和恶劣的想法之中。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、それをしてしまえば、ムジカの頭に混乱と、悪い考えがまたしても差し込みかねない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>所以这里不是护卫艾米莉出场的时候，而是带领一行人的佩特拉大小姐出场的时候。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>だからここは、護衛のエミリーの出番ではなく、一行を率いるペトラお嬢様の出番だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>即使一族全部死去，也希望阻止艾米莉娅这个半妖精的存在可能引发的第二次『亚人战争』的勇敢的土鼠人。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>一族全体が死んだとしても、エミリアというハーフエルフの存在がもたらすかもしれない第二の『亜人戦争』を食い止めることを望んだ勇敢な土鼠人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>对于试图求得那份名誉却又最终得不到的他们该说的话是──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その評判を求め、得られないで終わろうとしている彼らにかけるべき言葉は──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──穆吉卡，与其与王国进行交涉，不如与我进行交涉如何？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──ムジカさん、王国と交渉するんじゃなくて、わたしと交渉しませんか?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>回程中的佩特拉，出自短篇集8，插画：﻿福きつね</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──突破佛拉基亚帝国的『常闇』的通行再度开放，竜车摇晃着前进。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──ヴォラキア帝国へ突き進む『常闇』の通行が再開し、竜車が揺れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“屁股好痛……”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「お尻痛い......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>摇晃的竜车的座位上，佩特拉一边嘀咕一边不断改变着屁股的角度。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>揺れる竜車の座席の上、何度もお尻の角度を変えながらペトラは呟く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>听到佩特拉的话，坐在她旁边的存在温柔地说道──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そのペトラの言葉を聞いて、隣にいる存在が優しい言葉を──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“......拉姆姐姐大人好不温柔。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「......ラム姉様、優しくない」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我本来就不温柔。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「優しくないわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>而且，我从一开始就不是姐姐大人。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そもそも、姉様でもないもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>对吧，佩特拉大小姐？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そうでしょう、ペトラお嬢様」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在那与慈悲无缘的淡红色眼瞳下，佩特拉垂下了肩膀，“呜……”。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>慈悲深さと無縁の薄紅の瞳に、ペトラは「うぅ……」と肩を落とした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>而在这样的佩特拉和拉姆的对话中。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>と、そんなペトラとラムのやり取りに、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“拉姆，请不要欺负佩特拉大小姐。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ラム、ベトラお嬢様をイジメるのはおやめなさいな」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“呼，芙蕾德莉卡姐姐大人......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ふ、フレデリカ姉様......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“不是姐姐大人，佩特拉大小姐。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「姉様ではありませんことよ、ペトラお嬢様。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>而且，虽然我劝告了拉姆，但我也很生气。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それと、ラムを諌めはしても、わたくしも怒ってはおりますの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>嗯，我已经气得嗡嗡叫了。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ええ、もうブンブンですのよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>对面座位上的是双手交叉，眯起翠绿的眼睛的芙蕾德莉卡，佩特拉语塞。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>対面の席で腕を組み、そう翠の瞳を細めたフレデリカにペトラは言葉に詰まる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>突然间，从车顶上传来愉快的笑声，“呵哈哈哈哈。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>途端、「くははははッ」と楽しそうな笑い声が屋根の上から聞こえて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“暂时也没办法啊，佩特拉大小姐。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「しばらッくは仕方ねェよ、ペトラお嬢様。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>能明白姐姐和拉姆想表达的感觉。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>姉貴とラムが言いたくなる気持ちもわかるってもんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但能让罗兹瓦尔混蛋吃惊心情真不错啊。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ロズワールの野郎を驚かせたってのは気分いいッけどよォ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“加菲，请不要这么轻率地说话！</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ガーフ、軽々しく言うんじゃありませんわ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉大小姐，如果身体状况出现任何变化，请立刻告诉我。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラお嬢様、何か体調に変化があったらすぐに言うんですのよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我、我知道啦。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「わ、わかってます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那个，让你们担心啦，芙蕾德莉卡姐......芙蕾德莉卡。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その、心配させてごめんなさい、フレデリカね…...フレデリカ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉低头说出这句话，芙蕾德莉卡的眉尾皱了皱，“真是的。”她的表情中既有强烈的责备之色，也有更多的担忧之色。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>頭を下げるペトラの言葉に、フレデリカが「まったく」と眉尻を下げる。その表情には叱責の色と、それ以上の憂いの色が強く出ている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>自从坐上后面会合上来的竜车之后，佩特拉一直在不断道歉。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>こうして合流した後続組の竜車に乗せられて以来、ペトラはずっと謝りっ放しだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>但这也是理所当然的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>でも、それも当然だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“没想到佩特拉大小姐会为了获得对方的赞同而进行交涉......先不说艾米莉，达德利在干什么呢？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「まさか、相手の納得を引き出すための交渉をペトラお嬢様がしていたとは......エミリーはともかく、 ダドリーさんは何をしてたんですかね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“他一直在嗤笑，恶趣味地想看着我失败。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「にやにや笑って、わたしが失敗するかどうか悪趣味に見てました」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“虽然和事实大差不差，但决定性的部分可能存在着偏见......！”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「事実と大差なさそうだけど、 決定的な部分ですれ違ってそうな偏見......!」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>奥托在驾车台上握着缰绳，这样回应着佩特拉的回答。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>御者台で手綱を握るオットーが、ペトラの答えにそんな風に返す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而，在昏暗中，他摸着自己的帽子道，“唉呀呀。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>しかし、薄闇の中で彼は「やれやれ」と自分の帽子を触りながら、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“所以，佩特拉大小姐，你真的没事吗？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「それで、本当に大丈夫なんですか、ペトラお嬢様。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──誓约的影响呢？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──誓約の影響は」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“......没事的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「……何ともないです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>真的。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ホントですよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>补充一下可能会显得虚假，但这是真的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>付け加えると嘘っぽくなってしまうが、これは本当のことだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>事实上，身体状况没有任何问题。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>実際、体調の方には何の問題もない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>精神上，可能有点行动过早的感觉，但比这更强的是成就感。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>精神的にはちょっと、早まった真似をしてしまったという気持ちもあるが、でもそれ以上に達成感の方が強い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>终于，有了成为艾米莉娅阵营的一员，成为艾米莉娅的力量的成就感。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ようやく、エミリア陣営の一員として、エミリアの力になれたという達成感が。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“陷进那种感觉就危险了，你最好小心点。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「それ、嵌まると危ない感覚ですから気を付けた方がいいですよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“对奥托已经晚了。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「オットーさんは、もう手遅れですもんねっ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“因为我有点自觉，所以才不想被你说起来啊！”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「若干の自覚はあるから言われたくないんですよねえ!」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>听着奥托尖锐颤抖的声音，佩特拉低头看向自己的身体──确认了衣服的内部，自己身体上刻着的『誓约』的证明的存在。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>オットーの高い声が裏返るのを聞きながら、ペトラは自分の体を見下ろし──その服の内側、自分の体に刻まれた『誓約』の証の存在を確かめる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那是立下的决不可破的誓言的证明，是她与由穆吉卡领导的土鼠人们所交换的约定——是宣誓履行那个的证明。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それは、決して破ることのできない誓いを立てた証であり、ベトラがムジカ率いる土鼠人たちと交わした約束──その履行を誓ったことの証明だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>在计划被识破、被俘的佩特拉等人的存在成为穆吉卡等人的障碍之际，佩特拉在他们发脾气之前提出了交涉。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>計画が看破され、捕らえたペトラたちの存在が邪魔になってしまったムジカたち、彼らが短気を起こす前にペトラは交渉を持ちかけた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>其内容是──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その内容が──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──不是用这种方式，而是通过正当的方法让周围人知道土鼠人为了避免『亚人战争』的发动而拼命努力的事情。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──こんなやり方じゃなくて、土鼠人が 『亜人戦争』を起こさないために頑張ったってことを、ちゃんとした方法で周りに知ってもらうこと」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“为此约定了与艾米莉娅大人的会晤以及准备直接谈判的机会……在当事人就在旁边的情况下，真是达成了非常大胆的约定呢。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「そのためにエミリア様との接見と、直談判の機会を用意する約束……すぐ隣に当人を置いておいて、ずいぶんと豪胆な約束を取り付けたものね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“土鼠人所追求的是洗刷先祖不光彩的行为......既然如此，现在用全新的评价就能改写掉它，我想这会是个不错的折中方案。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「土鼠人が欲しがっていたのは、先祖が行った不名誉の払拭......でしたら、今代がそれを新たな評価で塗り替えればいい。わたくしはよい落とし所と思いますわ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>拉姆和芙蕾德莉卡各自评价了佩特拉所交换的誓约和其目的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ペトラの交わした誓約と、その狙いをラムとフレデリカがそれぞれ評価する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>拉姆的说法很严厉，而芙蕾德莉卡的说法则更温和。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ラムの言い方は厳しく、フレデリカの言い方は優しく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>然而──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ただし──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“嘛，虽然我想为此采取和老爷一样的做法有些不妥吧。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「まぁ、そのために旦那様と同じようなことをするのはどうかと思いますけれど」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>就连温柔的芙蕾德莉卡也对作为妹妹的佩特拉大胆的行动感到愤怒。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>優しいフレデリカも、妹分であるペトラの思い切った行動には怒り通しだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>佩特拉根本不知道该怎么做平息她的愤怒。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>いったいどうすればその怒りを収められるのか、ペトラには見当もつかない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“加菲，有什么好的方法吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ガーフさん、何かいい方法ある?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“啊？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「あァ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我不知道，要不给她点硬东西啃啃？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>わかんねェけど、なんか硬いッもんでも噛ませといたらいいんじゃァねェか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>牙齿痒痒心情就会变差啊。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>歯が痒くなっと機嫌が悪くなっかんなァ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“嗯，知道了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「うん、わかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>不再问加菲了。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>もうガーフさんに聞かないね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“噶......！？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「がお......っ!?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>毫不意外的评价，让加菲尔受到了冲击，但他被搁置了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>意外でも何でもない評価に、衝撃を受けるガーフィールのことはそのまま放置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──佩特拉的决断惹怒了芙蕾德莉卡，也许还有拉姆。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──フレデリカを、たぶんラムも怒らせてしまったペトラの決断、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那是与穆吉卡等人交换的，将灵魂与约定的履行绑定的誓约。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それがムジカたちと交わした約束の履行を魂に結び付けた誓約だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>一旦有誓约被打破的情况，佩特拉就会丧命。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>この誓約を破った場合、 ペトラは命を落とすことになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>当然，让它成立的条件很宽松。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>もちろん、成立させるための条件は緩い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>毕竟，只要让穆吉卡他们直接与艾米莉娅对话就可以了。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>なにせ、ムジカたちが直接エミリアと話せればいいのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“只要我们大家能够平安地回到露格尼卡，就什么问题都没有。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「無事にわたしたちが、みんなでルグニカに戻れれば何にも問題ないもん」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>从这个意义上，这个誓约的存在也可以说是佩特拉决心的宣言。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>そういう意味では、この誓約の存在はペトラの決意表明とも言えるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>她必定会与昴等人一起会合，然后全员一起返回王国。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>必ず、スバルたちと合流し、この全員で王国へ戻ってくるのだと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>只是，让芙蕾德莉卡等人生气也没办法了，她也有一部分要反省的地方。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ただ、フレデリカたちに怒られても仕方ないと、そう反省する部分も一個だけ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>那就是──</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それは──、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我只是想对老爷那副写着什么都知道的表情做点什么，所以提出了要以同样的方式进行誓约，也许有点孩子气......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「旦那様の何でもわかってますって顔、あれを何とかしたくて、 おんなじ風に誓約するって言ったのだけ、子どもっぽかったかも......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──不过那值了，因为在提出那个提案时罗茲瓦尔的表情确实是个杰作。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──その甲斐あって、そう提案したときのロズワールの顔は傑作だったのだけれど。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>──就在佩特拉被会合的伙伴们说教时。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>──そうして、 ペトラが合流した仲間たちにお説教をされている頃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“我真的感到自己是非~常幸运呢。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「私、自分がすごーく恵まれてるって実感したわ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“幸运吗？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「恵まれているかい?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>即便因为艾米莉娅大人的存在的缘故，出现了让他们如此想不开的事情？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>エミリア様の存在が理由で、彼らのような思い詰めるものが出てくるにも拘らず?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“是的，就是这样。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ええ、そう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>虽然我不能赞同穆吉卡他们的想法和所做之事......但是，我很高兴感受到了佩特拉酱的心情。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカさんたちの考えとか、やろうとしてたことは賛成できないけど......でも、ペトラちゃんの気持ちが嬉しかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「────」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“啊，但是随意推进誓约的对话很让人生气！”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「あ、誓約の話を勝手に進めちゃったのは怒ってるから!」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“誓约、啊......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「誓約、か.....」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“罗兹......达德利？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ロズ......ダドリー?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“没什么，我只是对那个感到惊讶。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「いいや、あれには驚かされたね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>不管是想法还是确定觉悟的方式。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>その発想にも、覚悟の決まり方にも。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>最重要的是，那竟然去拯救对自己不利的对手的姿态。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>何より、自分に不利益をもたらした相手をも救おうとする姿勢だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>简直就像......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>まるで......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“简直就像昴吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「まるでスバルみたい?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“嗯，似乎艾米莉的影响也是有的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ああ、エミリーの影響もあるようだが。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>哎呀呀，在这势头下......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>やれやれ、あの調子では......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──？</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>你为什么说得好像是别人的事似的？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>他人事みたいに何言ってるの?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“......怎么了？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「……なんだい?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“达德利难道不是教佩特拉种种魔法的人吗。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ペトラちゃんに魔法とか、あれこれ教えてるのはダドリーじゃない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>所以，达德利的影响也是存在的。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>だから、ダドリーの影響でもあるのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>所以，不要忘记这一点，知道吗。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>それを忘れちゃダメだからね」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「────」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“啊，我去看看帕特拉修酱的情况。</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「あ、私、パトラッシュちゃんの様子見てくるわね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>也要去问问穆吉卡他们差不多多久才能从『常闇』中出来。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>ムジカさんたちにも、どのぐらいで『常闇』から出られるのか聞いてこなくちゃ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「────」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“......你那张奇妙的脸是怎么回事（ka-xi-la）。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「……お前、神妙な顔してるかしら」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“哦呀，你醒了吗？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「おや、起きたのかい?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“只是一会而已......贝蒂在睡觉的时候发生了什么吗（ka-xi-la）？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「ちょっとだけ、なのよ。......ベティーの寝てる間、何かあったかしら?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“是呢，在你睡觉的时候......”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「そうだね、君が寝ている間に......」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“──？”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「──?」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>“发生了一件非常非常难以用言语形容其感觉的事情。”</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>「とてもとても、言葉では言い表し難い感覚になる出来事が、あったよ」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>《待续》</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationid="OmegaT Aligner" creationdate="20241129T020250Z">
+        <seg>《続く》</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>译者按：本篇是长月少有的直接涉及re0世界隐藏的最核心矛盾——亚人和人类种族歧视的短篇，本人当时看的时候是相当期待的，很想看艾米莉娅将如何发挥解决这一矛盾，凸显她的成长，如果解决的好，这将是非~常能体现她能力的高光时刻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>可惜长月最后选择了让佩特拉来获得这个荣誉，代价也是佩特拉来付。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>艾米莉娅引起的问题，却让佩特拉来解决，自己全程旁听，这也是我觉得长月处理的非~常让人遗憾失望的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>怎么说呢，希望以后能够多写些真正能凸显艾米莉娅能力的地方吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>有一点也值得注意，本篇第一次将嫉妒魔女之后全世界迫害和嫉妒有关的一切这一点明确地写出来。这让我联想到了众魔女之死，就如我之前所写，众魔女很可能是死在了嫉妒被封印之后，为什么是那个时间点？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>本篇就给出了一个可能，要知道，欧米茄说过在以前的时候，人们是会为了成为魔女而举行各种残酷的仪式的（短篇集6 魔女的茶会之余 魔女的条件）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>我觉得很可能是嫉妒带来的沉重灾害，造成了人们对魔女的态度一下子从崇拜改变成了恐惧，使得全世界都开始不惜一切代价追杀魔女。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="zh-CN">
+        <seg>这一点在One Wild Night后篇也有暗示，我后期会发布它的翻译，敬请期待。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

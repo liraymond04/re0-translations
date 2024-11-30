@@ -1,0 +1,2997 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_63f59dc9b" segtype="sentence" srclang="zh-CN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>......我说过了吧。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T012215Z" creationid="liray" creationdate="20241128T012215Z">
+        <seg>…I told you before.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T205311Z" creationid="liray" creationdate="20241126T205311Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T215630Z" creationid="liray" creationdate="20241127T215630Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T221444Z" creationid="liray" creationdate="20241127T221444Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T232446Z" creationid="liray" creationdate="20241127T232446Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T043855Z" creationid="liray" creationdate="20241127T043855Z">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>6</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T072505Z" creationid="liray" creationdate="20241127T072505Z">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>Stand by me Pleiades Part 4</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T201831Z" creationid="liray" creationdate="20241126T201831Z">
+        <seg>Stand by me Pleiades Part 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>······…… 你对王选是有些想法吧？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225650Z" creationid="liray" creationdate="20241127T214914Z">
+        <seg>…You have some thoughts about the Royal Selection, don't you?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“...... 艾米莉娅姐姐大人的偷渡入境会被发现。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225555Z" creationid="liray" creationdate="20241127T012043Z">
+        <seg>"…Sister Emilia-sama's stowaway entry will be discovered."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“......你那张奇妙的脸是怎么回事（ka-xi-la）。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230003Z" creationid="liray" creationdate="20241127T041010Z">
+        <seg>"…What's up with that strange face of yours, I suppose."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“......怎么了？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225956Z" creationid="liray" creationdate="20241127T041654Z">
+        <seg>"…What's wrong?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“......我没想到会有这么不方便。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225520Z" creationid="liray" creationdate="20241126T211100Z">
+        <seg>"…I didn't expect it to be this inconvenient."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“......拉姆姐姐大人好不温柔。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225807Z" creationid="liray" creationdate="20241127T051607Z">
+        <seg>"…Ram nee-sama really is not gentle."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“......是的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225705Z" creationid="liray" creationdate="20241127T080031Z">
+        <seg>"…Yes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“......没事的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225845Z" creationid="liray" creationdate="20241127T060845Z">
+        <seg>"…It's fine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“……我也确实不想发生『亚人战争』。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T000443Z" creationid="liray" creationdate="20241128T000443Z">
+        <seg>"…I really don't want a Demi-human War to happen either."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“……我们好像被认真干什么都不顺利的天命所诅咒着。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T010105Z" creationid="liray" creationdate="20241128T010105Z">
+        <seg>"…It seems like we're cursed by a fate where nothing goes right."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230932Z" creationid="liray" creationdate="20241127T020822Z">
+        <seg>"――――"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“──。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231012Z" creationid="liray" creationdate="20241127T221131Z">
+        <seg>"――.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“──不是用这种方式，而是通过正当的方法让周围人知道土鼠人为了避免『亚人战争』的发动而拼命努力的事情。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231846Z" creationid="liray" creationdate="20241127T063845Z">
+        <seg>"――Not in this way, but to properly let those around them know about the efforts of the Mole-people to prevent the outbreak of the Demi-human War."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“──嗯”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230942Z" creationid="liray" creationdate="20241127T031133Z">
+        <seg>"――Ehn"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“──我想我是不是听到了与王国的交涉一词？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230846Z" creationid="liray" creationdate="20241126T221724Z">
+        <seg>"――I think I heard you say 'negotiation with the Kingdom?'"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“──穆吉卡，与其与王国进行交涉，不如与我进行交涉如何？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231104Z" creationid="liray" creationdate="20241127T043658Z">
+        <seg>"――Musica, rather than negotiating with the kingdom, how about negotiating with me instead?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“──？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230825Z" creationid="liray" creationdate="20241126T212906Z">
+        <seg>"――?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“──？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231032Z" creationid="liray" creationdate="20241127T040722Z">
+        <seg>"――?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“一定要这样？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T014914Z" creationid="liray" creationdate="20241127T014904Z">
+        <seg>"It has to be like this?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不好的、意味？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225646Z" creationid="liray" creationdate="20241127T214621Z">
+        <seg>"In a bad… sense?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不是姐姐大人，佩特拉大小姐。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T073929Z" creationid="liray" creationdate="20241127T052514Z">
+        <seg>"Not nee-sama, Lady Petra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不过，我更加愤怒……这对所有土鼠人来说是自杀。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T003435Z" creationid="liray" creationdate="20241128T003435Z">
+        <seg>"But, I'm even more angry… It's like suicide for the Mole-people."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“为此约定了与艾米莉娅大人的会晤以及准备直接谈判的机会……在当事人就在旁边的情况下，真是达成了非常大胆的约定呢。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225851Z" creationid="liray" creationdate="20241127T064151Z">
+        <seg>"For this reason, a meeting with Emilia-sama was arranged, as well as an opportunity for direct negotiations… It's quite a bold agreement to have secured, especially with the parties involved right next to each other."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“也许是我们听错了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T225239Z" creationid="liray" creationdate="20241126T225034Z">
+        <seg>"Maybe we heard it wrong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“他一直在嗤笑，恶趣味地想看着我失败。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T060101Z" creationid="liray" creationdate="20241127T060101Z">
+        <seg>"He was grinning, perversely watching to see if I'd fail."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“但是，那样对半妖精也是一样的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T012044Z" creationid="liray" creationdate="20241128T012044Z">
+        <seg>"But, that would be the same for the half-elves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你们要以我们作为人质，与王国谈论什么事情呢？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T024957Z" creationid="liray" creationdate="20241127T024904Z">
+        <seg>"What is it that you want to discuss with the kingdom, using us as hostages?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你想干扰那些顽强努力的人吗？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T012503Z" creationid="liray" creationdate="20241128T012415Z">
+        <seg>"You want to interfere with someone who is trying their best?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你没听错。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T233707Z" creationid="liray" creationdate="20241126T225156Z">
+        <seg>"You didn't mishear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你看，穆吉卡，我──”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231048Z" creationid="liray" creationdate="20241127T042116Z">
+        <seg>"Look, Musica, I――"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你给了个很有气量的回答......但我们也已经开始行动了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225623Z" creationid="liray" creationdate="20241127T023122Z">
+        <seg>"You gave a very dignified answer… but we've already started taking action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“别说得太复杂。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T214831Z" creationid="liray" creationdate="20241127T214831Z">
+        <seg>"Don't make it too complicated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“加菲，有什么好的方法吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T065539Z" creationid="liray" creationdate="20241127T065406Z">
+        <seg>"Garf, do you have any good ideas?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“加菲，请不要这么轻率地说话！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T054314Z" creationid="liray" creationdate="20241127T054212Z">
+        <seg>"Garf, please don't speak so flippantly!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“发生了一件非常非常难以用言语形容其感觉的事情。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T042034Z" creationid="liray" creationdate="20241127T042034Z">
+        <seg>"Something happened that’s incredibly difficult to put into words."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“受牵连......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225731Z" creationid="liray" creationdate="20241127T223504Z">
+        <seg>"Being dragged into this…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“只是一会而已......贝蒂在睡觉的时候发生了什么吗（ka-xi-la）？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230009Z" creationid="liray" creationdate="20241127T040819Z">
+        <seg>"It was just for a moment… Did something happen while Betty was sleeping, I suppose?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“只要我们大家能够平安地回到露格尼卡，就什么问题都没有。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T071154Z" creationid="liray" creationdate="20241127T071154Z">
+        <seg>"As long as we can make it back to Lugunica safely, there's no problem."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“呼，芙蕾德莉卡姐姐大人......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225821Z" creationid="liray" creationdate="20241127T052406Z">
+        <seg>"Huu, Frederica nee-sama…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“咕……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T001046Z" creationid="liray" creationdate="20241128T000106Z">
+        <seg>"Guu… Hk!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哦呀，你醒了吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T075133Z" creationid="liray" creationdate="20241127T040841Z">
+        <seg>"Oh─yah, are you awake?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哦，不愧是佩特拉大小姐，真是善良。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T000711Z" creationid="liray" creationdate="20241128T000704Z">
+        <seg>"Hoh, as expected of Lady Petra, you are really kind."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哦，你们要向王国报告我们的事情吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T231718Z" creationid="liray" creationdate="20241126T230123Z">
+        <seg>"Oh, you're going to report us to the Kingdom?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“唔，不太确定。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T214200Z" creationid="liray" creationdate="20241127T214200Z">
+        <seg>"Hmm, I'm not quite sure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“啊，但是随意推进誓约的对话很让人生气！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T044606Z" creationid="liray" creationdate="20241127T044546Z">
+        <seg>"Ah, but pushing forward with conversations about oaths is really irritating!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“啊，我去看看帕特拉修酱的情况。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T041051Z" creationid="liray" creationdate="20241127T041051Z">
+        <seg>"Ah, I'm going to go check on Patrasche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“啊？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T065544Z" creationid="liray" creationdate="20241127T065544Z">
+        <seg>"Ah?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“嗯。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T235709Z" creationid="liray" creationdate="20241127T235633Z">
+        <seg>"Yes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“嗯，似乎艾米莉的影响也是有的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T075031Z" creationid="liray" creationdate="20241127T041442Z">
+        <seg>"Mmmm, it seems that Emily's influence is also at play.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“嗯，知道了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T070241Z" creationid="liray" creationdate="20241127T070103Z">
+        <seg>"Yeah, got it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“嘛，虽然我想为此采取和老爷一样的做法有些不妥吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T074309Z" creationid="liray" creationdate="20241127T064949Z">
+        <seg>"Well, I suppose it might be a bit questionable to do the same thing as the Master for that reason."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“噶......！？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225902Z" creationid="liray" creationdate="20241127T070328Z">
+        <seg>"Gah…!?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“因为史实原因被迫害，而对命运的不合理安排的反抗……也许可以说你们为了消除土鼠人所受到的偏见目光而进行了自己的战斗。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T004510Z" creationid="liray" creationdate="20241128T004510Z">
+        <seg>"Persecuted because of historical events, and rebelling against the absurdity of fate… It could be said that you fought your own fight to erase the prejudices directed at the Mole-people."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“因为我有点自觉，所以才不想被你说起来啊！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T061927Z" creationid="liray" creationdate="20241127T061852Z">
+        <seg>"It's because I'm somewhat aware of it that I don't want you bringing it up!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“土鼠人所追求的是洗刷先祖不光彩的行为......既然如此，现在用全新的评价就能改写掉它，我想这会是个不错的折中方案。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225857Z" creationid="liray" creationdate="20241127T064423Z">
+        <seg>"What the Mole-people desire is the removal of the disgrace brought by their ancestors… In that case, the current generation can rewrite it with a new evaluation. I think this would be a good compromise."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“在这种情况下你还能说出这种话，你真的是非常有胆量的小姐呢。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T211236Z" creationid="liray" creationdate="20241126T211236Z">
+        <seg>"Still being able to say that in this kind of situation, you really are a very courageous lady."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“地面震动......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T235627Z" creationid="liray" creationdate="20241127T235627Z">
+        <seg>"Tremors in the earth…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“如果他们已经注意到了的话……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225638Z" creationid="liray" creationdate="20241127T213106Z">
+        <seg>"If they've noticed…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“如果是父母和亲兄弟所做的事情，我也就死心了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T224218Z" creationid="liray" creationdate="20241127T224218Z">
+        <seg>"If it was something my parents and brothers did, I would give it up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“如果这个故事传到了国家的中枢，土鼠人的风评就会受损。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T001355Z" creationid="liray" creationdate="20241128T001327Z">
+        <seg>"If this story reaches the central administration of the country, the Mole-people's reputation would be tarnished. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“对于善良的小姐来说，这个现实可能是痛苦的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T013231Z" creationid="liray" creationdate="20241128T013231Z">
+        <seg>"For the kind Miss, this reality might be painful.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“对奥托已经晚了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T061811Z" creationid="liray" creationdate="20241127T061811Z">
+        <seg>"As for Otto, it's already too late."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“就像小姐你们所考虑的那样，我们的想法就是这卑鄙的计划……是一群背叛了爱丽丝，招致荆棘之王的怒火的末裔的傻愿望。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T011636Z" creationid="liray" creationdate="20241128T011058Z">
+        <seg>"As the Miss and others have said, our intentions were exactly on this despicable plan… it was the foolish hope of those who betrayed Iris and incurred the wrath of the King of Thorns."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“屁股好痛……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225803Z" creationid="liray" creationdate="20241127T050553Z">
+        <seg>"My butt hurts…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“帕特拉修没事真是太好了......不过。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225541Z" creationid="liray" creationdate="20241126T215623Z">
+        <seg>"It's great that Patrasche is okay… but."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“幸运吗？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T072922Z" creationid="liray" creationdate="20241127T072911Z">
+        <seg>"Lucky?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我、我知道啦。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T054441Z" creationid="liray" creationdate="20241127T054441Z">
+        <seg>"I, I know.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我们不想受牵连。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T223402Z" creationid="liray" creationdate="20241127T223211Z">
+        <seg>"We don't want to be dragged into this.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我们可以破坏这个『常闇』。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230336Z" creationid="liray" creationdate="20241127T022718Z">
+        <seg>"We can destroy this Eternal Darkness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我们想和王国谈判的是，那个王选的候选人──那个叫艾米莉娅的半妖精候选人的退出。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231008Z" creationid="liray" creationdate="20241127T215308Z">
+        <seg>"What we want to negotiate with the Kingdom is the withdrawal of a candidate of the Royal Selection―― The half-elf candidate called Emilia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我们的小......帕特拉修怎么样了？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225534Z" creationid="liray" creationdate="20241126T212853Z">
+        <seg>"How is our little one… Patrasche-chan doing?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我只是想对老爷那副写着什么都知道的表情做点什么，所以提出了要以同样的方式进行誓约，也许有点孩子气......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225909Z" creationid="liray" creationdate="20241127T072321Z">
+        <seg>"I just wanted to do something about the expression on the Master's face that said he knew everything, so I suggested making the oath in the same way as his, though it might have been a bit childish…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我对小姐你们并没有恶意。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T032803Z" creationid="liray" creationdate="20241127T014804Z">
+        <seg>"I have no malice towards you ladies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我并不是在责怪小姐。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T233910Z" creationid="liray" creationdate="20241127T233910Z">
+        <seg>"I'm not blaming you, miss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我有什么向小姐你们解释的理由......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225629Z" creationid="liray" creationdate="20241127T025038Z">
+        <seg>"What reason do I have to explain it to you lot…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我本来就不温柔。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T232120Z" creationid="liray" creationdate="20241127T051732Z">
+        <seg>"I wasn't gentle in the first place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我相信这两人......相信艾米莉。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225617Z" creationid="liray" creationdate="20241127T023047Z">
+        <seg>"I trust those two… I trust Emily."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我真的感到自己是非~常幸运呢。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T080325Z" creationid="liray" creationdate="20241127T072902Z">
+        <seg>"I really feel like I'm sooo lucky."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“所以，佩特拉大小姐，你真的没事吗？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T060713Z" creationid="liray" creationdate="20241127T060713Z">
+        <seg>"So, Lady Petra, are you really okay?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“拉姆，请不要欺负佩特拉大小姐。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T052335Z" creationid="liray" creationdate="20241127T052335Z">
+        <seg>"Ram, please don't bully Lady Petra."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是呢，在你睡觉的时候......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230016Z" creationid="liray" creationdate="20241127T040748Z">
+        <seg>"Yes, while you were sleeping…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T032839Z" creationid="liray" creationdate="20241127T014925Z">
+        <seg>"Yes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是的，就是这样。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T074933Z" creationid="liray" creationdate="20241127T073143Z">
+        <seg>"Yes, that's right.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是的，没错。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231458Z" creationid="liray" creationdate="20241126T230153Z">
+        <seg>"Yes, that's right…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是的，这是爷爷的爷爷那一辈所犯的错误牵连我们后代所带来的后果。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T223859Z" creationid="liray" creationdate="20241127T223859Z">
+        <seg>"Yes, these are the consequences of the mistakes made by my grandfather's grandfather's generation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“暂时也没办法啊，佩特拉大小姐。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T054006Z" creationid="liray" creationdate="20241127T053703Z">
+        <seg>"There's nothin' we can do about it now, Lady Petra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“欸……！？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T000347Z" creationid="liray" creationdate="20241128T000347Z">
+        <seg>"Eh…!?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“欸欸！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T025200Z" creationid="liray" creationdate="20241127T025135Z">
+        <seg>"Ehh!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“比现在、更糟......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T013422Z" creationid="liray" creationdate="20241128T013408Z">
+        <seg>"Worse, than it already is…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“没什么，我只是对那个感到惊讶。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T075009Z" creationid="liray" creationdate="20241127T044642Z">
+        <seg>"Nothing, I was just surprised by that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“没想到佩特拉大小姐会为了获得对方的赞同而进行交涉......先不说艾米莉，达德利在干什么呢？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225835Z" creationid="liray" creationdate="20241127T055702Z">
+        <seg>"I didn’t expect Lady Petra to negotiate for the other party’s approval… putting Emily aside for now, what is Dudley doing?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“王位的选拔战，小姐你们也听说过了吧？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T031103Z" creationid="liray" creationdate="20241127T031103Z">
+        <seg>"The selection battle for royal throne, I'm sure you ladies have heard of it, haven't you?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“相反，这正是你~所希望的吧？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T001814Z" creationid="liray" creationdate="20241128T001814Z">
+        <seg>"On the contrary, that's exactly what you waaanted~, isn't it?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“真是谨慎聪明的回答，在好的意味上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T214459Z" creationid="liray" creationdate="20241127T214405Z">
+        <seg>"That's a very cautious and wise answer, in a good sense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“穆吉卡你们怎么看呢？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T005919Z" creationid="liray" creationdate="20241128T005919Z">
+        <seg>"Musica, what do you and your group think?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“等一下。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T025624Z" creationid="liray" creationdate="20241127T022429Z">
+        <seg>"Wait a minute."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“等一下等一下！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T025920Z" creationid="liray" creationdate="20241127T025507Z">
+        <seg>"Wait a moment, wait a moment!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“简直就像昴吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T050204Z" creationid="liray" creationdate="20241127T050114Z">
+        <seg>"It's just like Subaru?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“罗兹......达德利？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225931Z" creationid="liray" creationdate="20241127T044623Z">
+        <seg>"Ros… Dudley?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“至少，我是想避免的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T233210Z" creationid="liray" creationdate="20241127T233210Z">
+        <seg>"At least, that's what I wanted to avoid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“艾米莉。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T025116Z" creationid="liray" creationdate="20241127T025116Z">
+        <seg>"Emily."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“艾米莉娅的，退出。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225655Z" creationid="liray" creationdate="20241127T215653Z">
+        <seg>"Emilia's… withdrawal."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“艾米莉，等等。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T042131Z" creationid="liray" creationdate="20241127T042131Z">
+        <seg>"Emily, wait."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“虽然和事实大差不差，但决定性的部分可能存在着偏见......！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225840Z" creationid="liray" creationdate="20241127T060339Z">
+        <seg>"It seems not too far from the truth, but there's a bias in the crucial part where it might have gone off course…!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“虽然对穆吉卡他们来说很可怜......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225605Z" creationid="liray" creationdate="20241127T021729Z">
+        <seg>"As pitiful as it is for Musica and the others…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“虽然说了那样的话，但我们已经接受了自己的处境。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T012830Z" creationid="liray" creationdate="20241128T012830Z">
+        <seg>"Having said that, we've accepted our situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“誓约、啊......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225921Z" creationid="liray" creationdate="20241127T044442Z">
+        <seg>"Oath, ah…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“达德利。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T022050Z" creationid="liray" creationdate="20241127T022050Z">
+        <seg>"Dudley."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“达德利难道不是教佩特拉种种魔法的人吗。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T041851Z" creationid="liray" creationdate="20241127T041736Z">
+        <seg>"Isn't Dudley the one who taught Petra all kinds of magic?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这是你乱来的报应，老老实实痛苦呻吟吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T073712Z" creationid="liray" creationdate="20241127T051356Z">
+        <seg>"This is the consequence of your recklessness, just accept the pain and groan quietly."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这是动摇国家的大事。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T214056Z" creationid="liray" creationdate="20241127T213618Z">
+        <seg>"This is the major event shaking up the country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这毕竟是偷渡入境。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T014638Z" creationid="liray" creationdate="20241127T013934Z">
+        <seg>"This is smuggling into a country, after all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这种说法方式……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T013144Z" creationid="liray" creationdate="20241128T013144Z">
+        <seg>"This way of saying it…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“那种事情。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T233246Z" creationid="liray" creationdate="20241127T233246Z">
+        <seg>"That kind of situation."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“陷进那种感觉就危险了，你最好小心点。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T061700Z" creationid="liray" creationdate="20241127T061700Z">
+        <seg>"It's dangerous to get caught up in that feeling, you better be careful."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“难道是我们真的想多了吗？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T234500Z" creationid="liray" creationdate="20241127T233603Z">
+        <seg>"Are we really overthinking this?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>……啊，你们担心偷渡入境的事情会泄露吗？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231455Z" creationid="liray" creationdate="20241126T230522Z">
+        <seg>Ah, are you worried that your sneaky entry will be leaked?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>──不过那值了，因为在提出那个提案时罗茲瓦尔的表情确实是个杰作。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231149Z" creationid="liray" creationdate="20241127T072500Z">
+        <seg>――But it was worth it, because the look on Roswaal’s face when she made that proposal was truly a masterpiece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>──但前提条件是，佩特拉她们必须确保到达帝国。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230938Z" creationid="liray" creationdate="20241127T021835Z">
+        <seg>――But the prerequisite is, Petra and the others must make sure that they reach the Empire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>──佩特拉的决断惹怒了芙蕾德莉卡，也许还有拉姆。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231146Z" creationid="liray" creationdate="20241127T070535Z">
+        <seg>――Petra's decision angered Frederica, and possibly Ram as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>──就在佩特拉被会合的伙伴们说教时。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231152Z" creationid="liray" creationdate="20241127T072717Z">
+        <seg>――Just as Petra was being preached at by the companions she had rendezvoused with.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>──当责任受到追究，其处罚被广泛知晓时，人们会渴望知晓答案。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T002005Z" creationid="liray" creationdate="20241128T002005Z">
+        <seg>――When accountability is called for and the penalties are widely known, people will seek answers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>──突破佛拉基亚帝国的『常闇』的通行再度开放，竜车摇晃着前进。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231107Z" creationid="liray" creationdate="20241127T050544Z">
+        <seg>――The passage through the Eternal Darkness leading into the Vollachian Empire was reopened, and the dragon carriage rocked forward.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>──第二次『亚人战争』什么的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T233235Z" creationid="liray" creationdate="20241127T233235Z">
+        <seg>――The second Demi-human War or something."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>──被称为『常闇』的大空洞是从露格尼卡王国进入佛拉基亚帝国的非正规入境手段。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230735Z" creationid="liray" creationdate="20241126T205815Z">
+        <seg>――The large empty cave known as the Eternal Darkness was an irregular method for entering the Vollachian empire from the Kingdom of Lugunica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>──誓约的影响呢？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231118Z" creationid="liray" creationdate="20241127T060732Z">
+        <seg>――What about the effects of the oath?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>《待续》</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T040703Z" creationid="liray" creationdate="20241127T040703Z">
+        <seg>《To be continued》</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一抹静静地，压抑情感的声音在黑暗中回响，佩特拉将目光转向那个方向。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T222016Z" creationid="liray" creationdate="20241126T222016Z">
+        <seg>A quiet voice that tried to suppress its emotions echoed in the darkness, and Petra turned her gaze to its direction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一旦有誓约被打破的情况，佩特拉就会丧命。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T070829Z" creationid="liray" creationdate="20241127T070829Z">
+        <seg>If this oath were to be broken, Petra would lose her life.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不再问加菲了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T070256Z" creationid="liray" creationdate="20241127T070127Z">
+        <seg>I won't ask Garf anymore."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不管是想法还是确定觉悟的方式。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T045857Z" creationid="liray" creationdate="20241127T044736Z">
+        <seg>Not just the idea, but the way resolve was formed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不过她跟不上也是没办法。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T003926Z" creationid="liray" creationdate="20241128T003903Z">
+        <seg>But, it was understandable that she could not keep up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不过，那并不意味着他观察力就很差。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T232643Z" creationid="liray" creationdate="20241126T232448Z">
+        <seg>However, that did not mean his observation skills were poor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>与叹息同时吐出的内容，使佩特拉旁边的艾米莉娅屏住了呼吸。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T031717Z" creationid="liray" creationdate="20241127T031717Z">
+        <seg>The words that were released with a sigh made Emilia, who was beside Petra, hold her breath.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>与此相同，穆吉卡他们也挑衅了不该挑衅的对手。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T020747Z" creationid="liray" creationdate="20241127T020747Z">
+        <seg>In the same vein, Musica and the others had picked a fight with opponents they shouldn't have.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>为了避免惹人注意，她们伪造了身份偷渡入境。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T210927Z" creationid="liray" creationdate="20241126T210927Z">
+        <seg>In order to avert the attention of others, they forged identities to sneak into the country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>也要去问问穆吉卡他们差不多多久才能从『常闇』中出来。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230346Z" creationid="liray" creationdate="20241127T041144Z">
+        <seg>I'll also ask Musica how much longer until we can get out of the Eternal Darkness."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>事实上，身体状况没有任何问题。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T061106Z" creationid="liray" creationdate="20241127T061106Z">
+        <seg>In fact, there was nothing wrong with her physical condition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>从这个意义上，这个誓约的存在也可以说是佩特拉决心的宣言。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T071311Z" creationid="liray" creationdate="20241127T071311Z">
+        <seg>In that sense, the existence of this oath could also be seen as a declaration of Petra’s resolve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>从长远来看，隐藏伤势只会为带回昴他们带来不利。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T215545Z" creationid="liray" creationdate="20241126T215545Z">
+        <seg>In the long run, hiding her injuries would only make it harder to bring Subaru and the others back.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他以平淡的声音把不能否认的事实摆在佩特拉眼前。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T012807Z" creationid="liray" creationdate="20241128T012715Z">
+        <seg>Calmly, he presented Petra with the irrefutable facts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他在暗处牵制着提升斗志的艾米莉娅等人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T022703Z" creationid="liray" creationdate="20241127T022620Z">
+        <seg>He was in the shadows pinning down Emilia and the others who were building up their fighting spirit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他沉闷的笑声让佩特拉很不爽。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T211701Z" creationid="liray" creationdate="20241126T211701Z">
+        <seg>His dull laugh annoyed Petra. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他那种理所当然的说话方式让她更加气愤，因为佩特拉发觉他比自己更早得出相同的结论。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T002711Z" creationid="liray" creationdate="20241128T002711Z">
+        <seg>His matter-of-a-fact way of talking made her even more angry because Petra realized that he had come to the same conclusion earlier than she had.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>仿佛在安抚着声音颤抖的佩特拉一样，穆吉卡的声调失去了感情。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T012643Z" creationid="liray" creationdate="20241128T012643Z">
+        <seg>As if to quiet Petra, whose voice was trembling, Musica's tone lost its emotion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但从穆吉卡他们的样子来看，很难相信他们注意到了艾米莉娅和罗兹瓦尔的真实身份──</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230950Z" creationid="liray" creationdate="20241127T213052Z">
+        <seg>But from the looks of Musica and the others, it was hard to believe that they had noticed Emilia and Roswaal's true identities――</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但即便如此，我还是希望你们能听从我们。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T014832Z" creationid="liray" creationdate="20241127T014832Z">
+        <seg>But even so, I hope you will listen to us."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但另一方面，她也相信。——地势优势无法掩盖实力的差距。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T020503Z" creationid="liray" creationdate="20241127T020503Z">
+        <seg>But on the other hand, she also believed. ——The terrain advantage could not cover the gap in strength.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但如果她这样做，可能会使穆吉卡的头脑陷入混乱和恶劣的想法之中。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T042718Z" creationid="liray" creationdate="20241127T042659Z">
+        <seg>But if she did this, it might throw Musica’s mind into chaos and darker thoughts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但我们连爷爷的爷爷那一代人长什么样都不知道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T224511Z" creationid="liray" creationdate="20241127T224245Z">
+        <seg>But we don't even what know what the faces of our grandfather's grandfather's generation looked like.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但是那份责任如今却仍旧压在他们身上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T012016Z" creationid="liray" creationdate="20241128T012016Z">
+        <seg>But that responsibility still weighed on them today.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但是，即使穆吉卡他们的认知与事实不符，对佩特拉他们──更进一步，对于艾米莉娅阵营来说，这是非常不利的情况也是事实。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230924Z" creationid="liray" creationdate="20241127T011947Z">
+        <seg>However, even if Musica and the others' perceptions of them were not in accordance with the facts, it was also true that it was a very unfavorable situation for Petra and them―― and furthermore, for the Emilia camp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但是，即便是像我们这样已经接受了这个处境的人，也不希望情况变得比现在更糟。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T013318Z" creationid="liray" creationdate="20241128T013318Z">
+        <seg>But even those of us who have come to terms with the situation don't want it to get any worse than it already is."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但能让罗兹瓦尔混蛋吃惊心情真不错啊。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T054030Z" creationid="liray" creationdate="20241127T054030Z">
+        <seg>But it feels good to surprise that bastard Roswaal."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但这也是理所当然的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T055459Z" creationid="liray" creationdate="20241127T055459Z">
+        <seg>But that was also to be expected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但这就是我们这些只会玩土的土鼠族的天性吧。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T235436Z" creationid="liray" creationdate="20241127T235049Z">
+        <seg>But I suppose that's just the nature of us Mole-people, who only know how to mess with dirt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但这是单方面认定他们的动机和想法全部是卑鄙的看法。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T005543Z" creationid="liray" creationdate="20241128T005543Z">
+        <seg>However, it would be biased to jump to the conclusion that all their motives and intentions were despicable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>你为什么说得好像是别人的事似的？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T041644Z" creationid="liray" creationdate="20241127T041627Z">
+        <seg>Why are you saying that like it's someone else's business?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>你们可是出身名门贵族啊？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T225526Z" creationid="liray" creationdate="20241126T225526Z">
+        <seg>Are you from a noble family?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>佩特拉低头说出这句话，芙蕾德莉卡的眉尾皱了皱，“真是的。”她的表情中既有强烈的责备之色，也有更多的担忧之色。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T233016Z" creationid="liray" creationdate="20241127T054919Z">
+        <seg>Petra lowered her head as she spoke, and Frederica's brows furrowed with an "Honestly." Her expression carried not only a strong sense of reproach but also even more concern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>佩特拉动摇的声音让穆吉卡误解了意图。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T232432Z" creationid="liray" creationdate="20241126T232432Z">
+        <seg>Petra's wavering voice caused Musica to misunderstand her intention. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>佩特拉和罗兹瓦尔的推测是正确的，他们在与先祖行为的亡灵进行战斗。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T011336Z" creationid="liray" creationdate="20241128T011329Z">
+        <seg>Petra and Roswaal's speculation was correct, they were battling the ghosts of their ancestors's actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>佩特拉大小姐，如果身体状况出现任何变化，请立刻告诉我。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T054406Z" creationid="liray" creationdate="20241127T054406Z">
+        <seg>Lady Petra, if there is any change in your condition, please inform me immediately.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>佩特拉她们对他冒充了身份。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T232614Z" creationid="liray" creationdate="20241126T232614Z">
+        <seg>Petra and the others had disguised their identities in front of him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>佩特拉对于穆吉卡的说辞，无言以对。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225159Z" creationid="liray" creationdate="20241127T225159Z">
+        <seg>Petra was at a loss for words in response to Musica's explanation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>佩特拉无法完全消化那个声音中所蕴含的复杂情感。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T221946Z" creationid="liray" creationdate="20241127T221946Z">
+        <seg>Petra could not quite process the complex emotions contained in that voice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>佩特拉曾在黑暗中感受周围的玛娜进行过修炼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T223210Z" creationid="liray" creationdate="20241126T223210Z">
+        <seg>Petra had practiced feeling the surrounding mana in the dark before.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>佩特拉未经思考说出了这句话，而听到的土鼠人──穆吉卡低声笑了起来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230817Z" creationid="liray" creationdate="20241126T211617Z">
+        <seg>Petra spoke without thinking, and hearing the moleman―― Musica silently whispered and laughed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>佩特拉根本不知道该怎么做平息她的愤怒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T065410Z" creationid="liray" creationdate="20241127T065346Z">
+        <seg>Petra had no idea how to calm that anger down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>佩特拉歪着头，而穆吉卡则微微点头 “是的”。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T214820Z" creationid="liray" creationdate="20241127T214740Z">
+        <seg>Petra tilted her head, while Musica nodded slightly with a "Yes".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>佩特拉自己也曾享受过『爱丽丝与荆棘之王』这本书，包括它悲剧的结局。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231659Z" creationid="liray" creationdate="20241127T225338Z">
+        <seg>Petra herself had enjoyed the book Iris and the King of Thorns, including its tragic ending.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>佩特拉酱不像达德利那样，她试图优先考虑我的感受。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T073426Z" creationid="liray" creationdate="20241127T073426Z">
+        <seg>Unlike Dudley, Petra-chan tried to prioritize my feelings."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>其中原因，多少能猜到，让人生气。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T003317Z" creationid="liray" creationdate="20241128T003159Z">
+        <seg>The reason behind this could somewhat be guessed, and it was infuriating.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>其内容是──</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231132Z" creationid="liray" creationdate="20241127T063600Z">
+        <seg>Its contents were――</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>再无辩解的余地，自己的目的被识破了，穆吉卡发出了干笑声。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T010421Z" creationid="liray" creationdate="20241128T010327Z">
+        <seg>With no room left for excuses and their plan exposed, Musica let out a hollow laugh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>再次说一遍，在这里和我们对立是不明智的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T014957Z" creationid="liray" creationdate="20241127T014957Z">
+        <seg>Again, it would not be wise to antagonize us here."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>再等待几秒钟，两人的实力就会改变整个局势。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T033138Z" creationid="liray" creationdate="20241127T022419Z">
+        <seg>Waiting a few seconds longer, the strength of the two would change the whole situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>即使一族全部死去，也希望阻止艾米莉娅这个半妖精的存在可能引发的第二次『亚人战争』的勇敢的土鼠人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231838Z" creationid="liray" creationdate="20241127T043359Z">
+        <seg>Even if their entire tribe were to perish, the brave Mole-people hoped to prevent the second Demi-human War that could be sparked by Emilia’s existence as a half-elf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>即使假设佩特拉做好了万全的准备进行挑战，也不是罗兹瓦尔魔法上的对手。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T020614Z" creationid="liray" creationdate="20241127T020559Z">
+        <seg>Even assuming that Petra was fully prepared for the challenge, she was no match for Roswaal's magic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>即使有人告发这件事，我们也没有生气的资格……但是，这么做我们会非~常的困扰。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225601Z" creationid="liray" creationdate="20241127T014551Z">
+        <seg>Even if someone reports this matter, we have no right to be angry… but if that were to happen it would reeeally trouble us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>即便因为艾米莉娅大人的存在的缘故，出现了让他们如此想不开的事情？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T073047Z" creationid="liray" creationdate="20241127T073047Z">
+        <seg>Even though something so upsetting happened because of Emilia-sama’s existence?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>原因是──</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T000152Z" creationid="liray" creationdate="20241128T000152Z">
+        <seg>The reason is――</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>只是，让芙蕾德莉卡等人生气也没办法了，她也有一部分要反省的地方。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T074701Z" creationid="liray" creationdate="20241127T072123Z">
+        <seg>Only, there's nothing to be done if Frederica and the others get angry, there were things that Petra needed to reflect on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>可惜长月最后选择了让佩特拉来获得这个荣誉，代价也是佩特拉来付。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T232656Z" creationid="liray" creationdate="20241127T232656Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>可正当她要做出决定时，佩特拉阻止了她。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T042439Z" creationid="liray" creationdate="20241127T042439Z">
+        <seg>But just as she was about to make a decision, Petra stopped her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>后悔之余，佩特拉判断要引出穆吉卡的真实意图。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T221327Z" creationid="liray" creationdate="20241127T221327Z">
+        <seg>Feeling regret, Petra decided to draw out Musica's true intentions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>听到佩特拉的话，坐在她旁边的存在温柔地说道──</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231115Z" creationid="liray" creationdate="20241127T051019Z">
+        <seg>Hearing Petra's words, the presence sitting next to her said gently――</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>“X。…Y” -> “X… Y”
+“X? …Y” -> “X…? Y”
+“X! …Y” -> “X…! Y”
+――
+「Dialogue, 『Quote』」 Speaker Name: [Dialogue, “Quote”] 
+『Dialogue, 『Quote』』 Speaker Name: [*Dialogue*, *“Quote”*] 
+    Terminology that is written in 『』 should be one of the two:
+
+    If they are keywords, they should be capitalized (except connectors), and the double quote marks deleted. Examples:
+    『嫉妬の魔女』- Witch of Envy
+    『インビジブル • プロヴィデンス』- Invisible Providence
+    If they are common words, they should be put in English quotation marks. 
+    Examples:
+    『夢物語』 - “pipe dream”
+    『人間』- “human”
+    『資源』- “resources”
+    Exceptions:
+    『死』- Death
+    『記憶』- Memories
+    『名前』- Names</note>
+      <tuv lang="zh-CN">
+        <seg>听到穆吉卡的叙述时，艾米莉娅不禁说出了口。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T013512Z" creationid="liray" creationdate="20241128T013512Z">
+        <seg>Hearing Musica's narration, Emilia could not help but speak up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>听到那轻声呢喃，佩特拉被强烈的后悔所侵袭。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T215850Z" creationid="liray" creationdate="20241127T215734Z">
+        <seg>Hearing that soft murmur, Petra was assailed by intense regret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>听着奥托尖锐颤抖的声音，佩特拉低头看向自己的身体──确认了衣服的内部，自己身体上刻着的『誓约』的证明的存在。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231124Z" creationid="liray" creationdate="20241127T062154Z">
+        <seg>Listening to Otto's high-pitched voice crack, Petra looked down at her own body―― confirming the existence of the Oath etched on the skin inside her clothes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>哎呀呀，在这势头下......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225945Z" creationid="liray" creationdate="20241127T041534Z">
+        <seg>Oh dear, with this momentum…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>啊，是说漂亮的地竜吗。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T213048Z" creationid="liray" creationdate="20241126T212945Z">
+        <seg>Ah, you're talking about the beautiful ground dragon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>嗯，我已经气得嗡嗡叫了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T053228Z" creationid="liray" creationdate="20241127T053200Z">
+        <seg>Yes, I'm absolutely fuming."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>回想起来，从讨论刚开始，罗兹瓦尔的发言次数就一口气减少了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T002923Z" creationid="liray" creationdate="20241128T002923Z">
+        <seg>Looking back, Roswaal's speaking frequency had dropped sharply from the early stages of the discussion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>回程中的佩特拉，出自短篇集8，插画：﻿福きつね</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T043846Z" creationid="liray" creationdate="20241127T043846Z">
+        <seg>Petra on the way back, from Tanpenshuu 8, illustrated by: 福きつね</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>因此，希望小姐们能成为我们的人质。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T215339Z" creationid="liray" creationdate="20241127T215339Z">
+        <seg>Therefore, I hope that you ladies will become our hostages."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>因此，这次偷渡入境绝对不能被王国或帝国察觉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T021932Z" creationid="liray" creationdate="20241127T021932Z">
+        <seg>Therefore, this sneaky entry must not be detected by the Kingdom or the Empire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>图源：Ice</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T203548Z" creationid="liray" creationdate="20241126T203548Z">
+        <seg>Source: Ice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>土鼠人为了世界所做出的英勇的暴行。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T002143Z" creationid="liray" creationdate="20241128T002035Z">
+        <seg>The heroic atrocities commited by the Mole-people for the sake of the world."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>在同一辆竜车的车厢内，跪在角度改变的墙边的，是一个模糊的桃红色修长身影──罗兹瓦尔。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230854Z" creationid="liray" creationdate="20241126T222919Z">
+        <seg>Inside that same dragon carriage, kneeling by its tilted side, was a blurred, peach-colored, slender figure―― Roswaal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>在帝国被揭露引发战争也是问题没错，但如果在王国被揭露，那肯定无法离开国境了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T013715Z" creationid="liray" creationdate="20241127T013715Z">
+        <seg>It's true that being exposed in the Empire would cause a war, but if they were to be exposed in the Kingdom, they would definitely not be able to leave the country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>在笑过一阵后，穆吉卡仿佛放弃一般说了这句话。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T011157Z" creationid="liray" creationdate="20241128T011156Z">
+        <seg>After a bout of laughter, Musica said this as if resigning himself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>在计划被识破、被俘的佩特拉等人的存在成为穆吉卡等人的障碍之际，佩特拉在他们发脾气之前提出了交涉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T063536Z" creationid="liray" creationdate="20241127T063533Z">
+        <seg>When their plan was seen through, and the existence of the captured Petra and her group became an obstacle for Musica and the others, Petra approached them with negotiations before they lost their temper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>在这个时机，贵族大人们居然恰好经过了我们的居所。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T032329Z" creationid="liray" creationdate="20241126T230825Z">
+        <seg>At this very moment, some nobles just happened to pass by our residence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>在那与慈悲无缘的淡红色眼瞳下，佩特拉垂下了肩膀，“呜……”。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225815Z" creationid="liray" creationdate="20241127T052229Z">
+        <seg>Under those pale red eyes devoid of mercy, Petra slumped her shoulders and groaned, "Ugh…".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>在那辆竜车的车厢里，除了佩特拉，还有艾米莉娅、罗兹瓦尔和另外一个人──那个最后仍在沉睡中的少女，正躺在跪着的罗兹瓦尔的胳膊中。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230912Z" creationid="liray" creationdate="20241126T224305Z">
+        <seg>In the compartment of the dragon carriage, besides Petra there were Emilia, Roswaal, and one other person―― the girl who was still asleep in the arms of the kneeling Roswaal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>在陷阱的头顶，被隔在后面的竜车也应该被土鼠人包围了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T020944Z" creationid="liray" creationdate="20241127T020944Z">
+        <seg>At the top of the trap, the separated dragon carriage at the back should also be surrounded by Mole-people.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>奥托在驾车台上握着缰绳，这样回应着佩特拉的回答。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T060507Z" creationid="liray" creationdate="20241127T060507Z">
+        <seg>Otto, holding the reins at the driver's seat, responded to Petra's answer like this.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她不应该纯粹出于好奇心倾听穆吉卡的话。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T220306Z" creationid="liray" creationdate="20241127T220306Z">
+        <seg>She should not have listened to Musica out of sheer curiosity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她在那次坠落中得到了妥善保护，这让佩特拉感到宽慰。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T224551Z" creationid="liray" creationdate="20241126T224551Z">
+        <seg>She was properly protected in that fall, which gave Petra some relief.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她必定会与昴等人一起会合，然后全员一起返回王国。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T071449Z" creationid="liray" creationdate="20241127T071449Z">
+        <seg>She would definitely reunite with Subaru and the others, and together, they would all return to the Kingdom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她本应该像无情的罗兹瓦尔要做的那样，不多废话，直接破坏对方的阴谋。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T220800Z" creationid="liray" creationdate="20241127T220800Z">
+        <seg>She should have shut down the opponent's malicious plans without hesitation, as the ruthless Roswaal had intended to do.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她的问题让穆吉卡停了一拍，沉默了一会，然后继续道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T215145Z" creationid="liray" creationdate="20241127T215145Z">
+        <seg>Her question made Musica pause for a moment, and then he continued.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>如果你们以王国贵族为人质威胁国家的话，那你们所有族人都一~定会被问责呢。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T001514Z" creationid="liray" creationdate="20241128T001352Z">
+        <seg>If you threaten the country by taking the Kingdom's nobles as hostages, then all the people of your tribe would suuurely~ be held accountable."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>如果你说我们太悲观的话，也可以这么说。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T234853Z" creationid="liray" creationdate="20241127T233933Z">
+        <seg>If you say that we're too pessimistic, then that could be the case.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>如果小姐你明白的话，就请阻止你身边的两人......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225610Z" creationid="liray" creationdate="20241127T023002Z">
+        <seg>If you understand, young miss, then please stop those two with you…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>如果是热心学习的小姐，就应该非常清楚。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T004806Z" creationid="liray" creationdate="20241127T224059Z">
+        <seg>If you're a studious young lady, you should know it very well."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>如果是这样，王国应该会倾听我们的话。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T230110Z" creationid="liray" creationdate="20241126T225637Z">
+        <seg>If so, the Kingdom should listen to us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>它是过去被佛拉基亚帝国追杀的土鼠人挖掘的一个高大的洞穴，被佩特拉一行用来追踪被传送到帝国的昴等人的去向。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T210623Z" creationid="liray" creationdate="20241126T210541Z">
+        <seg>It was a tall cave dug by the Mole-people who were hunted by the Vollachian Empire in the past, and it was now being used by Petra and her camp to find the whereabouts of Subaru and the others who were flung into the Empire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>对于差点放开艾米莉娅缰绳的佩特拉，慌乱的穆基卡认命般地叹了口气。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T082249Z" creationid="liray" creationdate="20241127T030048Z">
+        <seg>Petra nearly let go of Emilia's reins, and the frantic Musica let out a sigh of resignation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>对于罗兹瓦尔切入的言论，佩特拉面露不悦。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T002610Z" creationid="liray" creationdate="20241128T002610Z">
+        <seg>Petra grimaced at Roswaal's incisive remarks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>对于试图求得那份名誉却又最终得不到的他们该说的话是──</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231100Z" creationid="liray" creationdate="20241127T043608Z">
+        <seg>What they should say to those who sought that honor but ultimately failed is――</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>对吧，佩特拉大小姐？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T052055Z" creationid="liray" creationdate="20241127T052055Z">
+        <seg>Right, Lady Petra?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>对面座位上的是双手交叉，眯起翠绿的眼睛的芙蕾德莉卡，佩特拉语塞。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T053419Z" creationid="liray" creationdate="20241127T053419Z">
+        <seg>Sitting across from her was Frederica, her arms crossed and her emerald eyes narrowed, leaving Petra speechless.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>小姐你们支持哪位候选人吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T214141Z" creationid="liray" creationdate="20241127T214047Z">
+        <seg>Do you have a preferred candidate, miss?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>就仿佛在肯定穆吉卡的回答，竜車外传来了帕特拉修的叫声。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T214455Z" creationid="liray" creationdate="20241126T214455Z">
+        <seg>As if confirming Musica's answer, a cry from Patrasche came out from the outside of the dragon carriage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>就像有天生的富人和穷人那样，存在着土鼠人和其他人的人种差别。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T013007Z" creationid="liray" creationdate="20241128T013007Z">
+        <seg>Just as there are people born rich and poor, there are Mole-people and other races.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>就连同席的罗兹瓦尔也没有劝阻艾米莉娅的意思。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T020315Z" creationid="liray" creationdate="20241127T020230Z">
+        <seg>Even Roswaal, who was seated with her, had no intention of dissuading Emilia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>就连温柔的芙蕾德莉卡也对作为妹妹的佩特拉大胆的行动感到愤怒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T074444Z" creationid="liray" creationdate="20241127T065145Z">
+        <seg>Even the gentle Frederica was still angry at the younger sister, Petra, for her bold actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>尽管想找到一些积极的方面，但似乎只有这一点可以开心。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T220239Z" creationid="liray" creationdate="20241126T215826Z">
+        <seg>Although there was an attempt to find something positive, it seemed like this was the only thing to be happy about.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>幸运的是，佩特拉没有撞到头，也没有感觉到任何疼痛。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T212014Z" creationid="liray" creationdate="20241126T211925Z">
+        <seg>Fortunately, Petra had not hit her head and did not feel any pain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>当然，他们一点也不期待这会是一次舒适的旅程，但是──</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230742Z" creationid="liray" creationdate="20241126T210934Z">
+        <seg>Of course, they did not expect this to be a comfortable journey, but――</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>当然，佩特拉也感到惊讶。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T031534Z" creationid="liray" creationdate="20241127T031534Z">
+        <seg>Of course, Petra was also surprised.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>当然，佩特拉觉得芙蕾德莉卡、拉姆，还有机智的奥托也都是非凡才能的持有者，所以没必要担心那辆竜车的情况。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T021612Z" creationid="liray" creationdate="20241127T021555Z">
+        <seg>Of course, Petra felt that Frederica, Ram, and the witty Otto all also had extraordinary talents as well, so there was no need to worry about the situation of that dragon carriage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>当然，我们也在关注着王选──但是，是在不好的意味上。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230955Z" creationid="liray" creationdate="20241127T214447Z">
+        <seg>Of course, we're also keeping our eye on the Royal Selection―― but in a bad sense."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>当然，让它成立的条件很宽松。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T070949Z" creationid="liray" creationdate="20241127T070949Z">
+        <seg>Of course, the conditions for its fulfillment were lenient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>当然，醒来的少女碧翠丝肯定会板着脸。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T224848Z" creationid="liray" creationdate="20241126T224848Z">
+        <seg>Of course, Beatrice would be wearing a stern expression if she were awake.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>很久以前，『亚人战争』刚爆发的时候，大家不也觉得绝对不会发生那种事情吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T234726Z" creationid="liray" creationdate="20241127T233626Z">
+        <seg>That long time ago, when the Demi-human War first broke out, didn't everyone think that such a thing would never happen?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>怎么说呢，希望以后能够多写些真正能凸显艾米莉娅能力的地方吧。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T232706Z" creationid="liray" creationdate="20241127T232706Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>总之──</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230917Z" creationid="liray" creationdate="20241126T225022Z">
+        <seg>Anyway――</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>情节反转连连，十分精彩（如果无视后期逆天转折的话）。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T233114Z" creationid="liray" creationdate="20241126T233114Z">
+        <seg>The plot reversal is a great one (if you ignore the late anticlimactic twist).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我不想再被卷入其中。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T012528Z" creationid="liray" creationdate="20241128T012247Z">
+        <seg>I don't want to get caught up in it anymore."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我不知道，要不给她点硬东西啃啃？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T065604Z" creationid="liray" creationdate="20241127T065604Z">
+        <seg>I dunno, how 'bout givin' her something hard to chew on?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我们会不知道你想表达什么。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T214850Z" creationid="liray" creationdate="20241127T214850Z">
+        <seg>We won't know what you're trying to say.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我们已经把大小姐们作为人质了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T225518Z" creationid="liray" creationdate="20241126T225412Z">
+        <seg>We've taken the young mistresses as hostages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我们能够活下来，而你们不行。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T022926Z" creationid="liray" creationdate="20241127T022926Z">
+        <seg>We can survive it, but you can't.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我们还要为那些人的责任而在地洞里生活吗。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225013Z" creationid="liray" creationdate="20241127T224553Z">
+        <seg>Do we really have to live like this, in a hole in the ground, because of those people’s responsibility?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我能感觉到，地面在震动。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T235521Z" creationid="liray" creationdate="20241127T235521Z">
+        <seg>We can feel it, the tremors in the earth."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我觉得很可能是嫉妒带来的沉重灾害，造成了人们对魔女的态度一下子从崇拜改变成了恐惧，使得全世界都开始不惜一切代价追杀魔女。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T232719Z" creationid="liray" creationdate="20241127T232719Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>所以这里不是护卫艾米莉出场的时候，而是带领一行人的佩特拉大小姐出场的时候。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T043008Z" creationid="liray" creationdate="20241127T042856Z">
+        <seg>So this was not the time for Emilia, the guard, to make her appearance, but for Lady Petra, who was leading the group, to step forward.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>所以，不要忘记这一点，知道吗。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T041902Z" creationid="liray" creationdate="20241127T041825Z">
+        <seg>So, don't forget that, okay?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>所以，对于你的妹妹我也很心痛。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T014818Z" creationid="liray" creationdate="20241127T014818Z">
+        <seg>So, my heart aches for your sister too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>所以，达德利的影响也是存在的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T041828Z" creationid="liray" creationdate="20241127T041812Z">
+        <seg>So, Dudley's influence is also there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>拉姆和芙蕾德莉卡各自评价了佩特拉所交换的誓约和其目的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T064603Z" creationid="liray" creationdate="20241127T064603Z">
+        <seg>Ram and Frederica each evaluated the oath Petra exchanged and its purpose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>拉姆的说法很严厉，而芙蕾德莉卡的说法则更温和。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T064638Z" creationid="liray" creationdate="20241127T064622Z">
+        <seg>Ram’s tone was harsh, while Frederica’s was gentler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>摇晃的竜车的座位上，佩特拉一边嘀咕一边不断改变着屁股的角度。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T050935Z" creationid="liray" creationdate="20241127T050927Z">
+        <seg>On the seat of the rocking dragon carriage, Petra muttered this while repeatedly adjusting the position of her butt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>早先，佩特拉认为『常闇』的地形对穆吉卡他们有优势。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230331Z" creationid="liray" creationdate="20241127T020358Z">
+        <seg>Earlier, Petra had thought that the terrain of the Eternal Darkness would be an advantage for Musica and the others.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>是大的东西即将崩溃的预兆，就是那种感觉的地面震动。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T235904Z" creationid="liray" creationdate="20241127T235904Z">
+        <seg>It's the omen of something big about to collapse, that kind of tremor in the earth."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>最重要的是，那竟然去拯救对自己不利的对手的姿态。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T045947Z" creationid="liray" creationdate="20241127T045238Z">
+        <seg>Above all, it's the attitude of trying to save the very person who brought harm to you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>有一点也值得注意，本篇第一次将嫉妒魔女之后全世界迫害和嫉妒有关的一切这一点明确地写出来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T232709Z" creationid="liray" creationdate="20241127T232709Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>本文仅供学习交流使用，禁作商业用途。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T232754Z" creationid="liray" creationdate="20241126T232754Z">
+        <seg>This article is for learning and communication purposes only, commercial use is prohibited</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>本篇为Comic Alive短篇，发布于2022年9月27日，内容主要为艾米莉娅阵营与土鼠人的对峙。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T061208Z" creationid="liray" creationdate="20241126T233149Z">
+        <seg>This is a Comic Alive short story, published on September 27, 2022, which focuses on a confrontation between the Emilia camp and the Mole-people.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>本篇就给出了一个可能，要知道，欧米茄说过在以前的时候，人们是会为了成为魔女而举行各种残酷的仪式的（短篇集6 魔女的茶会之余 魔女的条件）。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T232717Z" creationid="liray" creationdate="20241127T232717Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>校对：Tom111335，Garcer</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T201912Z" creationid="liray" creationdate="20241126T201912Z">
+        <seg>Proofreading: Tom111335，Garcer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>正因为没有那么做，才导致艾米莉娅不经意间受伤。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T221110Z" creationid="liray" creationdate="20241127T221003Z">
+        <seg>Because she had not done that, Emilia ended up getting hurt unintentionally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>此刻，艾米莉娅打算挑明自己的身份，正面与穆吉卡交锋。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T042505Z" creationid="liray" creationdate="20241127T042505Z">
+        <seg>At this moment, Emilia planned to reveal her identity and confront Musica head-on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>毕竟，只要让穆吉卡他们直接与艾米莉娅对话就可以了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T071041Z" creationid="liray" creationdate="20241127T071041Z">
+        <seg>After all, all that was needed was for Musica and the others to speak with Emilia directly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>毫不意外的评价，让加菲尔受到了冲击，但他被搁置了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T074546Z" creationid="liray" creationdate="20241127T070426Z">
+        <seg>The completely unsurprising evaluation shocked Garf, but she left him to it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>没想到，王选的话题会在这种时候跑出来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T032618Z" creationid="liray" creationdate="20241127T031522Z">
+        <seg>Unexpectedly, the topic of the Royal Selection had come out at a time like this.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>润色：Tom111335</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T203543Z" creationid="liray" creationdate="20241126T203543Z">
+        <seg>Polishing: Tom11111335</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>然后，他默默地屈服于佩特拉让他继续讲下去的无声压力。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241129T113419Z" creationid="liray" creationdate="20241127T030656Z">
+        <seg>Then, he silently yielded to Petra's unspoken pressure, urging him to continue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>然而──</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T231141Z" creationid="liray" creationdate="20241127T064704Z">
+        <seg>However――</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>然而，以贵族作为人质与王国进行谈判对他们来说已经不能用铤而走险来概括。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T024702Z" creationid="liray" creationdate="20241127T024446Z">
+        <seg>However, negotiating with the kingdom using nobles as hostages could no longer be simply described as a desparate measure for them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>然而，佩特拉刚想要反驳，就被穆吉卡冷冷的声音阻止了，“真的吗？”。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T233546Z" creationid="liray" creationdate="20241127T233546Z">
+        <seg>However, just as petra was about to retort, she was stopped by Musica's cold voice, "Really?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>然而，在昏暗中，他摸着自己的帽子道，“唉呀呀。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T060654Z" creationid="liray" creationdate="20241127T060644Z">
+        <seg>However, in that darkness, he touched his hat, "Oh dear."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>然而，对于那些直到数百年后还在被讨论的当事人来说，那并不是一种享受。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T011900Z" creationid="liray" creationdate="20241128T011900Z">
+        <seg>However, it was not as pleasant for the parties who were still begin discussed hundres of years later.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>然而，穆吉卡对此的回答让本已寒冷的『常闇』空气更加寒冷。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230325Z" creationid="liray" creationdate="20241127T015548Z">
+        <seg>However, Musica's answer made the cold air of the Eternal Darkness even colder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>然而，穆吉卡的觉悟中根源的部分引起了佩特拉的兴趣。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T023906Z" creationid="liray" creationdate="20241127T023822Z">
+        <seg>However, the root of Musica's resolve piqued Petra's interest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>然而，穆吉卡立即察觉到了那股空气中危险的变化。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T033153Z" creationid="liray" creationdate="20241127T022441Z">
+        <seg>However, Musica immediately sensed the dangerous shift in the air.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>然而，那辆竜车上还留着加菲尔。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T021053Z" creationid="liray" creationdate="20241127T021053Z">
+        <seg>However, the top of the dragon carriage still had Garfiel left on it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>牙齿痒痒心情就会变差啊。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T065930Z" creationid="liray" creationdate="20241127T065713Z">
+        <seg>Itchy teeth can really mess with yer mood,  y'know?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>王选候补者率先从事非法行为，一旦曝光，对王选会产生严重的负面影响是毫无疑问的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T032713Z" creationid="liray" creationdate="20241127T013230Z">
+        <seg>It is undeniable that if candidates of the Royal Selection were to engage in illegal activities and were exposed, it would have a serious negative impact on the Royal Selection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>现在也只能笑了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T010600Z" creationid="liray" creationdate="20241128T010431Z">
+        <seg>At this point, there was nothing left to do but laugh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>现在后退是不可能的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T023234Z" creationid="liray" creationdate="20241127T023234Z">
+        <seg>Backing out now is impossible."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>理所当然的，以佩特拉的短暂生命经历，她无法体会到与他父亲同龄的穆吉卡所承载的心情。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T004713Z" creationid="liray" creationdate="20241127T222441Z">
+        <seg>This was to be expected, given Petra's short life experience; she could not grasp the emotions carried by Musica, who was the same age as her father.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>甚至可以称其为被害妄想。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T233459Z" creationid="liray" creationdate="20241127T233309Z">
+        <seg>It could even be called a persecutory delusion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>生活在黑暗中，成为不受关注的人，这就是我们的天命。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T013121Z" creationid="liray" creationdate="20241128T013042Z">
+        <seg>It is our destiny to live in the darkness and remain in the shadows."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>由于它残留的影响，她看到的人影在黑暗中显现为桃红色的光芒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T223550Z" creationid="liray" creationdate="20241126T223550Z">
+        <seg>Due to the lingering effects of her practice, the human figure she saw appeared as a peach-colored light in the darkness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>由于这个洞穴是土鼠族的居所，他们占据了地利。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T221556Z" creationid="liray" creationdate="20241126T221556Z">
+        <seg>Since this cave is the dwelling of the Mole-people tribe, they held the terrain advantage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>看来这次掉到『常闇』的深处，是本应为向导的穆吉卡他们的策略，而且她们与跑在后面的另一辆竜車分开了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230320Z" creationid="liray" creationdate="20241126T220916Z">
+        <seg>It seemed that falling into the depths of the Eternal Darkness was the strategy of Musica and the others, who were supposed to be their guides. And sure enough, they were separated from the other dragon carriage that was trailing behind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>真是一种天命吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T232148Z" creationid="liray" creationdate="20241126T231242Z">
+        <seg>It's a sort of destiny, don’t you think?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>真是个危险的小姐，真是的......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225634Z" creationid="liray" creationdate="20241127T025604Z">
+        <seg>You really are a dangerous lady, honestly…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>真的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T060900Z" creationid="liray" creationdate="20241127T060900Z">
+        <seg>Really."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>穆吉卡他们担心王国的未来，是做好了死的觉悟的勇敢存在。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T004112Z" creationid="liray" creationdate="20241128T004112Z">
+        <seg>Musica and the others were prepared to die as brave people who cared about the future of the kingdom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>穆吉卡他们的行动不值得称赞，对佩特拉她们来说也是个麻烦。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T005356Z" creationid="liray" creationdate="20241128T005356Z">
+        <seg>Musica's actions were hardly commendable, and they were a real nuisance to Petra and the others.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>穆吉卡他们的行动大大动摇了佩特拉等人的目标。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T024356Z" creationid="liray" creationdate="20241127T024356Z">
+        <seg>Musica and the others' actions had greatly shaken the goals of Petra and co.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>穆吉卡并不知道他们的真实身份。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T232655Z" creationid="liray" creationdate="20241126T232655Z">
+        <seg>Musica did not know their true identities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>穆吉卡的低沉声音听起来好像被恐惧和疲劳的双重压力所磨损。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T221811Z" creationid="liray" creationdate="20241127T221811Z">
+        <seg>Musica's low voice sounded as if it had been worn down by the combined weight of fear and fatigue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>穆吉卡说的对，佩特拉对于爷爷的爷爷那一代以及更早的祖先一无所知。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T013715Z" creationid="liray" creationdate="20241128T011957Z">
+        <seg>Musica was right, Petra knew nothing about her grandfather's grandfather's generation or her earlier ancestors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>究竟他们是为了什么结果而寻求谈判呢？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T024818Z" creationid="liray" creationdate="20241127T024818Z">
+        <seg>What exactly are they hoping to achieve through these negotiations?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>突然间，从车顶上传来愉快的笑声，“呵哈哈哈哈。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T053641Z" creationid="liray" creationdate="20241127T053539Z">
+        <seg>Suddenly, a cheerful laugh rang out from the roof of the carriage, "Kuhahahaha!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>竜車被陷进陷阱，侧翻在地。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T211858Z" creationid="liray" creationdate="20241126T211858Z">
+        <seg>The dragon carriage had been caught in a trap, and lay overturned on the ground.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>简直就像......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225937Z" creationid="liray" creationdate="20241127T050102Z">
+        <seg>It's just like…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>精神上，可能有点行动过早的感觉，但比这更强的是成就感。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T061226Z" creationid="liray" creationdate="20241127T061226Z">
+        <seg>Mentally, it might have felt a bit premature, but the sense of accomplishment was even stronger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>终于，有了成为艾米莉娅阵营的一员，成为艾米莉娅的力量的成就感。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T061523Z" creationid="liray" creationdate="20241127T061505Z">
+        <seg>Finally, there was the sense of accomplishment in being a member of Emilia's camp and becoming a part of her strength.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>罗兹瓦尔用话语深入剖析佩特拉得出的推论。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T002457Z" creationid="liray" creationdate="20241128T002304Z">
+        <seg>Roswaal put Petra's inferences into words as if he were deeply dissecting them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>罗兹瓦尔降低声调，用一种没有恶作剧气息的语气低声嘀咕着。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T213339Z" creationid="liray" creationdate="20241127T213339Z">
+        <seg>Roswaal lowered his voice and muttered in a tone that lacked any hint of mischief.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>翻译：Tom111335</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T201847Z" creationid="liray" creationdate="20241126T201847Z">
+        <seg>Translation: Tom1111335</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而且最重要的问题是──</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230832Z" creationid="liray" creationdate="20241126T221616Z">
+        <seg>And the most important question is――</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而且，我从一开始就不是姐姐大人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T232152Z" creationid="liray" creationdate="20241127T051805Z">
+        <seg>Besides, to begin with I'm not even a nee-sama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而且，虽然我劝告了拉姆，但我也很生气。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T053146Z" creationid="liray" creationdate="20241127T053146Z">
+        <seg>And while I did advise Ram, I'm still very angry, you know.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而且，这种心情不仅仅只有穆吉卡，还承载着四百年的重量。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T223153Z" creationid="liray" creationdate="20241127T223149Z">
+        <seg>Moreover, this sentiment was not limited to Musica, but it carried the weight of four hundred years.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而在这样的佩特拉和拉姆的对话中。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T052323Z" creationid="liray" creationdate="20241127T052323Z">
+        <seg>And in the midst of such a conversation between Petra and Ram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>能明白姐姐和拉姆想表达的感觉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T083655Z" creationid="liray" creationdate="20241127T053823Z">
+        <seg>I can understand the feelin' that Sis and Ram are tryin' to express.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>脏是脏了点，但不会让它受伤的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T214137Z" creationid="liray" creationdate="20241126T214137Z">
+        <seg>It's a bit dirty, but it won't hurt her."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>自从坐上后面会合上来的竜车之后，佩特拉一直在不断道歉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T055401Z" creationid="liray" creationdate="20241127T055401Z">
+        <seg>Since being placed into the dragon carriage of the group that rejoined them, Petra had been constantly apologizing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米莉娅对穆吉卡的回答感到不耐烦，向前动了下身子，追问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T215126Z" creationid="liray" creationdate="20241127T215126Z">
+        <seg>Emilia grew impatient with Musica's anser, and leaned forward, pressing him further.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米莉娅引起的问题，却让佩特拉来解决，自己全程旁听，这也是我觉得长月处理的非~常让人遗憾失望的地方。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T232659Z" creationid="liray" creationdate="20241127T232659Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米莉娅微妙地跟不上对话，在听到佩特拉的话后瞪大了眼睛。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T003739Z" creationid="liray" creationdate="20241128T003739Z">
+        <seg>Emilia, slightly struggling to follow the conversation, widened her eyes at Petra's words.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米莉娅支撑着佩特拉的肩膀，黑暗中美貌丝毫不减，凛然说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T032903Z" creationid="liray" creationdate="20241127T015445Z">
+        <seg>Emilia supported Petra's shoulders, her beauty undiminished in the darkness, and spoke authoritatively.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米莉娅无法忍受那悲痛的声音，其声音中闪现出觉悟的色彩。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T042419Z" creationid="liray" creationdate="20241127T042419Z">
+        <seg>Emily could not bear the sorrow in that voice, and a hint of resolve flashed in her own.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米莉娅纤细的嘴唇喊出了抱着碧翠丝的罗兹瓦尔所用的假名。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T022225Z" creationid="liray" creationdate="20241127T022225Z">
+        <seg>Emilia's slender lips called out the pseudonym used by Roswaal, who was still holding Beatrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>虽然不清楚他在什么时候察觉到了穆吉卡的意图，但在察觉到后，他选择了静观其变。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T003125Z" creationid="liray" creationdate="20241128T003125Z">
+        <seg>Although it was unclear when he first became aware of Musica's intentions, once he did, he chose to remain passive and observe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>虽然与奥托不同，没有与地竜对话的手段，但是从声音的调子中并没有感受到紧急感。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T215216Z" creationid="liray" creationdate="20241126T214547Z">
+        <seg>Although she had no way to talk to the ground dragon like Otto, Petra did not feel a sense of urgency from the tone of the sound.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>虽然我不能赞同穆吉卡他们的想法和所做之事......但是，我很高兴感受到了佩特拉酱的心情。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225916Z" creationid="liray" creationdate="20241127T073315Z">
+        <seg>Although I can't agree with what Musica and the others think or what they've done… I'm still happy to understand Petra-chan's feelings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>虽然没有和『嫉妒的魔女』一样的人，但是......”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T012431Z" creationid="liray" creationdate="20241128T012145Z">
+        <seg>There's no one that's like the Witch of Envy, and yet…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>虽然穆吉卡出乎意料地走在了危险的钢丝上，但他没有注意到罗兹瓦尔危险的天平正在倾斜，继续说了下去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T213545Z" creationid="liray" creationdate="20241127T213545Z">
+        <seg>Although Musica was unexpectedly walking a dangerous tightrope, he did not notice that the scale of danger were tipping in Roswaal's favor and continued.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>虽然被吓到了，但我已经把地面弄得很软了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T214100Z" creationid="liray" creationdate="20241126T213022Z">
+        <seg>She received a fright, but I've made the ground soft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>补充一下可能会显得虚假，但这是真的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T061011Z" creationid="liray" creationdate="20241127T061011Z">
+        <seg>It might seem insincere to say, but it was the truth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>要说受牵连，我们已经体会的足够多的了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T223414Z" creationid="liray" creationdate="20241127T223414Z">
+        <seg>If we're talking about being dragged into something, we've already had more than enough of it."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>译者按：本篇是长月少有的直接涉及re0世界隐藏的最核心矛盾——亚人和人类种族歧视的短篇，本人当时看的时候是相当期待的，很想看艾米莉娅将如何发挥解决这一矛盾，凸显她的成长，如果解决的好，这将是非~常能体现她能力的高光时刻。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T232653Z" creationid="liray" creationdate="20241127T232653Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>起初，她们对于突然的陷阱感到惊讶和混乱。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T021651Z" creationid="liray" creationdate="20241127T021651Z">
+        <seg>At the outset, they were surprised and confused by the sudden trap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>转载须经译者授权并标明出处。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T232810Z" creationid="liray" creationdate="20241126T232810Z">
+        <seg>Reprinting must be authorized by the translator and indicate the source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>还~有……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225545Z" creationid="liray" creationdate="20241126T225134Z">
+        <seg>A~lso…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>还在评估中。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T214301Z" creationid="liray" creationdate="20241127T214301Z">
+        <seg>I'm still evaluating it."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这一点在One Wild Night后篇也有暗示，我后期会发布它的翻译，敬请期待。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T232724Z" creationid="liray" creationdate="20241127T232724Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这个事实被帝国发现会很不方便，被王国发现更是非常不方便。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T032640Z" creationid="liray" creationdate="20241127T012234Z">
+        <seg>This fact would be very inconvenient for the Empire to discover, and even more inconvenient if it were the Kingdom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这个想法本身很高尚，也很符合艾米莉娅的风格。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T042537Z" creationid="liray" creationdate="20241127T042537Z">
+        <seg>The idea itself was noble and very much in line with Emilia's style.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这只是悲观上叠加了悲观、恶意中带着恶意的想象。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T233424Z" creationid="liray" creationdate="20241127T233424Z">
+        <seg>It was just pessimism piled on pessimism, with malice fueling the imagination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这可能是因为──</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T004202Z" creationid="liray" creationdate="20241128T004202Z">
+        <seg>That was probably because――</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这是一个真正对艾米莉娅阵营带着非常不利的目的的告白。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T215628Z" creationid="liray" creationdate="20241127T215438Z">
+        <seg>This was a confession of an intention that was truly detrimental to the Emilia camp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这是佩特拉她们不管怎样都必须避免的展开。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T013911Z" creationid="liray" creationdate="20241127T013911Z">
+        <seg>That was the situation that Petra and the others had to avoid at all costs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这是艾米莉娅绝对不会有的想法。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T003944Z" creationid="liray" creationdate="20241128T003944Z">
+        <seg>It was an idea that Emilia would never have.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这是迷信的措辞，但它又重又深地压在佩特拉的心上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T000026Z" creationid="liray" creationdate="20241127T235935Z">
+        <seg>It was superstitious talk, yet it weighted heavily and deeply on Petra's heart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这暗中夹杂的讽刺，让佩特拉对罗兹瓦尔的厌恶程度增加了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T005228Z" creationid="liray" creationdate="20241128T005011Z">
+        <seg>Petra stuck out her tongue at the added sarcasm, and her disgust for Roswaal intensified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这种交流本身就代表双方承认互相没有交涉的余地。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T023713Z" creationid="liray" creationdate="20241127T023708Z">
+        <seg>The exchange itself represented an acknowledgement by both parties that there was no room for negotation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这种情况里的空气确实不是比喻，而是真的在变得寒冷。——这是艾米莉娅要做出意外冲动的决断的那个瞬间即将到来的证明。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T020126Z" creationid="liray" creationdate="20241127T020101Z">
+        <seg>The coldness in the air was not a metaphor, it was truly becoming colder. This was proof of the moment approaching when Emilia would make an unexpected, impulsive decision.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这简直像是故意针对她们的话题。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T213017Z" creationid="liray" creationdate="20241127T213015Z">
+        <seg>It was almost as if the topic was deliberately targeting them. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这让我联想到了众魔女之死，就如我之前所写，众魔女很可能是死在了嫉妒被封印之后，为什么是那个时间点？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T232715Z" creationid="liray" creationdate="20241127T232715Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这都归功于在她身边紧紧拥抱她的艾米莉娅。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T212132Z" creationid="liray" creationdate="20241126T211955Z">
+        <seg>This was all thanks to Emilia, who was hugging her tightly at her side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那个，让你们担心啦，芙蕾德莉卡姐......芙蕾德莉卡。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T225829Z" creationid="liray" creationdate="20241127T054652Z">
+        <seg>I'm sorry for making you worry, Frederica ne… Frederica."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那么，无论穆吉卡他们有什么想法，他们的计划只能受阻。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T022027Z" creationid="liray" creationdate="20241127T022013Z">
+        <seg>So, no matter what Musica and the others had in mind, their plans could only be thwarted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那只聪明的地竜不会做出掩饰伤势的举动，这点是可以信任的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T233658Z" creationid="liray" creationdate="20241126T214855Z">
+        <seg>The intelligent ground dragon would not try to cover up her injuries, this much could be trusted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那只能让他们认为你们运气不好。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T231248Z" creationid="liray" creationdate="20241126T230656Z">
+        <seg>Well, we can only let them think you were just unlucky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那声音仿佛让人看到了他的肩膀颓丧垂下的模样。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T010256Z" creationid="liray" creationdate="20241128T010244Z">
+        <seg>That voice conveyed an image of his shoulders slumping in defeat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那就是──</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T230959Z" creationid="liray" creationdate="20241127T055521Z">
+        <seg>That is――</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那是与穆吉卡等人交换的，将灵魂与约定的履行绑定的誓约。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T070718Z" creationid="liray" creationdate="20241127T070718Z">
+        <seg>That was the oath exchanged with Musica and the others, binding her soul to the fulfillment of their promise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那是什么意思？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T221210Z" creationid="liray" creationdate="20241127T221138Z">
+        <seg>What do you mean?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那是立下的决不可破的誓言的证明，是她与由穆吉卡领导的土鼠人们所交换的约定——是宣誓履行那个的证明。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T122906Z" creationid="liray" creationdate="20241127T062407Z">
+        <seg>It was proof of an unbreakable vow, a testament to the promise she had exchanged with the Mole-people led by Musica—an affirmation of her commitment to fulfill that vow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那种东西和不去区分艾米莉娅与『半妖精』的看法没有任何区别。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241128T005811Z" creationid="liray" creationdate="20241128T005644Z">
+        <seg>That sort of perspective was no different from treating Emilia the same as "half-elves."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>阅读本篇前建议先阅读本系列前面的短篇，了解背景，这个系列故事发生在文库第25卷后（昴被传送到佛拉基亚帝国，而本系列讲述的就是艾米莉娅阵营前去帝国找他的故事），前面的短篇都可以在本文集目录里找到。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241126T233045Z" creationid="liray" creationdate="20241126T233045Z">
+        <seg>Before reading this article, it is recommended to read the previous short stories in this series to understand the background. The story of this series takes place after the 25th volume of the main story (Subaru was transported to the Vollachian Empire, and this series tells the story of Emilia’s camp going there to find him), the previous short stories can be found in the table of contents of this collection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>面对拒绝要求的佩特拉，穆吉卡咬紧牙关，用尽力气表达了自己的觉悟。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T023628Z" creationid="liray" creationdate="20241127T023455Z">
+        <seg>Confronted with Petra, who refused the request, Musica grit his teeth and summoned his strength to express his resolve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>面对这信号所带的意图，罗兹瓦尔的没有回答本身就是赞同的回应。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241127T033114Z" creationid="liray" creationdate="20241127T022330Z">
+        <seg>Facing the intent carried by this signal, Roswaal's lack of a response was itself an approval.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
