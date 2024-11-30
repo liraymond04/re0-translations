@@ -28,6 +28,7 @@
 露格尼卡	Lugunica
 佛拉基亚帝国	Vollachian Empire
 佛拉基亚	Vollachia
+圣域	Sanctuary
 竜車	dragon carriage
 竜车	dragon carriage
 地竜	ground dragon
@@ -40,3 +41,4 @@
 爱丽丝	Iris
 荆棘之王	King of Thorns
 爱丽丝与荆棘之王	Iris and the King of Thorns
+夏姆洛克峡谷	Shamrock Valley
