@@ -1,6 +1,6 @@
 ---
 layout: webnovel
-title: Stand by me Pleiades Part 4
+title: SBMP Part 4
 repo_url: liraymond04/re0-translations
 file_path: posts/side_stories/Stand by me Pleiades Part 4/Stand by me Pleiades Part 4.md
 supabase_page_format: true
@@ -10,7 +10,7 @@ supabase_page_format: true
 <img src="./media/image2.png"
 style="margin:auto;height:auto;width:6.5in" />
 
-Stand by me Pleiades Part 4
+SBMP Part 4
 
 </div>
 
