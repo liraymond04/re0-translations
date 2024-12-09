@@ -7,10 +7,12 @@ LAYOUT = "webnovel"
 SUPABASE_PAGE_FORMAT = True
 REPO_URL = "liraymond04/re0-translations"
 
+cur_dir = os.getcwd()
+
 def generate_yaml_frontmatter(md_file_path):
     title = os.path.splitext(os.path.basename(md_file_path))[0]
     
-    file_path = os.path.relpath(md_file_path, start=os.getcwd())
+    file_path = os.path.relpath(md_file_path, start=cur_dir)
 
     frontmatter = f"""---
 layout: {LAYOUT}

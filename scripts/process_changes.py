@@ -29,6 +29,11 @@ def extract_yaml_frontmatter(text):
     else:
         raise ValueError("No YAML frontmatter found")
 
+def remove_yaml_frontmatter(text):
+    pattern = r"^---\n.*?\n---\n"
+    content_without_frontmatter = re.sub(pattern, "", text, flags=re.DOTALL)
+    return content_without_frontmatter
+
 def get_added_files_from_env():
     try:
         added_files_env = os.getenv("ADDED_MARKDOWN_FILES")
@@ -68,8 +73,8 @@ def get_changed_files_from_env():
         logger.error(f"Error parsing changed markdown files: {e}")
         sys.exit(1)
 
-def check(response, metadata, string):
-    return response[string] == metadata[string]
+def check(response, metadata, field):
+    return response[field] == metadata[field]
 
 def update_post_field_in_db(metadata, field):
     file = metadata["file_path"] or ""
@@ -77,12 +82,13 @@ def update_post_field_in_db(metadata, field):
         _ = (
             supabase.table("posts")
             .update({field: metadata[field]})
-            .eq("id", metadata["id"])
+            .eq("repo_url", metadata["repo_url"])
+            .eq("file_path", metadata["file_path"])
             .execute()
         )
-        logger.info(f"Successfully updated post for {file}")
+        logger.info(f"Successfully updated {field} in post for {file}:\n{metadata[field]}")
     except Exception as e:
-        logger.error(f"Error updating post in database for {file}: {e}")
+        logger.error(f"Error updating {field} in post for {file}: {e}")
         sys.exit(1)
 
 def create_new_post(file, metadata):
@@ -127,13 +133,15 @@ def check_if_differences_exist(file, metadata):
             .eq("repo_url", metadata["repo_url"])
             .eq("file_path", metadata["file_path"])
             .single()
+            .execute()
         )
 
         fields = ["title", "content", "tags", "keywords", "updated_at", "created_at"]
 
         for field in fields:
-            if not check(response, metadata, field):
-                update_post_field_in_db(metadata, field)
+            if field in metadata:
+                if not check(response.data, metadata, field):
+                    update_post_field_in_db(metadata, field)
     except Exception as e:
         logger.error(f"Error checking differences for {file}: {e}")
         sys.exit(1)
@@ -144,7 +152,7 @@ def read_markdown_metadata(file_path):
             content = f.read()
 
         ret = extract_yaml_frontmatter(content)
-        ret["content"] = content
+        ret["content"] = remove_yaml_frontmatter(content)
         return ret
     except FileNotFoundError:
         logger.error(f"Markdown file not found: {file_path}")
@@ -164,7 +172,6 @@ def main():
         added_files = get_added_files_from_env()
         if not added_files:
             logger.info("No markdown files were added.")
-            return
 
         for file in added_files:
             if file.endswith('.md'):
@@ -178,7 +185,6 @@ def main():
         changed_files = get_changed_files_from_env()
         if not changed_files:
             logger.info("No markdown files were changed.")
-            return
 
         for file in changed_files:
             if file.endswith('.md'):
@@ -192,7 +198,6 @@ def main():
         deleted_files = get_deleted_files_from_env()
         if not deleted_files:
             logger.info("No markdown files were deleted.")
-            return
 
         for file in deleted_files:
             if file.endswith('.md'):
@@ -200,6 +205,7 @@ def main():
                 metadata = read_markdown_metadata(file)
                 # print("Markdown files were deleted.")
                 # print(metadata)
+                delete_post(file, metadata)
 
     except Exception as e:
         logger.error(f"An unexpected error occurred: {e}")
