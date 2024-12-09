@@ -27,6 +27,8 @@ jobs:
         id: changed-markdown-files
         uses: tj-actions/changed-files@v45
         with:
+          recover_deleted_files: true
+          recover_deleted_files_to_destination: 'actions/recovered'
           separator: ","
           files: |
             **/*.md

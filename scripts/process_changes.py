@@ -86,7 +86,7 @@ def update_post_field_in_db(metadata, field):
             .eq("file_path", metadata["file_path"])
             .execute()
         )
-        logger.info(f"Successfully updated {field} in post for {file}:\n{metadata[field]}")
+        logger.info(f"Successfully updated {field} in post for {file}")
     except Exception as e:
         logger.error(f"Error updating {field} in post for {file}: {e}")
         sys.exit(1)
@@ -119,7 +119,14 @@ def create_new_post(file, metadata):
 
 def delete_post(file, metadata):
     try:
-        _ = supabase.table("posts").delete().eq("id", metadata["id"]).execute()
+        _ = (
+            supabase
+            .table("posts")
+            .delete()
+            .eq("repo_url", metadata["repo_url"])
+            .eq("file_path", metadata["file_path"])
+            .execute()
+        )
     except Exception as e:
         logger.error(f"Error deleting post for {file}: {e}")
         sys.exit(1)
@@ -146,8 +153,11 @@ def check_if_differences_exist(file, metadata):
         logger.error(f"Error checking differences for {file}: {e}")
         sys.exit(1)
 
-def read_markdown_metadata(file_path):
+def read_markdown_metadata(file_path, deleted=False):
     try:
+        if deleted:
+            file_path = os.path.join("actions/recovered", file_path)
+
         with open(file_path, 'r') as f:
             content = f.read()
 
@@ -202,7 +212,7 @@ def main():
         for file in deleted_files:
             if file.endswith('.md'):
                 logger.info(f"Processing {file}")
-                metadata = read_markdown_metadata(file)
+                metadata = read_markdown_metadata(file, deleted=True)
                 # print("Markdown files were deleted.")
                 # print(metadata)
                 delete_post(file, metadata)
