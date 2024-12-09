@@ -1,7 +1,5 @@
-from uuid import uuid4
 import datetime
 import os
-import subprocess
 import logging
 import sys
 
@@ -20,11 +18,9 @@ SUPABASE_URL: str = os.getenv("SUPABASE_URL") or ""
 supabase: Client = create_client(SUPABASE_URL, API_KEY)
 
 def extract_yaml_frontmatter(text):
-    # Regular expression to find the YAML frontmatter (enclosed by '---')
     match = re.match(r"^---\n(.*?)\n---", text, re.DOTALL)
     if match:
         yaml_content = match.group(1)
-        # Parse the YAML content using PyYAML
         return yaml.safe_load(yaml_content)
     else:
         raise ValueError("No YAML frontmatter found")
