@@ -72,16 +72,16 @@
       <tuv lang="zh-CN">
         <seg>······…… 你对王选是有些想法吧？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225650Z" creationid="liray" creationdate="20241127T214914Z">
-        <seg>…You have some thoughts about the Royal Selection, don't you?"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081034Z" creationid="liray" creationdate="20241127T214914Z">
+        <seg>…You have some thoughts about the Royal Selection, don't you?]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>“...... 艾米莉娅姐姐大人的偷渡入境会被发现。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225555Z" creationid="liray" creationdate="20241127T012043Z">
-        <seg>"…Sister Emilia-sama's stowaway entry will be discovered."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080120Z" creationid="liray" creationdate="20241127T012043Z">
+        <seg>Petra: […Sister Emilia-sama's stowaway entry will be discovered.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="zh-CN">
         <seg>“......我没想到会有这么不方便。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225520Z" creationid="liray" creationdate="20241126T211100Z">
-        <seg>"…I didn't expect it to be this inconvenient."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T075030Z" creationid="liray" creationdate="20241126T211100Z">
+        <seg>Petra: […I did not expect it to be this inconvenient.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,8 +152,8 @@
       <tuv lang="zh-CN">
         <seg>“......是的。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T093329Z" creationid="liray" creationdate="20241127T080031Z">
-        <seg>"…Yes."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081332Z" creationid="liray" creationdate="20241127T080031Z">
+        <seg>Petra: […Yes.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,16 +248,16 @@
       <tuv lang="zh-CN">
         <seg>“────”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T230932Z" creationid="liray" creationdate="20241127T020822Z">
-        <seg>"――――"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081543Z" creationid="liray" creationdate="20241127T020822Z">
+        <seg>Emilia: [――――]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>“──。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T231012Z" creationid="liray" creationdate="20241127T221131Z">
-        <seg>"――.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T082038Z" creationid="liray" creationdate="20241127T221131Z">
+        <seg>Petra: [――.</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +312,8 @@
       <tuv lang="zh-CN">
         <seg>“──嗯”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T230942Z" creationid="liray" creationdate="20241127T031133Z">
-        <seg>"――Ehn"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080816Z" creationid="liray" creationdate="20241127T031133Z">
+        <seg>Emilia: [――Ehn]</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,8 +328,8 @@
       <tuv lang="zh-CN">
         <seg>“──我想我是不是听到了与王国的交涉一词？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T230846Z" creationid="liray" creationdate="20241126T221724Z">
-        <seg>"――I think I heard you say 'negotiation with the Kingdom?'"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T075853Z" creationid="liray" creationdate="20241126T221724Z">
+        <seg>???: [――I think I heard you say "negotiation with the Kingdom?"]</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,8 +360,8 @@
       <tuv lang="zh-CN">
         <seg>“──？</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T230825Z" creationid="liray" creationdate="20241126T212906Z">
-        <seg>"――?</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T075322Z" creationid="liray" creationdate="20241126T212906Z">
+        <seg>Musica: [――?</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +376,8 @@
       <tuv lang="zh-CN">
         <seg>“一定要这样？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T014914Z" creationid="liray" creationdate="20241127T014904Z">
-        <seg>"It has to be like this?"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080248Z" creationid="liray" creationdate="20241127T014904Z">
+        <seg>Emilia: [It has to be like this?]</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,8 +392,8 @@
       <tuv lang="zh-CN">
         <seg>“不好的、意味？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225646Z" creationid="liray" creationdate="20241127T214621Z">
-        <seg>"In a bad… sense?"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080923Z" creationid="liray" creationdate="20241127T214621Z">
+        <seg>Petra: [In a bad… sense?]</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,8 @@
       <tuv lang="zh-CN">
         <seg>“为什么你想让艾米莉娅大人放弃王选呢？</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T073606Z" creationid="liray" creationdate="20241130T073606Z">
-        <seg>"Why do you want Emilia-sama to give up the Royal Selection?</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T082413Z" creationid="liray" creationdate="20241130T073606Z">
+        <seg>Petra: [Why do you want Emilia-sama to give up the Royal Selection?</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,8 +448,8 @@
       <tuv lang="zh-CN">
         <seg>“也许是我们听错了。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241126T225239Z" creationid="liray" creationdate="20241126T225034Z">
-        <seg>"Maybe we heard it wrong.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T075740Z" creationid="liray" creationdate="20241126T225034Z">
+        <seg>Roswaal: [Maybe we heard it wrong.</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,8 +512,8 @@
       <tuv lang="zh-CN">
         <seg>“你们要以我们作为人质，与王国谈论什么事情呢？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T024957Z" creationid="liray" creationdate="20241127T024904Z">
-        <seg>"What is it that you want to discuss with the kingdom, using us as hostages?"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080636Z" creationid="liray" creationdate="20241127T024904Z">
+        <seg>Petra: [What is it that you want to discuss with the kingdom, using us as hostages?]</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,8 +528,8 @@
       <tuv lang="zh-CN">
         <seg>“你没听错。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241126T233707Z" creationid="liray" creationdate="20241126T225156Z">
-        <seg>"You didn't mishear.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T075957Z" creationid="liray" creationdate="20241126T225156Z">
+        <seg>Musica: [You didn't mishear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +544,8 @@
       <tuv lang="zh-CN">
         <seg>“你给了个很有气量的回答......但我们也已经开始行动了。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225623Z" creationid="liray" creationdate="20241127T023122Z">
-        <seg>"You gave a very dignified answer… but we've already started taking action.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080614Z" creationid="liray" creationdate="20241127T023122Z">
+        <seg>Musica: [You gave a very dignified answer… but we've already started taking action.</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,8 +560,8 @@
       <tuv lang="zh-CN">
         <seg>“佩特拉大小姐，即使与他们对话也……”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T064404Z" creationid="liray" creationdate="20241130T064303Z">
-        <seg>"Lady Petra, even having this dialogue with them…"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081439Z" creationid="liray" creationdate="20241130T064303Z">
+        <seg>Roswaal: [Lady Petra, even having this dialogue with them…]</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +576,8 @@
       <tuv lang="zh-CN">
         <seg>“别说得太复杂。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T214831Z" creationid="liray" creationdate="20241127T214831Z">
-        <seg>"Don't make it too complicated.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081041Z" creationid="liray" creationdate="20241127T214831Z">
+        <seg>Emilia: [Don't make it too complicated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -696,8 +696,8 @@
       <tuv lang="zh-CN">
         <seg>“哦，你们要向王国报告我们的事情吗？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241126T231718Z" creationid="liray" creationdate="20241126T230123Z">
-        <seg>"Oh, you're going to report us to the Kingdom?"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080104Z" creationid="liray" creationdate="20241126T230123Z">
+        <seg>Petra: [Oh, you're going to report us to the Kingdom?]</seg>
       </tuv>
     </tu>
     <tu>
@@ -712,8 +712,8 @@
       <tuv lang="zh-CN">
         <seg>“唔，不太确定。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T214200Z" creationid="liray" creationdate="20241127T214200Z">
-        <seg>"Hmm, I'm not quite sure.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080901Z" creationid="liray" creationdate="20241127T214200Z">
+        <seg>Petra: [Hmm, I'm not quite sure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,16 +832,16 @@
       <tuv lang="zh-CN">
         <seg>“在紧急时刻使用的方法，不应在非紧急时刻使用。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T070152Z" creationid="liray" creationdate="20241130T070142Z">
-        <seg>"Methods meant for emergencies should not be used in non-emergency situations."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081617Z" creationid="liray" creationdate="20241130T070142Z">
+        <seg>Petra: [Methods meant for emergencies should not be used in non-emergency situations.]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>“在这种情况下你还能说出这种话，你真的是非常有胆量的小姐呢。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241126T211236Z" creationid="liray" creationdate="20241126T211236Z">
-        <seg>"Still being able to say that in this kind of situation, you really are a very courageous lady."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T075044Z" creationid="liray" creationdate="20241126T211236Z">
+        <seg>???: [Still being able to say that in this kind of situation, you really are a very courageous lady.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -872,16 +872,16 @@
       <tuv lang="zh-CN">
         <seg>“如果他们已经注意到了的话……”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225638Z" creationid="liray" creationdate="20241127T213106Z">
-        <seg>"If they've noticed…"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080831Z" creationid="liray" creationdate="20241127T213106Z">
+        <seg>Roswaal: [If they've noticed…]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>“如果你们能被说服的话。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T063604Z" creationid="liray" creationdate="20241130T063604Z">
-        <seg>"If you can be persuaded."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081422Z" creationid="liray" creationdate="20241130T063604Z">
+        <seg>Petra: [If you can be persuaded.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -912,8 +912,8 @@
       <tuv lang="zh-CN">
         <seg>“如果是连我这样的小姑娘都没法说服的诉求，国家也不会理会吧。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T071910Z" creationid="liray" creationdate="20241130T071910Z">
-        <seg>"If it is a demand that cannot convince even a little girl like me, then the country will not pay any notice to it."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081706Z" creationid="liray" creationdate="20241130T071910Z">
+        <seg>Petra: [If it is a demand that cannot convince even a little girl like me, then the country will not pay any notice to it.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -968,8 +968,8 @@
       <tuv lang="zh-CN">
         <seg>“小姐你们的生命并不能动摇国家。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T093322Z" creationid="liray" creationdate="20241130T062422Z">
-        <seg>"Miss, your lives cannot shake the country.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081319Z" creationid="liray" creationdate="20241130T062422Z">
+        <seg>Musica: [Miss, your lives cannot shake the country.</seg>
       </tuv>
     </tu>
     <tu>
@@ -984,8 +984,8 @@
       <tuv lang="zh-CN">
         <seg>“就立场而言，我想我们是富裕一方的人。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T063307Z" creationid="liray" creationdate="20241130T063307Z">
-        <seg>"In terms position, I think we're on the affluent side.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081357Z" creationid="liray" creationdate="20241130T063307Z">
+        <seg>Petra: [In terms position, I think we're on the affluent side.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1008,8 +1008,8 @@
       <tuv lang="zh-CN">
         <seg>“帕特拉修没事真是太好了......不过。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225541Z" creationid="liray" creationdate="20241126T215623Z">
-        <seg>"It's great that Patrasche is okay… but."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T075357Z" creationid="liray" creationdate="20241126T215623Z">
+        <seg>Emilia: [It's great that Patrasche is okay… but.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,24 +1088,24 @@
       <tuv lang="zh-CN">
         <seg>“我们可以破坏这个『常闇』。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T230336Z" creationid="liray" creationdate="20241127T022718Z">
-        <seg>"We can destroy this Eternal Darkness.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080553Z" creationid="liray" creationdate="20241127T022718Z">
+        <seg>Musica: [We can destroy this Eternal Darkness.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>“我们想和王国谈判的是，那个王选的候选人──那个叫艾米莉娅的半妖精候选人的退出。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T231008Z" creationid="liray" creationdate="20241127T215308Z">
-        <seg>"What we want to negotiate with the Kingdom is the withdrawal of a candidate of the Royal Selection―― The half-elf candidate called Emilia.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081100Z" creationid="liray" creationdate="20241127T215308Z">
+        <seg>Emilia: [What we want to negotiate with the Kingdom is the withdrawal of a candidate of the Royal Selection―― The half-elf candidate called Emilia.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>“我们的小......帕特拉修怎么样了？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225534Z" creationid="liray" creationdate="20241126T212853Z">
-        <seg>"How is our little one… Patrasche-chan doing?"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T075305Z" creationid="liray" creationdate="20241126T212853Z">
+        <seg>Emilia: [How is our little one… Patrasche-chan doing?]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1120,8 +1120,8 @@
       <tuv lang="zh-CN">
         <seg>“我对小姐你们并没有恶意。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T032803Z" creationid="liray" creationdate="20241127T014804Z">
-        <seg>"I have no malice towards you ladies.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080203Z" creationid="liray" creationdate="20241127T014804Z">
+        <seg>Musica: [I have no malice towards you Misses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,8 +1136,8 @@
       <tuv lang="zh-CN">
         <seg>“我并不是那个意思。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T072116Z" creationid="liray" creationdate="20241130T072016Z">
-        <seg>"That was not my intention."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T082218Z" creationid="liray" creationdate="20241130T072016Z">
+        <seg>Petra: [That was not my intention.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1152,8 +1152,8 @@
       <tuv lang="zh-CN">
         <seg>“我有什么向小姐你们解释的理由......”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225629Z" creationid="liray" creationdate="20241127T025038Z">
-        <seg>"What reason do I have to explain it to you lot…"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080643Z" creationid="liray" creationdate="20241127T025038Z">
+        <seg>Musica: [What reason do I have to explain it to you lot…]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,8 +1168,8 @@
       <tuv lang="zh-CN">
         <seg>“我相信这两人......相信艾米莉。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225617Z" creationid="liray" creationdate="20241127T023047Z">
-        <seg>"I trust those two… I trust Emily."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080606Z" creationid="liray" creationdate="20241127T023047Z">
+        <seg>Petra: [I trust those two… I trust Emily.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1248,8 +1248,8 @@
       <tuv lang="zh-CN">
         <seg>“是的。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T032839Z" creationid="liray" creationdate="20241127T014925Z">
-        <seg>"Yes.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080255Z" creationid="liray" creationdate="20241127T014925Z">
+        <seg>Musica: [Yes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1264,8 +1264,8 @@
       <tuv lang="zh-CN">
         <seg>“是的，没错。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T231458Z" creationid="liray" creationdate="20241126T230153Z">
-        <seg>"Yes, that's right…</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080045Z" creationid="liray" creationdate="20241126T230153Z">
+        <seg>Musica: [Yes, that's right…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1312,16 +1312,16 @@
       <tuv lang="zh-CN">
         <seg>“欸欸！”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T025200Z" creationid="liray" creationdate="20241127T025135Z">
-        <seg>"Ehh!"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080659Z" creationid="liray" creationdate="20241127T025135Z">
+        <seg>Emilia: [Ehh!]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>“正如穆吉卡所说，王选对王国来说非常重要。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T062304Z" creationid="liray" creationdate="20241130T062304Z">
-        <seg>"As Musica said, the Royal Selection is very important to the Kingdom.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081235Z" creationid="liray" creationdate="20241130T062304Z">
+        <seg>Petra: [As you said, the Royal Selection is very important to the Kingdom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1368,8 +1368,8 @@
       <tuv lang="zh-CN">
         <seg>“王位的选拔战，小姐你们也听说过了吧？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T031103Z" creationid="liray" creationdate="20241127T031103Z">
-        <seg>"The selection battle for royal throne, I'm sure you ladies have heard of it, haven't you?"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080804Z" creationid="liray" creationdate="20241127T031103Z">
+        <seg>Musica: [The selection battle for royal throne, I'm sure you Misses have heard of it, haven't you?]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1384,8 +1384,8 @@
       <tuv lang="zh-CN">
         <seg>“真是谨慎聪明的回答，在好的意味上。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T214459Z" creationid="liray" creationdate="20241127T214405Z">
-        <seg>"That's a very cautious and wise answer, in a good sense.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080913Z" creationid="liray" creationdate="20241127T214405Z">
+        <seg>Musica: [That's a very cautious and wise answer, in a good sense.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1416,16 +1416,16 @@
       <tuv lang="zh-CN">
         <seg>“等一下。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241207T084536Z" creationid="liray" creationdate="20241127T022429Z">
-        <seg>"Wait a moment."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080535Z" creationid="liray" creationdate="20241127T022429Z">
+        <seg>Musica: [Wait a moment.]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>“等一下等一下！</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T025920Z" creationid="liray" creationdate="20241127T025507Z">
-        <seg>"Wait a moment, wait a moment!</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080736Z" creationid="liray" creationdate="20241127T025507Z">
+        <seg>Musica: [Wait a moment, wait a moment!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1456,8 +1456,8 @@
       <tuv lang="zh-CN">
         <seg>“艾米莉。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T025116Z" creationid="liray" creationdate="20241127T025116Z">
-        <seg>"Emily."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080651Z" creationid="liray" creationdate="20241127T025116Z">
+        <seg>Petra: [Emily.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1480,8 +1480,8 @@
       <tuv lang="zh-CN">
         <seg>“艾米莉娅的，退出。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225655Z" creationid="liray" creationdate="20241127T215653Z">
-        <seg>"Emilia's… withdrawal."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081158Z" creationid="liray" creationdate="20241127T215653Z">
+        <seg>Emilia: [Emilia's… withdrawal.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1512,8 +1512,8 @@
       <tuv lang="zh-CN">
         <seg>“虽然对穆吉卡他们来说很可怜......”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225605Z" creationid="liray" creationdate="20241127T021729Z">
-        <seg>"As pitiful as it is for Musica and the others…"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080427Z" creationid="liray" creationdate="20241127T021729Z">
+        <seg>Petra: [As pitiful as it is for Musica and the others…]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1560,16 +1560,16 @@
       <tuv lang="zh-CN">
         <seg>“请告诉我。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T070856Z" creationid="liray" creationdate="20241130T070856Z">
-        <seg>"Please tell me.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081636Z" creationid="liray" creationdate="20241130T070856Z">
+        <seg>Petra: [Please tell me.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>“达德利。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T022050Z" creationid="liray" creationdate="20241127T022050Z">
-        <seg>"Dudley."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080522Z" creationid="liray" creationdate="20241127T022050Z">
+        <seg>Emilia: [Dudley.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1584,8 +1584,8 @@
       <tuv lang="zh-CN">
         <seg>“达德利，够了。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T064331Z" creationid="liray" creationdate="20241130T064331Z">
-        <seg>"Dudley, that's enough."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081500Z" creationid="liray" creationdate="20241130T064331Z">
+        <seg>Petra: [Dudley, enough.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1600,8 +1600,8 @@
       <tuv lang="zh-CN">
         <seg>“还有其他原因吗？</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T073624Z" creationid="liray" creationdate="20241130T073624Z">
-        <seg>"Is there any other reason?</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T082420Z" creationid="liray" creationdate="20241130T073624Z">
+        <seg>Musica: [Is there any other reason?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1632,8 +1632,8 @@
       <tuv lang="zh-CN">
         <seg>“这是个很有气势的要求啊……需要说一下，我们是以国家为对手，而不是小姐你们。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T071355Z" creationid="liray" creationdate="20241130T071344Z">
-        <seg>"That's a more than bold request… Let me make it clear, we’re up against the country, not you Misses.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081650Z" creationid="liray" creationdate="20241130T071344Z">
+        <seg>Musica: [That's a more than bold request… Let me make it clear, we’re up against the country, not you Misses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1648,8 +1648,8 @@
       <tuv lang="zh-CN">
         <seg>“这是动摇国家的大事。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T214056Z" creationid="liray" creationdate="20241127T213618Z">
-        <seg>"This is the major event shaking up the country.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080844Z" creationid="liray" creationdate="20241127T213618Z">
+        <seg>Musica: [This is the major event shaking up the country.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1664,16 +1664,16 @@
       <tuv lang="zh-CN">
         <seg>“这毕竟是偷渡入境。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T014638Z" creationid="liray" creationdate="20241127T013934Z">
-        <seg>"This is smuggling into a country, after all.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080133Z" creationid="liray" creationdate="20241127T013934Z">
+        <seg>Emilia: [This is smuggling into a country, after all.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>“这种行为毫无意义。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T063450Z" creationid="liray" creationdate="20241130T063450Z">
-        <seg>"This kind of behavior is meaningless.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081412Z" creationid="liray" creationdate="20241130T063450Z">
+        <seg>Musica: [This kind of behavior is meaningless.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1712,8 +1712,8 @@
       <tuv lang="zh-CN">
         <seg>“那绝对不行。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T073059Z" creationid="liray" creationdate="20241130T073059Z">
-        <seg>"That is absolutely not okay."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T082320Z" creationid="liray" creationdate="20241130T073059Z">
+        <seg>Petra: [That is absolutely not okay.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1760,8 +1760,8 @@
       <tuv lang="zh-CN">
         <seg>──但前提条件是，佩特拉她们必须确保到达帝国。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T061806Z" creationid="liray" creationdate="20241127T021835Z">
-        <seg>――However, the bottom line was that Petra and the others absolutely must reach the Empire.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080504Z" creationid="liray" creationdate="20241127T021835Z">
+        <seg>――The bottom line, however, was that Petra and the others absolutely must reach the Empire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1960,7 +1960,7 @@
       <tuv lang="zh-CN">
         <seg>一旦到了这次对话被打断，讨论无法进行的瞬间，罗兹瓦尔将开始毫不留情地对穆吉卡他们发动攻击。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T072926Z" creationid="liray" creationdate="20241130T072926Z">
+      <tuv lang="en-US" changeid="liray" changedate="20241208T082346Z" creationid="liray" creationdate="20241130T072926Z">
         <seg>The moment this conversation is cut short and the discussion could no longer continue, Roswaal would mercilessly attack Musica and the others.</seg>
       </tuv>
     </tu>
@@ -2304,8 +2304,8 @@
       <tuv lang="zh-CN">
         <seg>但即便如此，我还是希望你们能听从我们。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T014832Z" creationid="liray" creationdate="20241127T014832Z">
-        <seg>But even so, I hope you will listen to us."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080207Z" creationid="liray" creationdate="20241127T014832Z">
+        <seg>But even so, I hope you will listen to us.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2328,8 +2328,8 @@
       <tuv lang="zh-CN">
         <seg>但如果只从整体来看的话，我想身处王国中心的人们有不同意见。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T063343Z" creationid="liray" creationdate="20241130T063343Z">
-        <seg>But if you look at it as a whole, I think the central administration of the kingdom would have a different opinion."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081359Z" creationid="liray" creationdate="20241130T063343Z">
+        <seg>But if you look at it as a whole, I think the central administration of the kingdom would have a different opinion.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2568,8 +2568,8 @@
       <tuv lang="zh-CN">
         <seg>你是想这样说吗？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T062432Z" creationid="liray" creationdate="20241130T062432Z">
-        <seg>Is that what you mean to say?"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081322Z" creationid="liray" creationdate="20241130T062432Z">
+        <seg>Is that what you mean to say?]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2704,8 +2704,8 @@
       <tuv lang="zh-CN">
         <seg>佩特拉未经思考说出了这句话，而听到的土鼠人──穆吉卡低声笑了起来。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T060411Z" creationid="liray" creationdate="20241126T211617Z">
-        <seg>Petra spoke without thinking, and hearing that the moleman―― Musica silently whispered and laughed.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T075447Z" creationid="liray" creationdate="20241126T211617Z">
+        <seg>Petra spoke without thinking, and hearing that the Mole-person―― Musica, silently whispered and laughed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2768,8 +2768,8 @@
       <tuv lang="zh-CN">
         <seg>光这个理由就足够让她退出了。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T073732Z" creationid="liray" creationdate="20241130T073732Z">
-        <seg>That reason alone is enough to want her to withdraw."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T082422Z" creationid="liray" creationdate="20241130T073732Z">
+        <seg>That reason alone is enough to want her to withdraw.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2824,8 +2824,8 @@
       <tuv lang="zh-CN">
         <seg>再次说一遍，在这里和我们对立是不明智的。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T014957Z" creationid="liray" creationdate="20241127T014957Z">
-        <seg>Again, it would not be wise to antagonize us here."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080257Z" creationid="liray" creationdate="20241127T014957Z">
+        <seg>Again, it would not be wise to antagonize us here.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2912,8 +2912,8 @@
       <tuv lang="zh-CN">
         <seg>即使有人告发这件事，我们也没有生气的资格……但是，这么做我们会非~常的困扰。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241207T102528Z" creationid="liray" creationdate="20241127T014551Z">
-        <seg>Even if someone reports this matter, we have no right to be angry… but if that were to happen it would reaaally trouble us."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080140Z" creationid="liray" creationdate="20241127T014551Z">
+        <seg>Even if someone reports this matter, we have no right to be angry… but if that were to happen it would reaaally trouble us.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3132,8 +3132,8 @@
       <tuv lang="zh-CN">
         <seg>因此，希望小姐们能成为我们的人质。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T215339Z" creationid="liray" creationdate="20241127T215339Z">
-        <seg>Therefore, I hope that you ladies will become our hostages."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081104Z" creationid="liray" creationdate="20241127T215339Z">
+        <seg>Therefore, I hope that you ladies will become our hostages.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3260,8 +3260,8 @@
       <tuv lang="zh-CN">
         <seg>在那辆竜车的车厢里，除了佩特拉，还有艾米莉娅、罗兹瓦尔和另外一个人──那个最后仍在沉睡中的少女，正躺在跪着的罗兹瓦尔的胳膊中。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T061049Z" creationid="liray" creationdate="20241126T224305Z">
-        <seg>In the compartment of the dragon carriage, besides Petra there were Emilia, Roswaal, and one other person―― the girl who was still asleep in the arms of the kneeling Roswaal.l</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T075914Z" creationid="liray" creationdate="20241126T224305Z">
+        <seg>In the compartment of the dragon carriage, besides Petra there were Emilia, Roswaal, and one other person―― the girl who was still asleep in the arms of the kneeling Roswaal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3468,8 +3468,8 @@
       <tuv lang="zh-CN">
         <seg>如果小姐你明白的话，就请阻止你身边的两人......”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225610Z" creationid="liray" creationdate="20241127T023002Z">
-        <seg>If you understand, young miss, then please stop those two with you…"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080556Z" creationid="liray" creationdate="20241127T023002Z">
+        <seg>If you understand, young miss, then please stop those two with you…]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3508,8 +3508,8 @@
       <tuv lang="zh-CN">
         <seg>如果是这样，王国应该会倾听我们的话。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241126T230110Z" creationid="liray" creationdate="20241126T225637Z">
-        <seg>If so, the Kingdom should listen to us.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080005Z" creationid="liray" creationdate="20241126T225637Z">
+        <seg>If so, the Kingdom should listen to us.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3612,8 +3612,8 @@
       <tuv lang="zh-CN">
         <seg>小姐你们支持哪位候选人吗？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T214141Z" creationid="liray" creationdate="20241127T214047Z">
-        <seg>Do you have a preferred candidate, miss?"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080854Z" creationid="liray" creationdate="20241127T214047Z">
+        <seg>Do you have a preferred candidate, Miss?]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3652,8 +3652,8 @@
       <tuv lang="zh-CN">
         <seg>就算我们成为人质……”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T062359Z" creationid="liray" creationdate="20241130T062359Z">
-        <seg>Even if we become hostages…"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081310Z" creationid="liray" creationdate="20241130T062359Z">
+        <seg>Even if we became hostages…]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3780,8 +3780,8 @@
       <tuv lang="zh-CN">
         <seg>当然，我们也在关注着王选──但是，是在不好的意味上。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T230955Z" creationid="liray" creationdate="20241127T214447Z">
-        <seg>Of course, we're also keeping our eye on the Royal Selection―― but in a bad sense."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080915Z" creationid="liray" creationdate="20241127T214447Z">
+        <seg>Of course, we're also keeping our eye on the Royal Selection―― but in a bad sense.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3916,8 +3916,8 @@
       <tuv lang="zh-CN">
         <seg>我们想要一些材料来说服你们。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T071116Z" creationid="liray" creationdate="20241130T071052Z">
-        <seg>Because we need some material to convince you."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081637Z" creationid="liray" creationdate="20241130T071052Z">
+        <seg>Because we need some material to convince you.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3980,8 +3980,8 @@
       <tuv lang="zh-CN">
         <seg>我没有特别为你们提供说服材料的理由。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T071415Z" creationid="liray" creationdate="20241130T071415Z">
-        <seg>I have no particular reason to provide you with persuasive material."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081652Z" creationid="liray" creationdate="20241130T071415Z">
+        <seg>I have no particular reason to provide you with persuasive material.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4068,8 +4068,8 @@
       <tuv lang="zh-CN">
         <seg>所以，小姐你们是想说服我们吗？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T063552Z" creationid="liray" creationdate="20241130T063552Z">
-        <seg>So, do you Misses want to persuade us?"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081414Z" creationid="liray" creationdate="20241130T063552Z">
+        <seg>So, do you Misses want to persuade us?]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4124,8 +4124,8 @@
       <tuv lang="zh-CN">
         <seg>是因为艾米莉娅大人是半妖精吗？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T073619Z" creationid="liray" creationdate="20241130T073619Z">
-        <seg>Is it because Emilia is a half-elf?"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T082414Z" creationid="liray" creationdate="20241130T073619Z">
+        <seg>Is it because Emilia is a half-elf?]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4556,8 +4556,8 @@
       <tuv lang="zh-CN">
         <seg>现在后退是不可能的。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T023234Z" creationid="liray" creationdate="20241127T023234Z">
-        <seg>Backing out now is impossible."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080617Z" creationid="liray" creationdate="20241127T023234Z">
+        <seg>Backing out now is impossible.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4644,16 +4644,16 @@
       <tuv lang="zh-CN">
         <seg>真是一种天命吧。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241126T232148Z" creationid="liray" creationdate="20241126T231242Z">
-        <seg>It's a sort of destiny, don’t you think?"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080055Z" creationid="liray" creationdate="20241126T231242Z">
+        <seg>It's a sort of destiny, don’t you think?]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>真是个危险的小姐，真是的......”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T225634Z" creationid="liray" creationdate="20241127T025604Z">
-        <seg>You really are a dangerous lady, honestly…"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080738Z" creationid="liray" creationdate="20241127T025604Z">
+        <seg>You really are a dangerous lady, honestly…]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4964,8 +4964,8 @@
       <tuv lang="zh-CN">
         <seg>脏是脏了点，但不会让它受伤的。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241126T214137Z" creationid="liray" creationdate="20241126T214137Z">
-        <seg>It's a bit dirty, but it won't hurt her."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T075326Z" creationid="liray" creationdate="20241126T214137Z">
+        <seg>It's a bit dirty, but it won't hurt her.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -5226,7 +5226,7 @@
       </tuv>
     </tu>
     <tu>
-      <note>I'm still not to confident on this translation.
+      <note>I'm still not entirely confident in this translation.
 
 Supposedly, 挨拶代わりの質問 means "The question substituted for a proper greeting", and the Chinese 质问代替了回答 means "The question replaced the answer", and neither really makes much sense to me in this situation.
 
@@ -5236,8 +5236,8 @@ Just based on the flow of the conversation, my guess to the actual meaning would
       <tuv lang="zh-CN">
         <seg>质问代替了回答，这突然间得到的正确的答案，让佩特拉嘴巴微微一撇。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T095038Z" creationid="liray" creationdate="20241130T073942Z">
-        <seg>She had asked the question not expecting a serious answer, but this sudden response indicating that she was correct made Petra purse her lips.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241209T020035Z" creationid="liray" creationdate="20241130T073942Z">
+        <seg>She had asked the question not expecting a serious answer, but this sudden response indicating that she was correct made Petra purse her lips. [^1]: I'm still not entirely confident in this translation.\nSupposedly, 挨拶代わりの質問 means "The question substituted for a proper greeting", and the Chinese 质问代替了回答 means "The question replaced the answer", and neither really makes much sense to me in this situation.\nI'm guessing the Japanese is saying that Petra used a question as a way to start the conversation instead of a greeting, but this still doesn't fully make sense as they've already been talking with Musica for a while now.\nJust based on the flow of the conversation, my guess to the actual meaning would be something along the lines of Petra asking the question not expecting a serious answer, but from Musica's response she realizes that she hit the mark and it upsets her.\e</seg>
       </tuv>
     </tu>
     <tu>
@@ -5268,16 +5268,16 @@ Just based on the flow of the conversation, my guess to the actual meaning would
       <tuv lang="zh-CN">
         <seg>还~有……”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241130T061124Z" creationid="liray" creationdate="20241126T225134Z">
-        <seg>Aaalso~…"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T075826Z" creationid="liray" creationdate="20241126T225134Z">
+        <seg>Aaalso~…]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>还在评估中。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T214301Z" creationid="liray" creationdate="20241127T214301Z">
-        <seg>I'm still evaluating it."</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T080904Z" creationid="liray" creationdate="20241127T214301Z">
+        <seg>I'm still evaluating it.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -5372,7 +5372,7 @@ Just based on the flow of the conversation, my guess to the actual meaning would
       <tuv lang="zh-CN">
         <seg>这是一个真正对艾米莉娅阵营带着非常不利的目的的告白。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T215628Z" creationid="liray" creationdate="20241127T215438Z">
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081131Z" creationid="liray" creationdate="20241127T215438Z">
         <seg>This was a confession of an intention that was truly detrimental to the Emilia camp.</seg>
       </tuv>
     </tu>
@@ -5628,8 +5628,8 @@ Just based on the flow of the conversation, my guess to the actual meaning would
       <tuv lang="zh-CN">
         <seg>那是什么意思？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241127T221210Z" creationid="liray" creationdate="20241127T221138Z">
-        <seg>What do you mean?"</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081217Z" creationid="liray" creationdate="20241127T221138Z">
+        <seg>What do you mean?]</seg>
       </tuv>
     </tu>
     <tu>
@@ -5705,5 +5705,27 @@ Just based on the flow of the conversation, my guess to the actual meaning would
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Stand by me Pleiades Part 4.docx</prop>
+      <prop type="prev">与此相同，穆吉卡他们也挑衅了不该挑衅的对手。</prop>
+      <prop type="next">在陷阱的头顶，被隔在后面的竜车也应该被土鼠人包围了。</prop>
+      <tuv lang="zh-CN">
+        <seg>“────”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T081903Z" creationid="liray" creationdate="20241208T081903Z">
+        <seg>Petra: [――――]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Stand by me Pleiades Part 4.docx</prop>
+      <prop type="prev">“如果是连我这样的小姑娘都没法说服的诉求，国家也不会理会吧。”</prop>
+      <prop type="next">如果是为了拖延时间，这毫无意义。”</prop>
+      <tuv lang="zh-CN">
+        <seg>“──。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20241208T082052Z" creationid="liray" creationdate="20241208T082052Z">
+        <seg>Musica: [――.</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>

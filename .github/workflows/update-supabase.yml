@@ -1,0 +1,52 @@
+name: Update Supabase
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+
+jobs:
+  update-db:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml supabase
+
+      - name: Get all changed markdown files
+        id: changed-markdown-files
+        uses: tj-actions/changed-files@v45
+        with:
+          separator: ","
+          files: |
+            **/*.md
+
+      - name: List all changed files markdown files
+        if: steps.changed-markdown-files.outputs.any_changed == 'true'
+        run: |
+           IFS=$',' read -a MODIFIED_FILES_ARRAY <<< "${{ steps.changed-markdown-files.outputs.modified_files }}"
+           for file in "${MODIFIED_FILES_ARRAY[@]}"; do
+             echo $file
+           done
+        shell:
+           bash 
+
+      - name: Process changes
+        env:
+          CHANGED_MARKDOWN_FILES: ${{ steps.changed-markdown-files.outputs.modified_files }}
+          ADDED_MARKDOWN_FILES: ${{ steps.changed-markdown-files.outputs.added_files }}
+          DELETED_MARKDOWN_FILES: ${{ steps.changed-markdown-files.outputs.deleted_files }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          GITHUB_REPOSITORY_URL: ${{ github.repository }}
+        run: python scripts/process_changes.py
