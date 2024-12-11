@@ -9,7 +9,7 @@ REPO_URL = "liraymond04/re0-translations"
 
 cur_dir = os.getcwd()
 
-def generate_yaml_frontmatter(md_file_path):
+def generate_yaml_frontmatter(md_file_path, media_files):
     title = os.path.splitext(os.path.basename(md_file_path))[0]
     
     file_path = os.path.relpath(md_file_path, start=cur_dir)
@@ -20,12 +20,13 @@ title: {title}
 repo_url: {REPO_URL}
 file_path: {file_path}
 supabase_page_format: {str(SUPABASE_PAGE_FORMAT).lower()}
+media_files: {media_files}
 ---
 """
     return frontmatter
 
-def prepend_frontmatter_to_md(md_file_path):
-    frontmatter = generate_yaml_frontmatter(md_file_path)
+def prepend_frontmatter_to_md(md_file_path, media_files):
+    frontmatter = generate_yaml_frontmatter(md_file_path, media_files)
     
     print(md_file_path)
     with open(md_file_path, 'r', encoding='utf-8') as f:
@@ -33,6 +34,14 @@ def prepend_frontmatter_to_md(md_file_path):
 
     with open(md_file_path, 'w', encoding='utf-8') as f:
         f.write(frontmatter + content)
+
+def find_media_files(media_dir):
+    media_files = []
+    for root, _, files in os.walk(media_dir):
+        for file in files:
+            if file.lower().endswith(('.png', '.jpg')):
+                media_files.append(os.path.relpath(os.path.join(root, file), start=cur_dir))
+    return media_files
 
 def convert_docx_to_md(input_file, output_file, output_dir, lua_filter=None):
     inf = os.path.abspath(input_file)
@@ -46,7 +55,10 @@ def convert_docx_to_md(input_file, output_file, output_dir, lua_filter=None):
         os.chdir(output_dir)
         subprocess.run(command, check=True)
         print(f"Converted {input_file} to {output_file}")
-        prepend_frontmatter_to_md(dir)
+
+        media_files = find_media_files("./")
+
+        prepend_frontmatter_to_md(dir, media_files)
     except subprocess.CalledProcessError:
         print(f"Error converting {input_file} to {output_file}")
     finally:

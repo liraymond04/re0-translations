@@ -151,7 +151,7 @@ def check_if_differences_exist(file, metadata):
         )
 
         updated = False
-        fields = ["title", "content", "tags", "keywords", "updated_at", "created_at"]
+        fields = ["title", "content", "tags", "keywords", "media_files", "updated_at", "created_at"]
 
         for field in fields:
             if field in metadata:
