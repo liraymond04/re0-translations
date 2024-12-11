@@ -1,4 +1,4 @@
-name: Update Supabase
+name: Process Markdown
 
 on:
   push:

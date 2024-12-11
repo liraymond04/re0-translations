@@ -1,4 +1,4 @@
-name: Update Supabase
+name: Process Image files
 
 on:
   push:
