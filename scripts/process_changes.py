@@ -150,12 +150,24 @@ def check_if_differences_exist(file, metadata):
             .execute()
         )
 
+        updated = False
         fields = ["title", "content", "tags", "keywords", "updated_at", "created_at"]
 
         for field in fields:
             if field in metadata:
                 if not check(response.data, metadata, field):
                     update_post_field_in_db(metadata, field)
+                    updated = True
+
+        if updated:
+            _ = (
+                supabase.table("posts")
+                .update({"updated_at": str(datetime.datetime.now())})
+                .eq("repo_url", metadata["repo_url"])
+                .eq("file_path", metadata["file_path"])
+                .execute()
+            )
+            logger.info(f"Successfully updated updated_at in post for {file}")
     except Exception as e:
         logger.error(f"Error checking differences for {file}: {e}")
         sys.exit(1)

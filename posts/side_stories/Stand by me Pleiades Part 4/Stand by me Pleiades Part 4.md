@@ -10,7 +10,7 @@ supabase_page_format: true
 <img src="./media/image2.png"
 style="margin:auto;height:auto;width:6.5in" />
 
-Stand by me Pleiades Part 4
+SBMP Part 4
 
 </div>
 
