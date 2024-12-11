@@ -10,17 +10,17 @@ The dictionary used is the [CC-CEDICT](https://www.mdbg.net/chinese/dictionary?p
 
 ## Converting docx to markdown
 
-The `scripts` directory contains a Python script that searches for OmegaT projects that contain translated documents in their `target` directories
+The `scripts` directory contains a [Python](https://www.python.org/) script that searches for OmegaT projects that contain translated documents in their `target` directories
 
 OmegaT projects contain an `omegat.project` file in its directory, and translated documents are converted using [Pandoc](https://pandoc.org/), and its relative path in the project root is mirrored and outputted to a specified output directory
 
 ### Requirements
 
-Install [pandoc](https://github.com/jgm/pandoc) via your system's respective package manager
+Install [pandoc](https://github.com/jgm/pandoc) and Python via your system's respective package manager
 
 ```bash
 # Arch Linux
-$: sudo pacman -S pandoc
+$: sudo pacman -S --needed pandoc python
 ```
 
 ### Usage
