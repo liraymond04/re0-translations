@@ -38,7 +38,7 @@ jobs:
       - name: List all changed image files
         if: steps.changed-image-files.outputs.any_changed == 'true'
         run: |
-           IFS=$',' read -a MODIFIED_FILES_ARRAY <<< "${{ steps.changed-image-files.outputs.modified_files }}"
+           IFS=$',' read -a MODIFIED_FILES_ARRAY <<< "${{ steps.changed-image-files.outputs.all_modified_files }}"
            for file in "${MODIFIED_FILES_ARRAY[@]}"; do
              echo $file
            done

@@ -36,7 +36,7 @@ jobs:
       - name: List all changed files markdown files
         if: steps.changed-markdown-files.outputs.any_changed == 'true'
         run: |
-           IFS=$',' read -a MODIFIED_FILES_ARRAY <<< "${{ steps.changed-markdown-files.outputs.modified_files }}"
+           IFS=$',' read -a MODIFIED_FILES_ARRAY <<< "${{ steps.changed-markdown-files.outputs.all_modified_files }}"
            for file in "${MODIFIED_FILES_ARRAY[@]}"; do
              echo $file
            done

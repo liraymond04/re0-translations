@@ -1,6 +1,7 @@
 import os
 import logging
 import sys
+import mimetypes
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -10,8 +11,13 @@ from supabase import create_client, Client
 
 API_KEY: str = os.getenv("SUPABASE_SERVICE_KEY") or ""
 SUPABASE_URL: str = os.getenv("SUPABASE_URL") or ""
+repo_url: str = os.getenv("GITHUB_REPOSITORY_URL") or ""
 
 supabase: Client = create_client(SUPABASE_URL, API_KEY)
+
+def get_content_type(file_path):
+    content_type, _ = mimetypes.guess_type(file_path)
+    return content_type
 
 def get_added_files_from_env():
     try:
@@ -69,8 +75,12 @@ def update_image(file):
         with open(file, "rb") as f:
             _ = supabase.storage.from_("images").upload(
                 file=f,
-                path=file,
-                file_options={"cache-control": "3600", "upsert": "true"},
+                path=os.path.join(repo_url, file),
+                file_options={
+                    "content-type": get_content_type(file) or "text/plain;charset=UTF-8",
+                    "cache-control": "3600",
+                    "upsert": "true"
+                },
             )
         logger.info(f"Successfully updated {file}")
     except Exception as e:
@@ -82,8 +92,12 @@ def create_image(file):
         with open(file, "rb") as f:
             _ = supabase.storage.from_("images").upload(
                 file=f,
-                path=file,
-                file_options={"cache-control": "3600", "upsert": "false"},
+                path=os.path.join(repo_url, file),
+                file_options={
+                    "content-type": get_content_type(file) or "text/plain;charset=UTF-8",
+                    "cache-control": "3600",
+                    "upsert": "false"
+                },
             )
         logger.info(f"Successfully created {file}")
     except Exception as e:
@@ -92,7 +106,7 @@ def create_image(file):
 
 def delete_image(file):
     try:
-        supabase.storage.from_("images").remove([file])
+        supabase.storage.from_("images").remove([os.path.join(repo_url, file)])
         logger.info(f"Successfully deleted {file}")
     except Exception as e:
         logger.error(f"Error deleting post for {file}: {e}")
