@@ -1,0 +1,56 @@
+name: Update Supabase
+
+on:
+  push:
+    paths:
+      - '**/*.png'
+      - '**/*.jpg'
+
+jobs:
+  update-db:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install supabase
+
+      - name: Get all changed image files
+        id: changed-image-files
+        uses: tj-actions/changed-files@v45
+        with:
+          recover_deleted_files: true
+          recover_deleted_files_to_destination: 'actions/recovered'
+          separator: ","
+          files: |
+            **/*.png
+            **/*.jpg
+
+      - name: List all changed image files
+        if: steps.changed-image-files.outputs.any_changed == 'true'
+        run: |
+           IFS=$',' read -a MODIFIED_FILES_ARRAY <<< "${{ steps.changed-image-files.outputs.modified_files }}"
+           for file in "${MODIFIED_FILES_ARRAY[@]}"; do
+             echo $file
+           done
+        shell:
+           bash 
+
+      - name: Process changes
+        env:
+          CHANGED_IMAGE_FILES: ${{ steps.changed-image-files.outputs.modified_files }}
+          ADDED_IMAGE_FILES: ${{ steps.changed-image-files.outputs.added_files }}
+          DELETED_IMAGE_FILES: ${{ steps.changed-image-files.outputs.deleted_files }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          GITHUB_REPOSITORY_URL: ${{ github.repository }}
+        run: python scripts/update_buckets.py

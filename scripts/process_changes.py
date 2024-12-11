@@ -45,7 +45,7 @@ def get_added_files_from_env():
         ]
         return added_files
     except Exception as e:
-        logger.error(f"Error added added markdown files: {e}")
+        logger.error(f"Error parsing added markdown files: {e}")
         sys.exit(1)
 
 def get_deleted_files_from_env():
