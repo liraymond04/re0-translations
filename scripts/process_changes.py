@@ -30,6 +30,8 @@ def remove_yaml_frontmatter(text):
     content_without_frontmatter = re.sub(pattern, "", text, flags=re.DOTALL)
     return content_without_frontmatter
 
+excluded_files = ["LICENSE.md", "README.md"]
+
 def get_added_files_from_env():
     try:
         added_files_env = os.getenv("ADDED_MARKDOWN_FILES")
@@ -37,7 +39,10 @@ def get_added_files_from_env():
             logger.error("No added markdown files found in the environment variable.")
             return []
 
-        added_files = [file.strip() for file in added_files_env.split(",") if file.strip()]
+        added_files = [
+            file.strip() for file in added_files_env.split(",")
+            if file.strip() and file.strip() not in excluded_files
+        ]
         return added_files
     except Exception as e:
         logger.error(f"Error added added markdown files: {e}")
@@ -50,7 +55,10 @@ def get_deleted_files_from_env():
             logger.error("No deleted markdown files found in the environment variable.")
             return []
 
-        deleted_files = [file.strip() for file in deleted_files_env.split(",") if file.strip()]
+        deleted_files = [
+            file.strip() for file in deleted_files_env.split(",")
+            if file.strip() and file.strip() not in excluded_files
+        ] 
         return deleted_files
     except Exception as e:
         logger.error(f"Error parsing deleted markdown files: {e}")
@@ -63,7 +71,10 @@ def get_changed_files_from_env():
             logger.error("No changed markdown files found in the environment variable.")
             return []
 
-        changed_files = [file.strip() for file in changed_files_env.split(",") if file.strip()]
+        changed_files = [
+            file.strip() for file in changed_files_env.split(",")
+            if file.strip() and file.strip() not in excluded_files
+        ]
         return changed_files
     except Exception as e:
         logger.error(f"Error parsing changed markdown files: {e}")

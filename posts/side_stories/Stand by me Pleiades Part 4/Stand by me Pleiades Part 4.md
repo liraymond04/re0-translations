@@ -312,7 +312,7 @@ continued.
 
 That was――
 
-Emilia: \[What we want to negotiate with the Kingdom is the withdrawal
+Musica: \[What we want to negotiate with the Kingdom is the withdrawal
 of a candidate of the Royal Selection―― The half-elf candidate called
 Emilia. Therefore, I hope that you ladies will become our hostages.\]
 
@@ -473,7 +473,7 @@ She had asked the question not expecting a serious answer, but this
 sudden response indicating that she was correct made Petra purse her
 lips. [^1]
 
-[^1]: I'm still not entirely confident in this translation.<br>Supposedly, 挨拶代わりの質問 means "The question substituted for a proper greeting", and the Chinese 质问代替了回答 means "The question replaced the answer", and neither really makes much sense to me in this situation.<br>I'm guessing based on the Japanese, that it's saying that Petra used a question as a way to start the converstion instead of a greeting, but this still doesn't fully make sense as they've already been talking with Musica for a while now.<br>Just based on the flow of the conversation, my guess to the actual meaning would be something along the lines of Petra asking the question not expecting a serious answer, but from based on the response she realizes that she hit the mark and the response upset her.
+[^1]: I'm still not entirely confident in this translation.<br>Supposedly, 挨拶代わりの質問 means "The question substituted for a proper greeting", and the Chinese 质问代替了回答 means "The question replaced the answer", and neither really makes much sense to me in this situation.<br>I'm guessing the Japanese is saying that Petra used a question as a way to start the conversation instead of a greeting, but this still doesn't fully make sense as they've already been talking with Musica for a while now.<br>Just based on the flow of the conversation, my guess to the actual meaning would be something along the lines of Petra asking the question not expecting a serious answer, but from Musica's response she realizes that she hit the mark and it upsets her.
 
 It was a logic that sounded all too familiar. For most people that hated
 Emilia, like Musica, they would list her background as a reason.
@@ -484,13 +484,13 @@ But, every time Petra heard it she felt frustrated.
 The reality is that people who knew nothing would arbitrarily lump
 together the term "half-elf" with Petra's beloved "Emilia."
 
-"Saying it like this, I have heard enough of it."
+Petra: \[Saying it like this, I have heard enough of it.\]
 
-"This just proves that a lot of people have the same idea. There's no
-point in a candidate becoming the country's king if so many people turn
-their backs on them."
+Musica: \[This just proves that a lot of people have the same idea.
+There's no point in a candidate becoming the country's king if so many
+people turn their backs on them.\]
 
-"But even if it is like that――"
+Petra: \[But even if it is like that――\]
 
 No one would take drastic measures like Musica and the others.
 
@@ -499,7 +499,7 @@ Not because she was worried about angering them, but because she felt
 that what she was about to say was something that came too naturally to
 her.
 
-Emilia: \[――――\]
+Petra: \[――――\]
 
 Most people who hated Emilia had the same views as Musica and the
 others. However, these people would not going to riot to get Emilia to
@@ -517,10 +517,10 @@ from Musica and the others.
 
 If you think about the root cause of this reason――
 
-"――Emilia-sama's participation in the Royal Selection, is it undesirable
-to the people of Mole-people tribe?"
+Petra: \[――Emilia-sama's participation in the Royal Selection, is it
+undesirable to the people of Mole-people tribe?\]
 
-"――Hk!"
+Musica: \[――Hk!\]
 
 Musica reacted slightly sharply in response to Petra's thoughts.
 
@@ -539,7 +539,7 @@ Musica's ancestors fled the Empire and their descendants continued to
 live in Shamrock Valley, eking out a living by helping people smuggle
 into the country.
 
-"――Why?"
+Petra: \[――Why?\]
 
 This was not the Empire, there was no need for Musica and the others to
 cower.
@@ -553,7 +553,7 @@ place.
 They refused to interact with the outside world, their attitude of
 staying behind closed doors, it was like――
 
-"――like the Sanctuary."
+Petra: \[――like the Sanctuary.\]
 
 In Frederica and Garfiel's hometown, there was a settlement called the
 Sanctuary, home to demi-humans with a mysterious past.
@@ -573,12 +573,13 @@ a world that rejected the outside.
 If that was the case, then the reason they chose that lifestyle might
 also be the same.
 
-"Could it be that, the reason Musica and the others want Emilia to give
-up the Royal Selection has something to do with the Demi-human War?"
+Petra: \[Could it be that, the reason Musica and the others want Emilia
+to give up the Royal Selection has something to do with the Demi-human
+War?\]
 
-"…Miss, can you read people's minds?"
+Musica: \[…Miss, can you read people's minds?\]
 
-"I cannot. I do sometimes wish I could read them."
+Petra: \[I cannot. I do sometimes wish I could read them.\]
 
 Sometimes, Ram and Otto and the others said and did things that made you
 think they could read others's minds. Still, putting aside Otto, who
@@ -591,7 +592,7 @@ she was today.
 In any case, Musica's reaction proved the correctness of Petra's
 reasoning.
 
-"…Demi-human War"
+Petra: \[…Demi-human War\]
 
 ――That was the large-scale civil war that broke out in the Kingdom of
 Lugunica decades ago.
@@ -604,8 +605,8 @@ demi-humans.
 
 And the origin of this resentment was――
 
-"――The Witch of Envy, and the animosity towards demi-humans, including
-half-elves."
+Musica: \[――The Witch of Envy, and the animosity towards demi-humans,
+including half-elves.\]
 
 At the end of Petra's train of thought, it was none other than Musica
 who brought it to a close.
@@ -624,16 +625,16 @@ into a great firestorm.
 And that dreadful civil war, which wounded so many, caused untold
 suffering, and claimed countless lives――
 
-"The world has spent four hundred years carefully healing those old
-wounds. But the half-elf stirred things up by challenging a battle they
-had no hope of winning, and once again, blood has been spilled; it's
-just too much.
+Musica: \[The world has spent four hundred years carefully healing those
+old wounds. But the half-elf stirred things up by challenging a battle
+they had no hope of winning, and once again, blood has been spilled;
+it's just too much.\]
 
 ――Musica was afraid of that happening again.
 
 3
 
-Emilia: \[――――\]
+???: \[――――\]
 
 Musica's low voice sounded as if it had been worn down by the combined
 weight of fear and fatigue.
@@ -646,53 +647,54 @@ her father.
 Moreover, this sentiment was not limited to Musica, but it carried the
 weight of four hundred years.
 
-"We don't want to be dragged into this. If we're talking about being
-dragged into something, we've already had more than enough of it."
+Musica: \[We don't want to be dragged into this. If we're talking about
+being dragged into something, we've already had more than enough of
+it.\]
 
-"Being dragged into this…"
+Petra: \[Being dragged into this…\]
 
-"Yes, these are the consequences of the mistakes made by my
+Musica: \[Yes, these are the consequences of the mistakes made by my
 grandfather's grandfather's generation. If you're a studious young lady,
-you should know it very well."
+you should know it very well.\]
 
-Emilia: \[――――\]
+Petra: \[――――\]
 
-"If it was something my parents and brothers did, I would give it up.
-But we don't even what know what the faces of our grandfather's
+Musica: \[If it was something my parents and brothers did, I would give
+it up. But we don't even what know what the faces of our grandfather's
 grandfather's generation looked like. Do we really have to live like
 this, in a hole in the ground, because of those people’s
-responsibility?"
+responsibility?\]
 
 Petra was at a loss for words in response to Musica's explanation.
 
 Petra herself had enjoyed the book Iris and the King of Thorns,
 including its tragic ending. However, it was not as pleasant for the
-parties who were still begin discussed hundres of years later.
+parties who were still begin discussed hundreds of years later.
 
 Musica was right, Petra knew nothing about her grandfather's
 grandfather's generation or her earlier ancestors. But that
 responsibility still weighed on them today.
 
-"But, that would be the same for the half-elves. There's no one that's
-like the Witch of Envy, and yet…"
+Petra: \[But, that would be the same for the half-elves. There's no one
+that's like the Witch of Envy, and yet…\]
 
-"You want to interfere with someone who is trying their best? …I told
-you before. I don't want to get caught up in it anymore."
+Musica: \[You want to interfere with someone who is putting in their
+all? …I told you before. I don't want to get caught up in it anymore.\]
 
 As if to quiet Petra, whose voice was trembling, Musica's tone lost its
 emotion. Calmly, he presented Petra with the irrefutable facts.
 
-"Having said that, we've accepted our situation. Just as there are
-people born rich and poor, there are Mole-people and other races. It is
-our destiny to live in the darkness and remain in the shadows."
+Musica: \[Having said that, we've accepted our situation. Just as there
+are people born rich and poor, there are Mole-people and other races. It
+is our destiny to live in the darkness and remain in the shadows.\]
 
-"This way of saying it…"
+Petra: \[This way of saying it…\]
 
-"For the kind Miss, this reality might be painful. But even those of us
-who have come to terms with the situation don't want it to get any worse
-than it already is."
+Musica: \[For the kind Miss, this reality might be painful. But even
+those of us who have come to terms with the situation don't want it to
+get any worse than it already is.\]
 
-"Worse, than it already is…"
+Emilia: \[Worse, than it already is…\]
 
 Hearing Musica's narration, Emilia could not help but speak up.
 
@@ -702,11 +704,12 @@ others present with Petra, and changed the tone of his voice.
 It shifted from an indifferent and dry tone to a cooler, more controlled
 one, with a touch of warmth aimed at making it easier to listen to.
 
-"The half-elf's participation in the Royal Selection, I have no idea
-what she or her supporters are doing, but from our perspective, all we
-can say is that it's just an obnoxious display.
+Musica: \[The half-elf's participation in the Royal Selection, I have no
+idea what she or her supporters are doing, but from our perspective, all
+we can say is that it's just an obnoxious display.\]
 
-"I also agree that I don't know what her supporters are thinking…"
+Roswaal: \[I also agree that I don't know what her supporters are
+thinking…\]
 
 Petra's gaze happened to glace at the culprit, Roswaal. Of course,
 Roswaal did give a response, and Petra was not expecting one.
@@ -714,30 +717,31 @@ Roswaal did give a response, and Petra was not expecting one.
 But no matter what Roswaal's intentions were, Emilia's intentions should
 be well known.
 
-"Emilia-sama's intentions have been clearly announced. Musica…"also
+Roswaal: \[Emilia-sama's intentions have been clearly announced. Musica
+also…\]
 
-"Improving the situations of those born without choices and placed in
-difficult circumstances… Yes, we've heard about that as well. ――but
-that's just unnecessary meddling in other people's business."
+Musica: \[Improving the situations of those born without choices and
+placed in difficult circumstances… Yes, we've heard about that as well.
+――but that's just unnecessary meddling in other people's business.\]
 
-"――Meddling in other people's business."
+Emilia: \[――Meddling in other people's business.\]
 
-"Yes, that's right, Miss Guard."
+Musica: \[Yes, that's right, Miss Guard.\]
 
 Unable to bear the casually cruel remark, Emilia obsessively ruminated
 on those words, which drew Musica's pointed anger towards her.
 
-"Half-elf… and of all things, same as the 'Witch of Envy', she bears
-silver hair and amethyst eyes. Who would want such a person to become
-their king?"
+Musica: \[Half-elf… and of all things, same as the 'Witch of Envy', she
+bears silver hair and amethyst eyes. Who would want such a person to
+become their king?\]
 
-"I- I don't understand. or example, I might be the someone who wants
-that."
+Petra: \[I- I don't understand. For example, I might be the someone who
+wants that.\]
 
-"In that case, I would be happy to tell her how precarious the situation
-for her supporters is."
+Musica: \[In that case, I would be happy to tell her how precarious the
+situation for her supporters is.\]
 
-"Ehn…"
+Petra: \[Ehn…\]
 
 This deliberately oppositional response revealed the impenetrability of
 Musica's stubbornness.
@@ -748,16 +752,16 @@ But to the side of the suppressed Petra, Emilia loudly called out again,
 Though she was hiding her true identity, but she could not conceal the
 sincerity that shone in her eyes.
 
-"Please tell me more. About what you said about meddling and being
-dragged into something."
+Emilia: \[Please tell me more. About what you said about meddling and
+being dragged into something.\]
 
-"――. Really, are you sure you're not trying to buy time? You're waiting
-to see what those people in the dragon carriage behind will do, aren't
-you?"
+Musica: \[――. Really, are you sure you're not trying to buy time? You're
+waiting to see what those people in the dragon carriage behind will do,
+aren't you?\]
 
-"It's nothing like that!"
+Emilia: \[It's nothing like that!\]
 
-"――I don't have much expectation from that side."
+Petra: \[――I don't have much expectation from that side.\]
 
 Petra answered clearly in place of Emilia, whose voice was trembling
 from being suspected.
@@ -784,28 +788,28 @@ would happen.
 Probably, the dragon carriage carriage on the other side was prepared to
 coordinate with Petra and the others's movements.
 
-"So, you can tell me everything you're thinking, it's okay."
+Petra: \[So, you can tell me everything you're thinking, it's okay.\]
 
-"Such a brazen answer." I don't really have any basis to believe that…
-it was about meddling and being dragged into things, right?"
+Musica: \[Such a brazen answer. I don't really have any basis to believe
+that… it was about meddling and being dragged into things, right?\]
 
 What he said was right, there was no credible basis for Petra's words.
 
 Even so, Musica maintained a solemn air, showing a posture as if to
 answer Emilia's question.
 
-"About the eyesore, do I need to explain? The half-elf has no chance of
-winning the Royal Selection itself, and she'll only draw attention to
-herself in a negative sense.
+Musica: \[About the eyesore, do I need to explain? The half-elf has no
+chance of winning the Royal Selection itself, and she'll only draw
+attention to herself in a negative sense.\]
 
-"That is just jumping to conclusions."
+Petra: \[That is just jumping to conclusions.\]
 
-"The studious young lady, to be un-studious only in this one thing, it's
-truly laughable. Miss, you should also know how much the Witch of Envy
-is feared. Moreover, just being able to remind you of her, that is the
-biggest problem."
+Musica: \[The studious young lady, to be un-studious only in this one
+thing, it's truly laughable. Miss, you should also know how much the
+Witch of Envy is feared. Moreover, just being able to remind you of her,
+that is the biggest problem.\]
 
-"Being able to remind…?"
+Petra: \[Being able to remind…?\]
 
 Hearing the strange phrasing, Petra could not help but tilt her head.
 
@@ -816,24 +820,24 @@ was impossible to forget, so there was no need to remember it.
 However, in response to Petra's thoughts, Musica clicked his tongue
 softly.
 
-"Being able to remind you of her, Miss. It's only when the half-elf
-appears in public, that everyone will remember the person they had been
-able to ignore and not be conscious of is actually real, that's how
-they'll think.
+Musica: \[Being able to remind you of her, Miss. It's only when the
+half-elf appears in public, that everyone will remember the person they
+had been able to ignore and not be conscious of is actually real, that's
+how they'll think.\]
 
-"…I do not really understand what you mean."
+Petra: \[…I do not really understand what you mean.\]
 
-"This is common sense to us. The Witch of Envy is a terrifying
+Musica: \[This is common sense to us. The Witch of Envy is a terrifying
 existence, and anything related to the half-elf who created it will only
-bring bad omens."
+bring bad omens.\]
 
-Emilia: \[――――\]
+Petra: \[――――\]
 
-"However, even if it is common sense, in other words, as long as you
-don't look straight at it, you can forget about it. Yes, I had already
-gone through the trouble of forgetting it. …but, the Royal Selection
-candidate, Emilia, was able to remind me. The fact that we used to be
-afraid of that thing."
+Musica: \[However, even if it is common sense, in other words, as long
+as you don't look straight at it, you can forget about it. Yes, I had
+already gone through the trouble of forgetting it. …but, the Royal
+Selection candidate, Emilia, was able to remind me. The fact that we
+used to be afraid of that thing.\]
 
 In the pitch black of the Eternal Darkness, Musica's cold, gloomy tone
 echoed, carrying a trace of moisture.
@@ -841,7 +845,7 @@ echoed, carrying a trace of moisture.
 While Petra listened to his words, she recalled, for the first time in a
 while, what had happened a long time ago.
 
-──she too was once just an ordinary village girl who feared the
+――she too was once just an ordinary village girl who feared the
 existence of the Witch of Envy.
 
 Regarding the Witch of Envy, she could not remember when she first about
@@ -854,7 +858,7 @@ and she had even cried from that fear before.
 It was so incomprehensible that it deeply pierced the girl's heart,
 engraving a primal fear into it.
 
-"…I was really scared."
+Petra: \[…I was really scared.\]
 
 Regarding the Witch who had never been seen or talked about, Petra
 feared it from the bottom of her heart. She had indeed spent sleepless
@@ -870,7 +874,7 @@ just the slightest trigger.
 For example, when the half-elf Royal Selection candidate made her
 appearance.
 
-"…Everyone in the village was awful too."
+Petra: \[…Everyone in the village was awful too.\]
 
 When the start of the Royal Selection was officially announced, and the
 news spread throughout the country, Petra clearly remembered the changes
@@ -883,35 +887,38 @@ incident, the villagers adopted a distant attitude towards her.
 Even though she had desperately tried to protect the villagers, no one
 listened to her.
 
-"Also, how does this connect to you getting dragged into it?"
+Emilia: \[Also, how does this connect to you getting dragged into it?\]
 
 With the same silver bell voice she had used when the villagers rejected
 her, Emilia tried her best to understand the true intentions that drove
 Musica to take this action.
 
-"If Emilia participates in the Royal Selection, everyone will think
-about the Witch… Ahhh, I think so too. But, why does this harm you
-guys?"
+Emilia: \[If Emilia participates in the Royal Selection, everyone will
+think about the Witch… Ahhh, I think so too. But, why does this harm you
+guys?\]
 
-"Nothing immediate would happen. But just as a calm river flows from
-upstream to downstream, the problem will flow downstream eventually."
+Musica: \[Nothing immediate would happen. But just as a calm river flows
+from upstream to downstream, the problem will flow downstream
+eventually.\]
 
-"――?"
+Emilia: \[――?\]
 
-"If the half-elf brings attention to the Witch, the same thing as in the
-past may happen again. I fear that this will fall upon us.
+Musica: \[If the half-elf brings attention to the Witch, the same thing
+as in the past may happen again. I fear that this will fall upon us.\]
 
-There was a sense of Musica slowly shaking his head, and he solemnly
-raised the question again.
+There was a sense that Musica was slowly shaking his head, and he
+solemnly raised the question again.
 
-"Supporting the weak, the ideals of the half-elf in this situation are
-noble, but this is not much different than a child's empty declaration
-that they will defeat the Sword Saint. If she were just a snot-nosed
-kid, we could ignore her. But the problem with this nature is…"
+Musica: \[Supporting the weak, the ideals of the half-elf in this
+situation are noble, but this is not much different than a child's empty
+declaration that they will defeat the Sword Saint. If she were just a
+snot-nosed kid, we could ignore her. But the problem with this nature
+is…\]
 
-"Because you cannot ignore Emilia, that's why it's reaaally troubling…"
+Emilia: \[Because you cannot ignore Emilia, that's why it's reaaally
+troubling…\]
 
-"Well, if you put it in a cute way, that's what it means."
+Musica: \[Well, if you put it in a cute way, that's what it means.\]
 
 The path to the conclusion was finally paved, and Musica nodded. Emilia
 understood his argument, and her well-shaped eyebrows furrowed with
@@ -920,32 +927,32 @@ thoughts.
 
 But this was――
 
-"At least, that's what I wanted to avoid. ――The second Demi-human War or
-something like that."
+Musica: \[At least, that's what I wanted to avoid. ――The second
+Demi-human War, or something like that.\]
 
-"That kind of situation."
+Petra: \[That kind of situation.\]
 
 It was just pessimism piled on pessimism, with malice fueling the
 imagination. It could even be called a persecutory delusion.
 
-However, just as petra was about to retort, she was stopped by Musica's
+However, just as Petra was about to retort, she was stopped by Musica's
 cold voice, "Really?".
 
-"Are we really overthinking this? That long time ago, when the
+Musica: \[Are we really overthinking this? That long time ago, when the
 Demi-human War first broke out, didn't everyone think that such a thing
-would never happen?"
+would never happen.\]
 
-Emilia: \[――――\]
+Petra: \[――――\]
 
-"I'm not blaming you, miss. If you say that we're too pessimistic, then
-that could be the case. But I suppose that's just the nature of us
-Mole-people, who only know how to mess with dirt. We can feel it, the
-tremors in the earth."
+Musica: \[I'm not blaming you, miss. If you say that we're too
+pessimistic, then that could be the case. But I suppose that's just the
+nature of us Mole-people, who only know how to mess with dirt. We can
+feel it, the tremors in the earth.\]
 
-"Tremors in the earth…"
+Petra: \[Tremors in the earth…\]
 
-"Yes. It's the omen of something big about to collapse, that kind of
-tremor in the earth."
+Musica: \[Yes. It's the omen of something big about to collapse, that
+kind of tremor in the earth.\]
 
 It was superstitious talk, yet it weighted heavily and deeply on Petra's
 heart.
@@ -960,7 +967,7 @@ wound was still shallow, holding on to a glimmer of hope.
 
 Because――
 
-"I do not want to doubt Sister Emilia-sama…"
+Petra: \[I do not want to doubt Sister Emilia-sama…\]
 
 Musica's logical argument could not be denied, because there was nothing
 wrong with his reasoning, except for being overly pessimistic.
@@ -977,7 +984,7 @@ fantastical "half-elf", how could they make them believe in Emilia?
 Merely hiding Emilia's identity would not be able to convince the Musica
 in front of them.
 
-"Emily, I…"
+Petra: \[Emily, I…\]
 
 For a moment, Petra was so shaken that she almost called out Emilia's
 name, but she managed to hold herself back.
@@ -985,9 +992,9 @@ name, but she managed to hold herself back.
 Although she wanted to do something to ease the pain in Emilia's heart,
 Petra found her own powerlessness unbearable――
 
-"――Petra-chan, it's okay"
+Emilia: \[――Petra-chan, it's okay\]
 
-"Ah…"
+Petra: \[Ah…\]
 
 Suddenly, her body was pulled close, and Petra's head rested against a
 warm chest.
@@ -1001,10 +1008,11 @@ heart beating.
 It should have been that being forced to bear this pain, doing her best
 to tell her
 
-"I thought about it. ――There must be a lot of people like Musica and the
-others. What should I do to make those people feel reassured?"
+Emilia: \[I thought about it. ――There must be a lot of people like
+Musica and the others. What should I do to make those people feel
+reassured?\]
 
-"What… what do you want to do…?"
+Musica: \[What… what do you want to do…?\]
 
 This was exactly the answer that Petra wanted most.
 
@@ -1014,17 +1022,17 @@ action?
 
 In this way, while Petra was waiting for an answer, Emilia――
 
-"I think the most important thing is to talk to them, make them
+Emilia: \[I think the most important thing is to talk to them, make them
 understand that I am completely different from the Witch of Envy. So I
-surely… No, I think Emilia would run."
+surely… No, I think Emilia would run.\]
 
-"Go, run…?"
+Musica: \[Go, run…?\]
 
-"Yup, that's right. When faced with people who are different from her,
-misunderstandings, or other difficulties, Emilia would run to that
-person and talk to them. She would keep talking, until the other person
-understood. If she won't be heard, she'll keep trying with all her might
-until they do!"
+Emilia: \[Yup, that's right. When faced with people who are different
+from her, misunderstandings, or other difficulties, Emilia would run to
+that person and talk to them. She would keep talking, until the other
+person understood. If she won't be heard, she'll keep trying with all
+her might until they do!\]
 
 The force of Emilia's tightly clenched fist was palpable, leaving Petra
 speechless.
@@ -1038,20 +1046,20 @@ philosophy as a solution to this problem?
 Firstly, even if Petra, who knew Emilia, agreed, how could Musica
 possibly be convinced?
 
-"Um, is it okay if I also ask about what Musica just said?"
+Emilia: \[Um, is it okay if I also ask about what Musica just said?\]
 
-"…What is it, Miss Guard?"
+Musica: \[…What is it, Miss Guard?\]
 
-"I reaaally understand how you feel about not wanting to trigger a
-second Demi-human War. I don't want that to happen either, if I can stop
-it I definitely will. But, what you said is a bit strange!"
+Emilia: \[I reaaally understand how you feel about not wanting to
+trigger a second Demi-human War. I don't want that to happen either, if
+I can stop it I definitely will. But, what you said is a bit strange!\]
 
-Emilia: \[――――\]
+Musica: \[――――\]
 
-"In the past, when the Demi-human War broke out, no one thought that
-such a thing would happen. But, we all know that the Demi-human War
+Emilia: \[In the past, when the Demi-human War broke out, no one thought
+that such a thing would happen. But, we all know that the Demi-human War
 already happened. The Demi-human War caused immense sorrow, and no one
-wants to repeat it."
+wants to repeat it.\]
 
 Musica's logical argument was based on past events and an assertion of
 Emilia's dangerousness.
@@ -1066,36 +1074,36 @@ probably would not think of something that clever.
 She just sincerely wanted to use past events as a way to reflect and
 make the future better.
 
-"If everyone disagrees, and Musica and the others know that, then the
-tremors in the earth that Musica said he heard were just a
-misunderstanding. This is what Emilia would think."
+Emilia: \[If everyone disagrees, and Musica and the others know that,
+then the tremors in the earth that Musica said he heard were just a
+misunderstanding. This is what Emilia would think.\]
 
-"…I'm starting to get a strange feeling."
+Musica: \[…I'm starting to get a strange feeling.\]
 
-"Strange feeling?"
+Emilia: \[Strange feeling?\]
 
 Emilia threw her unreasonable logic at him, leaving Musica speechless.
 The voice made Emilia tilt her head in confusion, and Musica exhaled
 deeply,
 
-"It felt like we were talking to the very candidate we were trying to
-get to withdraw, herself. What the Miss said about her preferred
-candidate, was that all just a joke?"
+Musica: \[It felt like we were talking to the very candidate we were
+trying to get to withdraw, herself. What the Miss said about her
+preferred candidate, was that all just a joke?\]
 
 Emilia's way of speaking and Petra's reaction, those two things had left
 Musica with that feeling.
 
 Despite her efforts to hide her identity, she was in a ragged state.
 Given the extent of her exposure, it would not be surprised if her
-identity were discovered, and Petra grit her teeth, neither confirming
-nor denying.
+identity were discovered; Petra grit her teeth, neither confirming nor
+denying.
 
 She loved Emilia's speech just now, it was so typical of her and
 completely ridiculous.
 
 But, it was not easy to realize those desires――
 
-"It's okay, I'm not the Witch of Envy, and I'm not alone."
+Emilia: \[It's okay, I'm not the Witch of Envy, and I'm not alone.\]
 
 Emilia's bold speech, grounded in the existence of Petra and her other
 comrades, struck Petra more profoundly than Musica's pessimistic words
@@ -1113,11 +1121,11 @@ and gentle half-elf.
 Not at all like the legendary Witch of Envy, a half-elf with silver hair
 and amethyst eyes――
 
-"――Ah"
+Petra: \[――Ah\]
 
 Suddenly, Petra realized something.
 
-Emilia: \[――――\]
+Petra: \[――――\]
 
 Petra's thoughts expanded as she recalled the conversation that had been
 exchanged in the Eternal Darkness thus far.
@@ -1131,7 +1139,8 @@ the dragon carriage.
 
 Then――
 
-"――Musica, you have never called Emilia a half-devil, have you?"
+Petra: \[――Musica, you have never called Emilia a half-devil, have
+you?\]
 
 That was the clue she had originally sought.
 
@@ -1143,8 +1152,8 @@ used her background as their reason.
 But, most of them called Emilia a "half-devil". Petra loathed the term,
 as it made her feel an intolerable sense of isolation.
 
-"But, Musica and the others have not done that even once. I remember it
-very clearly."
+Petra: \[But, Musica and the others have not done that even once. I
+remember it very clearly.\]
 
 Despite wishing for Emilia to be disqualified from the Royal Selection
 and voicing concerns about the dangers of her rise, Musica consistently
@@ -1154,28 +1163,29 @@ It was not because Musica did not actually dislike Emilia, which would
 be too naive to believe, but rather because of his own background. ――Not
 because of Emilia, but because of Musica himself.
 
-"Musica, you are also a Mole-person who has always been looked at with
-disdain by the people around you, right?"
+Petra: \[Musica, you are also a Mole-person who has always been looked
+at with disdain by the people around you, right?\]
 
 Musica knew that she would be exposed to prejudice, so he might have
 hesitated to disparage Emilia by calling her a "half-devil" himself.
 
 And Petra could not help but feel that this was the key to the plan.
 
-"Musica, what method do you plan to use to negotiate with the kingdom by
-taking us as hostages?"
+Petra: \[Musica, what method do you plan to use to negotiate with the
+kingdom by taking us as hostages?\]
 
-"――. It's not a difficult topic to bring up. The Regundra knows that
-we're with the Miss and the others. We'll report situation as it is to
-the Regundra family, and then report the news to the royal capital――"
+Musica: \[――. It's not a difficult topic to bring up. The Regundra
+family knows that we're with the Miss and the others. We'll report
+situation as it is to the Regundra family, and then report the news to
+the royal capital――\]
 
-"But, you know this plan is not going to work, right?"
+Petra: \[But, you know this plan is not going to work, right?\]
 
-Emilia: \[――――\]
+Musica: \[――――\]
 
-"Even with us as hostages, the bit shots in the country will not listen
-to you. Musica, you and the others should have known that from the
-beginning."
+Petra: \[Even with us as hostages, the bit shots in the country will not
+listen to you. Musica, you and the others should have known that from
+the beginning.\]
 
 As usual, the presence of the real Emilia would complicate things, but
 if Musica saw Petra and the others as just the entourage of a young
@@ -1184,14 +1194,16 @@ noblewoman, their plan would not succeed.
 That was if Musica and the others were really aiming to get Emilia to
 withdraw.
 
-"…I just believed it made sense to make waves."
+Musica: \[…I just believed it made sense to make waves.\]
 
-"In the beginning, you just wanted to stir up the storm, is that right?"
+Petra: \[In the beginning, you just wanted to stir up the storm, is that
+right?\]
 
-"Wha-… Hk!"
+Musica: \[Wha-… Hk!\]
 
-"Then, the Mole-people could be seen as those who bravely confronted the
-ones who brought back the terrifying memories of the Witch of Envy."
+Petra: \[Then, the Mole-people could be seen as those who bravely
+confronted the ones who brought back the terrifying memories of the
+Witch of Envy.\]
 
 After Petra's pointed remark, Musica's voice sounded audibly shaken for
 the first time. Unlike the previous feigned, guiding responses, this
@@ -1200,9 +1212,9 @@ time it was a shock from being directly hit by the unexpected.
 Receiving such a reaction, Petra finally felt a sense of accomplishment
 this time.
 
-"In the trap, you have been protecting Patrasche from being harmed and
-have been willing to talk to me like this; despite everything, I should
-have found that strange, but I did not."
+Petra: \[In the trap, you have been protecting Patrasche from being
+harmed and have been willing to talk to me like this; despite
+everything, I should have found that strange, but I did not.\]
 
 While protecting the trapped ground dragon, he said that he would not
 cooperate in buying time by having a patient conversation with the
@@ -1211,28 +1223,30 @@ Petra's time-buying trick.
 
 As the conversation progressed, the seeds of doubt were planted in
 Petra's heart―― these arrangements were all made in the hope that, when
-their demands ultimately failed, the conversation would spread from the
-mouths of Petra and the others once they were freed.
+their demands ultimately failed, this contents of this conversation
+would spread from the mouths of Petra and the others once they were
+freed.
 
-―― To prevent this situation, the Mole-people risked everything to be
-the first to speak out loudly.
+――If Emilia becomes the selected candidate, the second Demi-human War
+might break out. To prevent this situation, the Mole-people risked
+everything to be the first to speak out loudly.
 
-However, this plan required more than just a successful implementation
-of the apparent plan, it required a certain level of awareness.
+However, this plan required more than just the outward appearance of its
+successful execution, it required a certain level of awareness.
 
 The reason was――
 
-"If this story reaches the central administration of the country, the
-Mole-people's reputation would be tarnished. If you threaten the country
-by taking the Kingdom's nobles as hostages, then all the people of your
-tribe would suuurely~ be held accountable."
+Roswaal: \[If this story reaches the central administration of the
+country, the Mole-people's reputation would be tarnished. If you
+threaten the country by taking the Kingdom's nobles as hostages, then
+all the people of your tribe would suuurely~ be held accountable.\]
 
-"Guu… Hk!"
+Petra: \[Guu… Hk!\]
 
-"On the contrary, that's exactly what you waaanted~, isn't it? ――When
-accountability is called for and the penalties are widely known, people
-will seek answers. The heroic atrocities commited by the Mole-people for
-the sake of the world."
+Roswaal: \[On the contrary, that's exactly what you waaanted~, isn't it?
+――When accountability is called for and the penalties are widely known,
+people will seek answers. The heroic atrocities committed by the
+Mole-people for the sake of the world.\]
 
 Roswaal put Petra's inferences into words as if he were deeply
 dissecting them.
@@ -1251,9 +1265,10 @@ passive and observe.
 The reason behind this could somewhat be guessed, and it was
 infuriating.
 
-"But, I'm even more angry… It's like suicide for the Mole-people."
+Petra: \[But, I'm even more angry… It's like suicide for the
+Mole-people.\]
 
-"Eh…!?"
+Emilia: \[Eh…!?\]
 
 Emilia, slightly struggling to follow the conversation, widened her eyes
 at Petra's words. But, it was understandable that she could not keep up.
@@ -1264,13 +1279,13 @@ about the future of the kingdom.
 
 That was probably because――
 
-"Persecuted because of historical events, and rebelling against the
-absurdity of fate… It could be said that you fought your own fight to
-erase the prejudices directed at the Mole-people."
+Roswaal: \[Persecuted because of historical events, and rebelling
+against the absurdity of fate… It could be said that you fought your own
+fight to erase the prejudices directed at the Mole-people.\]
 
-"…I really don't want a Demi-human War to happen either."
+Petra: \[…I really don't want a Demi-human War to happen either.\]
 
-"Hoh, as expected of Lady Petra, you are really kind."
+Roswaal: \[Hoh, as expected of Lady Petra, you are really kind.\]
 
 Petra stuck out her tongue at the added sarcasm, and her disgust for
 Roswaal intensified.
@@ -1282,27 +1297,28 @@ conclusion that all their motives and intentions were despicable.
 That sort of perspective was no different from treating Emilia the same
 as "half-elves."
 
-"Musica, what do you and your group think?"
+Petra: \[Musica, what do you and your group think?\]
 
-"…It seems like we're cursed by a fate where nothing goes right."
+Musica: \[…It seems like we're cursed by a fate where nothing goes
+right.\]
 
 That voice conveyed an image of his shoulders slumping in defeat.
 
 With no room left for excuses and their plan exposed, Musica let out a
 hollow laugh. At this point, there was nothing left to do but laugh.
 
-"As the Miss and others have said, our intentions were exactly on this
-despicable plan… it was the foolish hope of those who betrayed Iris and
-incurred the wrath of the King of Thorns."
+Musica: \[As the Miss and others have said, our intentions were exactly
+on this despicable plan… it was the foolish hope of those who betrayed
+Iris and incurred the wrath of the King of Thorns.\]
 
 After a bout of laughter, Musica said this as if resigning himself.
 
 Petra and Roswaal's speculation was correct, they were battling the
 ghosts of their ancestors's actions.
 
-"Look, Musica, I――"
+Emilia: \[Look, Musica, I――\]
 
-"Emily, wait."
+Petra: \[Emily, wait.\]
 
 Emilia could not bear the sorrow in that voice, and a hint of resolve
 flashed in her own.
@@ -1326,8 +1342,8 @@ existence as a half-elf.
 What they should say to those who sought that honor but ultimately
 failed is――
 
-"――Musica, rather than negotiating with the kingdom, how about
-negotiating with me instead?"
+Petra: \[――Musica, rather than negotiating with the kingdom, how about
+negotiating with me instead?\]
 
 <div style="text-align:center">
 
@@ -1343,31 +1359,31 @@ Petra on the way back, from Tanpenshuu 8, illustrated by: 福きつね
 ――The passage through the Eternal Darkness leading into the Vollachian
 Empire was reopened, and the dragon carriage rocked forward.
 
-"My butt hurts…"
+???: \[My butt hurts…\]
 
 On the seat of the rocking dragon carriage, Petra muttered this while
 repeatedly adjusting the position of her butt.
 
 Hearing Petra's words, the presence sitting next to her said gently――
 
-"This is the consequence of your recklessness, just accept the pain and
-groan quietly."
+???: \[This is the consequence of your recklessness, just accept the
+pain and groan quietly.\]
 
-"…Ram nee-sama really is not gentle."
+Petra: \[…Ram nee-sama really is not gentle.\]
 
-"I wasn't gentle in the first place. Besides, to begin with I'm not even
-a nee-sama. Right, Lady Petra?"
+Ram: \[I wasn't gentle in the first place. Besides, to begin with I'm
+not even a nee-sama. Right, Lady Petra?\]
 
 Under those pale red eyes devoid of mercy, Petra slumped her shoulders
 and groaned, "Ugh…". And in the midst of such a conversation between
 Petra and Ram.
 
-"Ram, please don't bully Lady Petra."
+???: \[Ram, please don't bully Lady Petra.\]
 
-"Huu, Frederica nee-sama…"
+Petra: \[Huu, Frederica nee-sama…\]
 
-"Not nee-sama, Lady Petra. And while I did advise Ram, I'm still very
-angry, you know. Yes, I'm absolutely fuming."
+Frederica: \[Not nee-sama, Lady Petra. And while I did advise Ram, I'm
+still very angry, you know. Yes, I'm absolutely fuming.\]
 
 Sitting across from her was Frederica, her arms crossed and her emerald
 eyes narrowed, leaving Petra speechless.
@@ -1375,14 +1391,15 @@ eyes narrowed, leaving Petra speechless.
 Suddenly, a cheerful laugh rang out from the roof of the carriage,
 "Kuhahahaha!".
 
-"There's nothin' we can do about it now, Lady Petra. I can understand
-the feelin' that Sis and Ram are tryin' to express. But it feels good to
-surprise that bastard Roswaal."
+???: \[There's nothin' we can do about it now, Lady Petra. I can
+understand the feelin' that Sis and Ram are tryin' to express. But it
+feels good to surprise that bastard Roswaal.\]
 
-"Garf, please don't speak so flippantly! Lady Petra, if there is any
-change in your condition, please inform me immediately.
+Frederica: \[Garf, please don't speak so flippantly! Lady Petra, if
+there is any change in your condition, please inform me immediately.\]
 
-"I, I know. I'm sorry for making you worry, Frederica ne… Frederica."
+Petra: \[I, I know. I'm sorry for making you worry, Frederica ne…
+Frederica.\]
 
 Petra lowered her head as she spoke, and Frederica's brows furrowed with
 an "Honestly." Her expression carried not only a strong sense of
@@ -1393,23 +1410,23 @@ them, Petra had been constantly apologizing.
 
 But that was also to be expected.
 
-"I didn’t expect Lady Petra to negotiate for the other party’s approval…
-putting Emily aside for now, what is Dudley doing?"
+???: \[I didn’t expect Lady Petra to negotiate for the other party’s
+approval… putting Emily aside for now, what is Dudley doing?"
 
-"He was grinning, perversely watching to see if I'd fail."
+Petra: \[He was grinning, perversely watching to see if I'd fail.\]
 
-"It seems not too far from the truth, but there's a bias in the crucial
-part where it might have gone off course…!"
+Otto: \[It seems not too far from the truth, but there's a bias in the
+crucial part where it might have gone off course…!\]
 
 Otto, holding the reins at the driver's seat, responded to Petra's
 answer like this.
 
 However, in that darkness, he touched his hat, "Oh dear."
 
-"So, Lady Petra, are you really okay? ――What about the effects of the
-oath?"
+Otto: \[So, Lady Petra, are you really okay? ――What about the effects of
+the oath?\]
 
-"…It's fine. Really."
+Petra: \[…It's fine. Really.\]
 
 It might seem insincere to say, but it was the truth.
 
@@ -1420,13 +1437,13 @@ even stronger.
 Finally, there was the sense of accomplishment in being a member of
 Emilia's camp and becoming a part of her strength.
 
-"It's dangerous to get caught up in that feeling, you better be
-careful."
+Otto: \[It's dangerous to get caught up in that feeling, you better be
+careful.\]
 
-"As for Otto, it's already too late."
+Ram: \[As for Otto, it's already too late.\]
 
-"It's because I'm somewhat aware of it that I don't want you bringing it
-up!"
+Otto: \[It's because I'm somewhat aware of it that I don't want you
+bringing it up!\]
 
 Listening to Otto's high-pitched voice crack, Petra looked down at her
 own body―― confirming the existence of the Oath etched on the skin
@@ -1442,40 +1459,42 @@ approached them with negotiations before they lost their temper.
 
 Its contents were――
 
-"――Not in this way, but to properly let those around them know about the
-efforts of the Mole-people to prevent the outbreak of the Demi-human
-War."
+Petra: \[――Not in this way, but to properly let those around them know
+about the efforts of the Mole-people to prevent the outbreak of the
+Demi-human War.\]
 
-"For this reason, a meeting with Emilia-sama was arranged, as well as an
-opportunity for direct negotiations… It's quite a bold agreement to have
-secured, especially with the parties involved right next to each other."
+Ram: \[For this reason, a meeting with Emilia-sama was arranged, as well
+as an opportunity for direct negotiations… It's quite a bold agreement
+to have secured, especially with the parties involved right next to each
+other.\]
 
-"What the Mole-people desire is the removal of the disgrace brought by
-their ancestors… In that case, the current generation can rewrite it
-with a new evaluation. I think this would be a good compromise."
+Frederica: \[What the Mole-people desire is the removal of the disgrace
+brought by their ancestors… In that case, the current generation can
+rewrite it with a new evaluation. I think this would be a good
+compromise.\]
 
 Ram and Frederica each evaluated the oath Petra exchanged and its
 purpose. Ram’s tone was harsh, while Frederica’s was gentler.
 
 However――
 
-"Well, I suppose it might be a bit questionable to do the same thing as
-the Master for that reason."
+Frederica: \[Well, I suppose it might be a bit questionable to do the
+same thing as the Master for that reason.\]
 
 Even the gentle Frederica was still angry at the younger sister, Petra,
 for her bold actions. Petra had no idea how to calm that anger down.
 
-"Garf, do you have any good ideas?"
+Petra: \[Garf, do you have any good ideas?\]
 
-"Ah? I dunno, how 'bout givin' her something hard to chew on? Itchy
-teeth can really mess with yer mood, y'know?"
+Garfiel: \[Ah? I dunno, how 'bout givin' her something hard to chew on?
+Itchy teeth can really mess with yer mood, y'know?\]
 
-"Yeah, got it. I won't ask Garf anymore."
+Petra: \[Yeah, got it. I won't ask Garf anymore.\]
 
-"Gah…!?"
+Garfiel: \[Gah…!?\]
 
-The completely unsurprising evaluation shocked Garf, but she left him to
-it.
+The completely unsurprising evaluation shocked Garfiel, but she left him
+to it.
 
 ――Petra's decision angered Frederica, and possibly Ram as well.
 
@@ -1486,20 +1505,21 @@ If this oath were to be broken, Petra would lose her life. Of course,
 the conditions for its fulfillment were lenient. After all, all that was
 needed was for Musica and the others to speak with Emilia directly.
 
-"As long as we can make it back to Lugunica safely, there's no problem."
+Petra: \[As long as we can make it back to Lugunica safely, there's no
+problem.\]
 
 In that sense, the existence of this oath could also be seen as a
 declaration of Petra’s resolve. She would definitely reunite with Subaru
 and the others, and together, they would all return to the Kingdom.
 
-Only, there's nothing to be done if Frederica and the others get angry,
-there were things that Petra needed to reflect on.
+Only, there was nothing to be done if Frederica and the others got
+angry; there were things that Petra needed to reflect on.
 
 That was――
 
-"I just wanted to do something about the expression on the Master's face
-that said he knew everything, so I suggested making the oath in the same
-way as his, though it might have been a bit childish…"
+Petra: \[I just wanted to do something about the expression on the
+Master's face that said he knew everything, so I suggested making the
+oath in the same way as his, though it might have been a bit childish…\]
 
 ――But it was worth it, because the look on Roswaal’s face when she made
 that proposal was truly a masterpiece.
@@ -1509,60 +1529,61 @@ that proposal was truly a masterpiece.
 ――Just as Petra was being preached at by the companions she had
 rendezvoused with.
 
-"I really feel like I'm sooo lucky."
+???: \[I really feel like I'm sooo lucky.\]
 
-"Lucky? Even though something so upsetting happened because of
-Emilia-sama’s existence?"
+???: \[Lucky? Even though something so upsetting happened because of
+Emilia-sama’s existence?\]
 
-"Yes, that's right. Although I can't agree with what Musica and the
-others think or what they've done… I'm still happy to understand
+Emilia: \[Yes, that's right. Although I can't agree with what Musica and
+the others think or what they've done… I'm still happy to understand
 Petra-chan's feelings. Unlike Dudley, Petra-chan tried to prioritize my
-feelings."
+feelings.\]
 
-Emilia: \[――――\]
+Roswaal: \[――――\]
 
-"Ah, but pushing forward with conversations about oaths is really
-irritating!"
+Emilia: \[Ah, but pushing forward with conversations about oaths is
+really irritating!\]
 
-"Oath, ah…"
+Roswaa: \[Oath, ah…\]
 
-"Ros… Dudley?"
+Emilia: \[Ros… Dudley?\]
 
-"Nothing, I was just surprised by that. Not just the idea, but the way
-resolve was formed. Above all, it's the attitude of trying to save the
-very person who brought harm to you. It's just like…"
+Roswaal: \[Nothing, I was just surprised by that. Not just the idea, but
+the way resolve was formed. Above all, it's the attitude of trying to
+save the very person who brought harm to you. It's just like…\]
 
-"It's just like Subaru?"
+Emilia: \[It's just like Subaru?\]
 
-"Mmmm, it seems that Emily's influence is also at play. Oh dear, with
-this momentum…"
+Roswaal: \[Mmmm, it seems that Emily's influence is also at play. Oh
+dear, with this momentum…\]
 
-Musica: \[――? Why are you saying that like it's someone else's
-business?"
+Emilia: \[――? Why are you saying that like it's someone else's
+business?\]
 
-"…What's wrong?"
+Roswaal: \[…What's wrong?\]
 
-"Isn't Dudley the one who taught Petra all kinds of magic? So, Dudley's
-influence is also there. So, don't forget that, okay?
+Emilia: \[Isn't Dudley the one who taught Petra all kinds of magic? So,
+Dudley's influence is also there. So, don't forget that, okay?\]
 
-Emilia: \[――――\]
+Roswaal: \[――――\]
 
-"Ah, I'm going to go check on Patrasche. I'll also ask Musica how much
-longer until we can get out of the Eternal Darkness."
+Emilia: \[Ah, I'm going to go check on Patrasche. I'll also ask Musica
+how much longer until we can get out of the Eternal Darkness.\]
 
-Emilia: \[――――\]
+Roswaal: \[――――\]
 
-"…What's up with that strange face of yours, I suppose."
+???: \[…What's up with that strange face of yours, I suppose.\]
 
-"Oh─yah, are you awake?"
+Roswaal: \[Oh─yah, are you awake?\]
 
-"It was just for a moment… Did something happen while Betty was
-sleeping, I suppose?"
+???: \[It was just for a moment… Did something happen while Betty was
+sleeping, I suppose?\]
 
-"Yes, while you were sleeping…"
+Roswaal: \[Yes, while you were sleeping…\]
 
-"――?"
+Beatrice: \[――?\]
 
-"Something happened that’s incredibly difficult to put into words."
+Roswaal: \[Something happened that’s incredibly difficult to put into
+words.\]
 
 《To be continued》
