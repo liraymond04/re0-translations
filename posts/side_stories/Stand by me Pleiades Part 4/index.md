@@ -1,10 +1,10 @@
 ---
 layout: webnovel
-title: Stand by Me Pleiades Part 4
+title: Stand by me Pleiades Part 4
 repo_url: liraymond04/re0-translations
-file_path: posts/side_stories/Stand by Me Pleiades Part 4/index.md
+file_path: posts/side_stories/Stand by me Pleiades Part 4/index.md
 supabase_page_format: true
-media_files: ['posts/side_stories/Stand by Me Pleiades Part 4/media/image1.png', 'posts/side_stories/Stand by Me Pleiades Part 4/media/image2.png']
+media_files: ['posts/side_stories/Stand by me Pleiades Part 4/media/image1.png', 'posts/side_stories/Stand by me Pleiades Part 4/media/image2.png']
 tags: ['Re:Zero', 'Arc 7', 'Tanpenshuu 8']
 keywords: ['Petra', 'Roswaal', 'Emilia', 'Otto', 'Garfiel', 'Frederica', 'Ram', 'Patrasche', 'Musica', 'Iris and the King of Thorns', 'Vollachia', 'Lugunica', 'Mole-people', 'Demi-human War', 'oath']
 ---
