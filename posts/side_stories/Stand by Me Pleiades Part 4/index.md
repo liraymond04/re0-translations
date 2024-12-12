@@ -10,7 +10,6 @@ media_files: ['posts/side_stories/Stand by Me Pleiades Part 4/media/image1.png',
 
 <img src="./media/image2.png"
 style="margin:auto;height:auto;width:6.5in" />
-
 Stand by me Pleiades Part 4
 
 </div>
@@ -1350,7 +1349,6 @@ negotiating with me instead?\]
 
 <img src="./media/image1.png"
 style="margin:auto;height:auto;width:6.5in" />
-
 Petra on the way back, from Tanpenshuu 8, illustrated by: 福きつね
 
 </div>

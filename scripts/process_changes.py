@@ -105,6 +105,8 @@ def create_new_post(file, metadata):
             "content": metadata["content"],
             "repo_url": metadata["repo_url"],
             "file_path": metadata["file_path"],
+            "media_files": metadata["media_files"],
+            "layout": metadata["layout"],
             "updated_at": str(datetime.datetime.now())
         }
 

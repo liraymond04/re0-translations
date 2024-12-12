@@ -11,14 +11,18 @@ function is_image_followed_by_paragraph(image, para)
   return image and image.content[1].t == 'Image' and para
 end
 
-function Blocks (blocks)
-  for i = #blocks-1, 1, -1 do
+function Blocks(blocks)
+  for i = #blocks - 1, 1, -1 do
     local first, second = blocks[i], blocks[i + 1]
     if is_image_followed_by_paragraph(blocks[i], blocks[i + 1]) then
+      first.c:insert(pandoc.Str("\n"))
+      for _, v in ipairs(second.c) do
+        first.c:insert(v)
+      end
+
       local div = pandoc.Div({
         first,
-        second
-      }, {style = "text-align:center"})
+      }, { style = "text-align:center" })
 
       blocks:remove(i)
       blocks:remove(i)
@@ -32,7 +36,7 @@ function Blocks (blocks)
       if m then
         for name, body in pairs(m) do
           local div = pandoc.Para({ pandoc.RawInline("markdown", name .. " " .. body) })
-          blocks:insert(i+1, div)
+          blocks:insert(i + 1, div)
         end
       end
     end
@@ -41,13 +45,13 @@ function Blocks (blocks)
 end
 
 function removeRange(tbl, start, finish)
-    for i = finish, start, -1 do
-        table.remove(tbl, i)
-    end
+  for i = finish, start, -1 do
+    table.remove(tbl, i)
+  end
 end
 
 function trim1(s)
-   return (s:gsub("^%s*(.-)%s*$", "%1"))
+  return (s:gsub("^%s*(.-)%s*$", "%1"))
 end
 
 function manage(elem)
@@ -67,7 +71,7 @@ function manage(elem)
           note_str = note_str .. e.text:gsub("\\e", "")
           ret[note_name] = note_str
 
-          if note_begin-1 >= 1 and elem.c[note_begin-1].t == "Space" then
+          if note_begin - 1 >= 1 and elem.c[note_begin - 1].t == "Space" then
             note_begin = note_begin - 1
           end
           removeRange(elem.c, note_begin, i)
@@ -89,8 +93,8 @@ function manage(elem)
         e.text, _ = trim1(e.text):gsub(":", "")
         elem.c[i] = pandoc.RawInline("markdown", e.text)
         note_begin = i + 1
-        if elem.c[i+1].t == "Space" then
-          elem.c:remove(i+1)
+        if elem.c[i + 1].t == "Space" then
+          elem.c:remove(i + 1)
         end
       end
     elseif found_note and e.t == "Space" then
