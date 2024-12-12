@@ -9,10 +9,18 @@ REPO_URL = "liraymond04/re0-translations"
 
 cur_dir = os.getcwd()
 
-def generate_yaml_frontmatter(md_file_path, media_files):
+def generate_yaml_frontmatter(md_file_path, media_files, metadata):
     title = os.path.split(os.path.dirname(md_file_path))[1]
     
     file_path = os.path.relpath(md_file_path, start=cur_dir)
+
+    tags_and_keywords = ""
+    if "tags" in metadata or "keywords" in metadata:
+        if "tags" in metadata:
+            tags_and_keywords += f"\ntags: {metadata['tags']}"
+
+        if "keywords" in metadata:
+            tags_and_keywords += f"\nkeywords: {metadata['keywords']}"
 
     frontmatter = f"""---
 layout: {LAYOUT}
@@ -20,15 +28,14 @@ title: {title}
 repo_url: {REPO_URL}
 file_path: {file_path}
 supabase_page_format: {str(SUPABASE_PAGE_FORMAT).lower()}
-media_files: {media_files}
+media_files: {media_files}{tags_and_keywords}
 ---
 """
     return frontmatter
 
-def prepend_frontmatter_to_md(md_file_path, media_files):
-    frontmatter = generate_yaml_frontmatter(md_file_path, media_files)
+def prepend_frontmatter_to_md(md_file_path, media_files, metadata):
+    frontmatter = generate_yaml_frontmatter(md_file_path, media_files, metadata)
     
-    print(md_file_path)
     with open(md_file_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
@@ -43,7 +50,7 @@ def find_media_files(media_dir):
                 media_files.append(os.path.relpath(os.path.join(root, file), start=cur_dir))
     return media_files
 
-def convert_docx_to_md(input_file, output_file, output_dir, lua_filter=None):
+def convert_docx_to_md(input_file, output_file, output_dir, metadata, lua_filter=None):
     inf = os.path.abspath(input_file)
     dir = os.path.abspath(output_file)
     command = ['pandoc', '--extract-media', './', '-f', 'docx', '-t', 'gfm', inf, '-o', dir]
@@ -58,7 +65,7 @@ def convert_docx_to_md(input_file, output_file, output_dir, lua_filter=None):
 
         media_files = find_media_files("./")
 
-        prepend_frontmatter_to_md(dir, media_files)
+        prepend_frontmatter_to_md(dir, media_files, metadata)
     except subprocess.CalledProcessError:
         print(f"Error converting {input_file} to {output_file}")
     finally:
@@ -84,7 +91,20 @@ def process_directories(root_dir, output_dir, lua_filter=None):
                         
                         output_file = os.path.join(output_file_dir, "index.md")
                         
-                        convert_docx_to_md(input_file, output_file, output_file_dir, lua_filter)
+                        metadata = {}
+                        tags_path = os.path.join(dirpath, "tags.txt")
+                        if os.path.exists(tags_path):
+                            with open(tags_path, "r") as file:
+                                tags = file.readlines()
+                            metadata["tags"] = [tag.strip() for tag in tags]
+
+                        keywords_path = os.path.join(dirpath, "keywords.txt")
+                        if os.path.exists(keywords_path):
+                            with open(keywords_path, "r") as file:
+                                keywords = file.readlines()
+                            metadata["keywords"] = [keyword.strip() for keyword in keywords]
+
+                        convert_docx_to_md(input_file, output_file, output_file_dir, metadata, lua_filter)
             else:
                 # print(f"No target/ directory in {dirpath}")
                 pass
