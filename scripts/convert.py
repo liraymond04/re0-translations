@@ -10,7 +10,7 @@ REPO_URL = "liraymond04/re0-translations"
 cur_dir = os.getcwd()
 
 def generate_yaml_frontmatter(md_file_path, media_files):
-    title = os.path.splitext(os.path.basename(md_file_path))[0]
+    title = os.path.split(os.path.dirname(md_file_path))[1]
     
     file_path = os.path.relpath(md_file_path, start=cur_dir)
 
@@ -82,7 +82,7 @@ def process_directories(root_dir, output_dir, lua_filter=None):
                         
                         os.makedirs(output_file_dir, exist_ok=True)
                         
-                        output_file = os.path.join(output_file_dir, target_file.replace('.docx', '.md'))
+                        output_file = os.path.join(output_file_dir, "index.md")
                         
                         convert_docx_to_md(input_file, output_file, output_file_dir, lua_filter)
             else:

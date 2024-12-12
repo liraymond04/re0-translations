@@ -30,6 +30,7 @@ jobs:
         with:
           recover_deleted_files: true
           recover_deleted_files_to_destination: 'actions/recovered'
+          output_renamed_files_as_deleted_and_added: true
           separator: ","
           files: |
             **/*.png
