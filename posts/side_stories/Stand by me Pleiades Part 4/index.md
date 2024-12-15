@@ -16,28 +16,24 @@ Stand by me Pleiades Part 4
 
 </div>
 
-Translation: Tom1111335
+Translation: liraymond04
 
-Proofreading: Tom111335，Garcer
-
-Polishing: Tom11111335
-
-Source: Ice
+Source: Tom111335, https://www.bilibili.com/opus/823815542475325474
 
 This is a Comic Alive short story, published on September 27, 2022,
 which focuses on a confrontation between the Emilia camp and the
-Mole-people. The plot reversal is a great one (if you ignore the late
-anticlimactic twist).
+Mole-people.
 
-Before reading this article, it is recommended to read the previous
-short stories in this series to understand the background. The story of
+Before reading this side story, it is recommended to read the previous
+side stories in this series to understand the background. The story of
 this series takes place after the 25th volume of the main story (Subaru
 was transported to the Vollachian Empire, and this series tells the
-story of Emilia’s camp going there to find him), the previous short
-stories can be found in the table of contents of this collection.
+story of Emilia camp going there to find him), the previous side stories
+in this collection can be found translated in English by Eminent
+translations.
 
 **This article is for learning and communication purposes only,
-commercial use is prohibited Reprinting must be authorized by the
+commercial use is prohibited. Republishing must be authorized by the
 translator and indicate the source.**
 
 1
