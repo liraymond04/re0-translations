@@ -22,7 +22,10 @@ Source: Tom111335, https://www.bilibili.com/opus/823815542475325474
 
 This is a Comic Alive short story, published on September 27, 2022,
 which focuses on a confrontation between the Emilia camp and the
-Mole-people.
+Mole-people. Note that there may be some nuances lost from JP-\>CN-\>EN
+translation. I do my best to refer to the JP source text and adhere to
+the WCT Manual of Style https://t.ly/SdiGi, but the accuracy will not be
+100%.
 
 Before reading this side story, it is recommended to read the previous
 side stories in this series to understand the background. The story of

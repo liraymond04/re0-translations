@@ -3852,8 +3852,8 @@
       <tuv lang="zh-CN">
         <seg>情节反转连连，十分精彩（如果无视后期逆天转折的话）。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20241215T042043Z" creationid="liray" creationdate="20241126T233114Z">
-        <seg></seg>
+      <tuv lang="en-US" changeid="liray" changedate="20241215T054133Z" creationid="liray" creationdate="20241126T233114Z">
+        <seg>Note that there may be some nuances lost from JP->CN->EN translation. I do my best to refer to the JP source text and adhere to the WCT Manual of Style https://t.ly/SdiGi, but the accuracy will not be 100%.</seg>
       </tuv>
     </tu>
     <tu>
