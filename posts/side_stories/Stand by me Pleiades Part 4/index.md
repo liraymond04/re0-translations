@@ -59,8 +59,8 @@ Petra: \[…I did not expect it to be this inconvenient.\]
 ???: \[Still being able to say that in this kinda situation, ya really
 are a very courageous lady.\]
 
-Petra spoke without thinking, and hearingap that the Mole-person――
-Musica, silently whispered and laughed. His dull laugh annoyed Petra.
+Petra spoke without thinking, and hearing that the Mole-person―― Musica,
+silently whispered and laughed. His dull laugh annoyed Petra.
 
 The dragon carriage had been caught in a trap, and lay overturned on the
 ground. Fortunately, Petra had not hit her head and did not feel any
