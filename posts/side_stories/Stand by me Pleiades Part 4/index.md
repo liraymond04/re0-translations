@@ -483,7 +483,7 @@ Even Petra understood perfectly well how deeply rooted the problem was.
 But, every time Petra heard it she felt frustrated.
 
 The reality is that people who knew nothing would arbitrarily lump
-together the term "half-elf" with Petra's beloved "Emilia."
+together the term "half-elf" with Petra's beloved "Emilia".
 
 Petra: \[Saying it like this, I have heard enough of it.\]
 
@@ -732,7 +732,7 @@ Musica: \[Yes, that's right, Miss Guard.\]
 Unable to bear the casually cruel remark, Emilia obsessively ruminated
 on those words, which drew Musica's pointed anger towards her.
 
-Musica: \[Half-elf… and of all things, same as the 'Witch of Envy', she
+Musica: \[Half-elf… and of all things, same as the "Witch of Envy", she
 bears silver hair and amethyst eyes. Who'd want such a person to become
 their king?\]
 
@@ -748,7 +748,7 @@ This deliberately oppositional response revealed the impenetrability of
 Musica's stubbornness.
 
 But to the side of the suppressed Petra, Emilia loudly called out again,
-"Wait a moment."
+"Wait a moment".
 
 Though she was hiding her true identity, but she could not conceal the
 sincerity that shone in her eyes.
@@ -1297,7 +1297,7 @@ to Petra and the others. However, it would be biased to jump to the
 conclusion that all their motives and intentions were despicable.
 
 That sort of perspective was no different from treating Emilia the same
-as "half-elves."
+as "half-elves".
 
 Petra: \[Musica, what do you and your group think?\]
 
@@ -1403,7 +1403,7 @@ Petra: \[I, I know. I'm sorry for making you worry, Frederica ne…
 Frederica.\]
 
 Petra lowered her head as she spoke, and Frederica's brows furrowed with
-an "Honestly." Her expression carried not only a strong sense of
+an "Honestly". Her expression carried not only a strong sense of
 reproach but also even more concern.
 
 Since being placed into the dragon carriage of the group that rejoined
@@ -1422,7 +1422,7 @@ crucial part where it might have gone off course…!\]
 Otto, holding the reins at the driver's seat, responded to Petra's
 answer like this.
 
-However, in that darkness, he touched his hat with an "Oh dear."
+However, in that darkness, he touched his hat with an "Oh dear".
 
 Otto: \[So, Lady Petra, are you really okay? ――What about the effects of
 the oath?\]
